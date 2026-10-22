@@ -1,0 +1,4961 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_metro_stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.814824,
+          18.6151161
+        ]
+      },
+      "properties": {
+        "osm_id": 1401203615,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.807673,
+          18.5038889
+        ]
+      },
+      "properties": {
+        "osm_id": 2194045720,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Kothrud",
+        "name_en": "Kothrud",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "AND_a_nosr_p": "10005645",
+          "name": "Kothrud",
+          "name:en": "Kothrud",
+          "name:mr": "कोथरूड",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "postal_code": "411038",
+          "public_transport": "station",
+          "railway": "station",
+          "source": "AND",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8485711,
+          18.5304747
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584959,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Shivajinagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "name": "Shivajinagar",
+          "network": "Pune Metro Line 3 (Pink Line)",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8311472,
+          18.5911058
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584963,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Phugewadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Phugewadi",
+          "name:mr": "फुगेवाडी",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7615418,
+          18.5797092
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584964,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Balewadi Stadium",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "layer": "3",
+          "name": "Balewadi Stadium",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7028954,
+          18.5881015
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584965,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Doehler India",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "construction:railway": "station",
+          "layer": "3",
+          "name": "Doehler India",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8458072,
+          18.5502871
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584969,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Range Hills",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "construction:railway": "station",
+          "layer": "2",
+          "name": "Range Hills",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8654426,
+          18.5300875
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584974,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Mangalwar Peth",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "fixme": "I think wikipedia and wikidata tags are of its operator. Somebody fix it",
+          "name": "Mangalwar Peth",
+          "name:mr": "मंगळवार पेठ",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "MGA",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q28179679",
+          "wikipedia": "en:Maha Metro"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8337656,
+          18.5837649
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584975,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Dapodi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Dapodi",
+          "name:mr": "दापोडी",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121140110"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8533499,
+          18.5227443
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584980,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "PMC Bhavan",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "PMC Bhavan",
+          "name:mr": "पुणे मनपा स्थानक",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7092228,
+          18.5941952
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584983,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Infosys",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "construction:railway": "station",
+          "name": "Infosys",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8777486,
+          18.5327176
+        ]
+      },
+      "properties": {
+        "osm_id": 7944584984,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Ruby Hall Clinic",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "layer": "2",
+          "name": "Ruby Hall Clinic",
+          "name:mr": "रुबी हॉल क्लिनिक",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "RUC",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121161769"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8577478,
+          18.5267201
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597685,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "District Court (Aqua Line)",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "District Court (Aqua Line)",
+          "name:mr": "जिल्हा न्यायालय",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8157455,
+          18.6145248
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597690,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Sant Tukaram Nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Pune Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Sant Tukaram Nagar",
+          "name:mr": "संत तुकाराम नगर",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Pune Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8570097,
+          18.5128979
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597694,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": "Mahatma Phule Mandai",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "MahaMetro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Mahatma Phule Mandai",
+          "name:mr": "महात्मा फुले मंदाई",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "old_name": "Mandai मंडई",
+          "operator": "MahaMetro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381236",
+          "wikipedia": "en:Mandai metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8414867,
+          18.533006
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597695,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Agriculture College",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "name": "Agriculture College",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7171607,
+          18.59659
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597696,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Wipro",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "construction:railway": "station",
+          "name": "Wipro",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8272644,
+          18.5996201
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597699,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Kasarwadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Kasarwadi",
+          "name:mr": "कासारवाडी",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8366919,
+          18.5363707
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597700,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "RBI",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "station",
+          "construction:railway": "station",
+          "name": "RBI",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7575587,
+          18.5902986
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597702,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Wakad Chowk",
+        "name_en": "Wakad Chowk metro Station",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "subway",
+          "name": "Wakad Chowk",
+          "name:en": "Wakad Chowk metro Station",
+          "name:mr": "वाकड चौक मेट्रो स्थानक",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8200965,
+          18.609303
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597706,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Nashik Phata",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Pune Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Nashik Phata",
+          "name:mr": "नाशिक फाटा",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Pune Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8574604,
+          18.4997453
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597710,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Swargate स्वारगेट",
+        "name_en": "Swargate",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Swargate स्वारगेट",
+          "name:en": "Swargate",
+          "name:mr": "स्वारगेट",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381241",
+          "wikipedia": "en:Swargate metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8381029,
+          18.5696611
+        ]
+      },
+      "properties": {
+        "osm_id": 7944597711,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Bopodi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bopodi",
+          "name:mr": "बोपोडी",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121140108"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838021,
+          18.5117813
+        ]
+      },
+      "properties": {
+        "osm_id": 9572608810,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Garware College",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Garware College",
+          "name:mr": "गरवारे महाविद्यालय",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8139991,
+          18.5097034
+        ]
+      },
+      "properties": {
+        "osm_id": 9572608815,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Anandnagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Anandnagar",
+          "name:mr": "आनंदनगर",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8228035,
+          18.5083553
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650843,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Paud Phata",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Paud Phata",
+          "name:mr": "पौड फाटा",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8378145,
+          18.512056
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650865,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Garware College",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Garware College",
+          "name:mr": "गरवारे महाविद्यालय",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8140166,
+          18.5094274
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650866,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Anandnagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Anandnagar",
+          "name:mr": "आनंदनगर",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8216421,
+          18.5089708
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650870,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Paud Phata",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Paud Phata",
+          "name:mr": "पौड फाटा",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8060578,
+          18.5074009
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650881,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8280233,
+          18.5065298
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650893,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Nalstop",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Nalstop",
+          "name:mr": "नळस्टॉप",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8148212,
+          18.5095724
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650895,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Anandnagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Anandnagar",
+          "name:mr": "आनंदनगर",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8287808,
+          18.5078415
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650898,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Nalstop",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Nalstop",
+          "name:mr": "नळस्टॉप",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8229349,
+          18.5077144
+        ]
+      },
+      "properties": {
+        "osm_id": 9572650924,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Ideal Colony",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Ideal Colony",
+          "name:mr": "आयडियल कॉलनी",
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8315747,
+          18.5909237
+        ]
+      },
+      "properties": {
+        "osm_id": 9572921030,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Phugewadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Phugewadi",
+          "name:mr": "फुगेवाडी",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8308461,
+          18.5909149
+        ]
+      },
+      "properties": {
+        "osm_id": 9572921088,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Phugewadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "bicycle": "yes",
+          "name": "Phugewadi",
+          "name:mr": "फुगेवाडी",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8051948,
+          18.5071853
+        ]
+      },
+      "properties": {
+        "osm_id": 9599243853,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Vanaz",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Vanaz",
+          "name:mr": "वनाज",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8140749,
+          18.5095724
+        ]
+      },
+      "properties": {
+        "osm_id": 9599243854,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Anandnagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Anandnagar",
+          "name:mr": "आनंदनगर",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.822144,
+          18.508885
+        ]
+      },
+      "properties": {
+        "osm_id": 9599243855,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Paud Phata",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Paud Phata",
+          "name:mr": "पौड फाटा",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "old_name": "Ideal Colony",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8287815,
+          18.5073567
+        ]
+      },
+      "properties": {
+        "osm_id": 9599243856,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "SNDT College",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "SNDT College",
+          "name:mr": "एसएनडीटी कॉलेज",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "old_name": "Nalstop",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8380505,
+          18.5119886
+        ]
+      },
+      "properties": {
+        "osm_id": 9599243857,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Garware College",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Garware College",
+          "name:mr": "गरवारे महाविद्यालय",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8032857,
+          18.6293185
+        ]
+      },
+      "properties": {
+        "osm_id": 10214268972,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Pimpri Chinchwad Municipal Corporation (PCMC)",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Pimpri Chinchwad Municipal Corporation (PCMC)",
+          "name:mr": "पिंपरी-चिंचवड मनपा भवन",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496602,
+          18.532172
+        ]
+      },
+      "properties": {
+        "osm_id": 11097510271,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Shivaji Nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Shivaji Nagar",
+          "name:mr": "शिवाजी नगर",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q121139922"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8568986,
+          18.5267856
+        ]
+      },
+      "properties": {
+        "osm_id": 11097510274,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "District Court (Purple Line)",
+        "name_en": "District Court",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "District Court (Purple Line)",
+          "name:en": "District Court",
+          "name:mr": "जिल्हा न्यायालय",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "CVC",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.847383,
+          18.5200806
+        ]
+      },
+      "properties": {
+        "osm_id": 11097527718,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Chhatrapati Sambhaji Udyan",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Chhatrapati Sambhaji Udyan",
+          "name:mr": "छत्रपती संभाजी उद्यान",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8444458,
+          18.5164485
+        ]
+      },
+      "properties": {
+        "osm_id": 11097527725,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Deccan Gymkhana",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Deccan Gymkhana",
+          "name:mr": "डेक्कन जिमखाना",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8834394,
+          18.5405933
+        ]
+      },
+      "properties": {
+        "osm_id": 11699340649,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Bund Garden",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "layer": "2",
+          "name": "Bund Garden",
+          "name:mr": "बंड गार्डन",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "ref": "BUN",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q124762850",
+          "wikipedia": "en:Bund Garden metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8866882,
+          18.5453173
+        ]
+      },
+      "properties": {
+        "osm_id": 11699340652,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Yerwada",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Yerwada",
+          "name:hi": "येरवडा",
+          "name:mr": "येरवडा",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Yerwada metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9056979,
+          18.5444806
+        ]
+      },
+      "properties": {
+        "osm_id": 11699340655,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Kalyani Nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Kalyani Nagar",
+          "name:mr": "कल्याणी नगर",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Kalyani Nagar metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9085628,
+          18.557028
+        ]
+      },
+      "properties": {
+        "osm_id": 11699340657,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Ramwadi",
+        "name_en": "Ramwadi",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Ramwadi",
+          "name:en": "Ramwadi",
+          "name:mr": "रामवाडी",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikipedia": "en:Ramwadi metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8868828,
+          18.5452636
+        ]
+      },
+      "properties": {
+        "osm_id": 11717990427,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance",
+          "ref": "3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8869968,
+          18.5455903
+        ]
+      },
+      "properties": {
+        "osm_id": 11717990428,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance",
+          "ref": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8596235,
+          18.5213749
+        ]
+      },
+      "properties": {
+        "osm_id": 12211880200,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Kasba Peth कसबा पेठ",
+        "name_en": "Kasba Peth",
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Kasba Peth कसबा पेठ",
+          "name:en": "Kasba Peth",
+          "name:mr": "कसबा पेठ",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q130381226",
+          "wikipedia": "en:Kasba Peth metro station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8578411,
+          18.4994278
+        ]
+      },
+      "properties": {
+        "osm_id": 13392139824,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "entrance": "yes",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446797,
+          18.5169072
+        ]
+      },
+      "properties": {
+        "osm_id": 13399667877,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "entrance": "yes",
+          "layer": "2",
+          "level": "1",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8439036,
+          18.51587
+        ]
+      },
+      "properties": {
+        "osm_id": 13400823745,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "entrance": "yes",
+          "layer": "2",
+          "level": "1",
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856089,
+          18.5283279
+        ]
+      },
+      "properties": {
+        "osm_id": 13570390374,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "District Court (Pink Line)",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction:railway": "station",
+          "name": "District Court (Pink Line)",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8865332,
+          18.5452779
+        ]
+      },
+      "properties": {
+        "osm_id": 13640037581,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Yervada Metro Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "name": "Yervada Metro Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8646963,
+          18.5299766
+        ]
+      },
+      "properties": {
+        "osm_id": 13640055161,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Rto Pune Metro Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Rto Pune Metro Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8513848,
+          18.5323977
+        ]
+      },
+      "properties": {
+        "osm_id": 13640060834,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Shivaji Nagar Railway Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Shivaji Nagar Railway Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8575691,
+          18.5267131
+        ]
+      },
+      "properties": {
+        "osm_id": 13640104325,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "District Court Metro Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "District Court Metro Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8420825,
+          18.5622619
+        ]
+      },
+      "properties": {
+        "osm_id": 13644302877,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Khadki",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Khadki",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8651307,
+          18.53001
+        ]
+      },
+      "properties": {
+        "osm_id": 13644330429,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Mangalwar Peth Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Mangalwar Peth Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8271729,
+          18.5423466
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113362,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Savitribal Phule Pune University",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Savitribal Phule Pune University",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8196654,
+          18.5463251
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113363,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "YASHADA",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "YASHADA",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808227,
+          18.5502692
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113364,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Krushi Anusandhan",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Krushi Anusandhan",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7979381,
+          18.5549643
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113365,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Baner",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Baner",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7905982,
+          18.5591961
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113366,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Baner Gaon",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Baner Gaon",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7797665,
+          18.5641859
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113367,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Balewadi Phata",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Balewadi Phata",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7748382,
+          18.570512
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113368,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "High Street",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "High Street",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7660624,
+          18.5750336
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113369,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "NICMAR",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "NICMAR",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7463002,
+          18.5909665
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113373,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Jakat Naka",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "layer": "3",
+          "name": "Jakat Naka",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7373573,
+          18.5923946
+        ]
+      },
+      "properties": {
+        "osm_id": 13647113374,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Hinjawadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "PMRDA",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "layer": "3",
+          "name": "Hinjawadi",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2026",
+          "operator": "PMRDA",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8419261,
+          18.5620773
+        ]
+      },
+      "properties": {
+        "osm_id": 13647166573,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "no",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8418771,
+          18.5629015
+        ]
+      },
+      "properties": {
+        "osm_id": 13647166579,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8422043,
+          18.5624273
+        ]
+      },
+      "properties": {
+        "osm_id": 13647166580,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7745745,
+          18.6625606
+        ]
+      },
+      "properties": {
+        "osm_id": 13647412351,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Bhakti Shakti",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "construction:railway": "station",
+          "fixme": "Not precise position yet (2026-03)",
+          "layer": "2",
+          "name": "Bhakti Shakti",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2029",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.778398,
+          18.6583986
+        ]
+      },
+      "properties": {
+        "osm_id": 13647412352,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Nigdi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "construction:railway": "station",
+          "fixme": "Not precise position yet (2026-03)",
+          "layer": "2",
+          "name": "Nigdi",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2029",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7847467,
+          18.65116
+        ]
+      },
+      "properties": {
+        "osm_id": 13647412354,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Akurdi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "construction:railway": "station",
+          "fixme": "Not precise position yet (2026-03)",
+          "layer": "2",
+          "name": "Akurdi",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2029",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7949314,
+          18.6391732
+        ]
+      },
+      "properties": {
+        "osm_id": 13647412355,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Chinchwad",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "construction": "yes",
+          "construction:railway": "station",
+          "fixme": "Not precise position yet (2026-03)",
+          "layer": "2",
+          "name": "Chinchwad",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "opening_date": "2029",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9090692,
+          18.5576121
+        ]
+      },
+      "properties": {
+        "osm_id": 13649409729,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9092811,
+          18.5572676
+        ]
+      },
+      "properties": {
+        "osm_id": 13649409732,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8575819,
+          18.526694
+        ]
+      },
+      "properties": {
+        "osm_id": 13649977025,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Civil court metro",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Civil court metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8650747,
+          18.5300348
+        ]
+      },
+      "properties": {
+        "osm_id": 13650194849,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Mangalwar Peth Station",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Mangalwar Peth Station",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9227746,
+          18.5036702
+        ]
+      },
+      "properties": {
+        "osm_id": 13661267088,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": "Hadapsar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "station",
+        "brand": null,
+        "operator": "Maha Metro",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hadapsar",
+          "network": "Pune Metro",
+          "network:wikidata": "Q3595697",
+          "operator": "Maha Metro",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8586749,
+          18.4998872
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163554,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.857183,
+          18.5122825
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163555,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.859631,
+          18.5214795
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163567,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8593371,
+          18.5214859
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163569,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8575002,
+          18.5262976
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163578,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8578529,
+          18.5270821
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163579,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565379,
+          18.5272341
+        ]
+      },
+      "properties": {
+        "osm_id": 13761163580,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8503933,
+          18.5315399
+        ]
+      },
+      "properties": {
+        "osm_id": 13761221659,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8493547,
+          18.5326715
+        ]
+      },
+      "properties": {
+        "osm_id": 13761221662,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "railway": "subway_entrance",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496669,
+          18.530477
+        ]
+      },
+      "properties": {
+        "osm_id": 13761221667,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8380858,
+          18.5704362
+        ]
+      },
+      "properties": {
+        "osm_id": 13761224695,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8376566,
+          18.5702505
+        ]
+      },
+      "properties": {
+        "osm_id": 13761224696,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8337984,
+          18.5824198
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980519,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8338001,
+          18.5847141
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980526,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8339547,
+          18.5841327
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980529,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8269826,
+          18.5996557
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980544,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273646,
+          18.5988137
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980547,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8269779,
+          18.6008943
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980551,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273441,
+          18.6001205
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980554,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8198966,
+          18.6101226
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980558,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.820727,
+          18.608286
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980563,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8212551,
+          18.6084686
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980574,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8157549,
+          18.6149853
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980577,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.816073,
+          18.6146439
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980581,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8028206,
+          18.6306014
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980589,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8022639,
+          18.6298695
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980592,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8040321,
+          18.6287607
+        ]
+      },
+      "properties": {
+        "osm_id": 13762980599,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8535455,
+          18.5226709
+        ]
+      },
+      "properties": {
+        "osm_id": 13762985527,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8534402,
+          18.5231141
+        ]
+      },
+      "properties": {
+        "osm_id": 13762985534,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.805089,
+          18.5070099
+        ]
+      },
+      "properties": {
+        "osm_id": 13781679276,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9060551,
+          18.544985
+        ]
+      },
+      "properties": {
+        "osm_id": 13811878560,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9058748,
+          18.5451297
+        ]
+      },
+      "properties": {
+        "osm_id": 13811878569,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9054826,
+          18.5436738
+        ]
+      },
+      "properties": {
+        "osm_id": 13811878576,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Metro Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "subway_entrance",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "railway": "subway_entrance"
+        }
+      }
+    }
+  ]
+}

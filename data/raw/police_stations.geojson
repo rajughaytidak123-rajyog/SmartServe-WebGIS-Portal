@@ -1,0 +1,2568 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_police_stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9173998,
+          18.5075612
+        ]
+      },
+      "properties": {
+        "osm_id": 280430828,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "created_by": "Potlatch 0.10"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8788901,
+          18.5243076
+        ]
+      },
+      "properties": {
+        "osm_id": 674930856,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8438921,
+          18.5131785
+        ]
+      },
+      "properties": {
+        "osm_id": 678444711,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Sambhaji Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Sambhaji Police Chowki",
+          "name:mr": "संभाजी पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403808,
+          18.5141406
+        ]
+      },
+      "properties": {
+        "osm_id": 1534465625,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Deccan Gymkhana Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Deccan Gymkhana Police Chowki",
+          "name:mr": "डेक्कन जिमखाना पोलीस चौकी",
+          "source": "local"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7993609,
+          18.6015562
+        ]
+      },
+      "properties": {
+        "osm_id": 1703723978,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Pimple Saudagar Police Statiom",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-09",
+          "name": "Pimple Saudagar Police Statiom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8621906,
+          18.5161748
+        ]
+      },
+      "properties": {
+        "osm_id": 1909536882,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Ganesh Peth Police station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-13",
+          "name": "Ganesh Peth Police station",
+          "source": "Personal Knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8497008,
+          18.4896021
+        ]
+      },
+      "properties": {
+        "osm_id": 2027713730,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Laxminagar Police chowky",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Golwalkar Guruji Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411009",
+        "phone": null,
+        "website": null,
+        "opening_hours": "24/7",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411009",
+          "addr:street": "Golwalkar Guruji Path",
+          "amenity": "police",
+          "name": "Laxminagar Police chowky",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7387073,
+          18.5917477
+        ]
+      },
+      "properties": {
+        "osm_id": 2146313490,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Hinjawadi Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hinjawadi Phase 2 Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housenumber": "HPRQ+JGH, Hinjawadi Phase 2 Rd, Hinjawadi Village, Hinjawadi, Pimpri-Chinchwad, Maharashtra 411057",
+          "addr:street": "Hinjawadi Phase 2 Road",
+          "amenity": "police",
+          "name": "Hinjawadi Police Chowki",
+          "name:mr": "हिंजवडी पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8957965,
+          18.5527989
+        ]
+      },
+      "properties": {
+        "osm_id": 2183543117,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Yerawada Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-09",
+          "name": "Yerawada Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478417,
+          18.5222358
+        ]
+      },
+      "properties": {
+        "osm_id": 2289023583,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Balagandharva Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Balagandharva Police Station",
+          "name:mr": "बालगंधर्व पोलीस स्थानक"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8688574,
+          18.5148758
+        ]
+      },
+      "properties": {
+        "osm_id": 2289023585,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Sant Kabir Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Sant Kabir Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8487755,
+          18.5113926
+        ]
+      },
+      "properties": {
+        "osm_id": 2410718625,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Perugate Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Tatyasaheb Karandikar Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411030",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "1224",
+          "addr:postcode": "411030",
+          "addr:street": "Tatyasaheb Karandikar Path",
+          "amenity": "police",
+          "name": "Perugate Police Chowki",
+          "name:mr": "पेरूगेट पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7795837,
+          18.5224956
+        ]
+      },
+      "properties": {
+        "osm_id": 2420756045,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Bavdhan Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Bavdhan Police Chowki",
+          "name:mr": "बावधन पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8262153,
+          18.4984329
+        ]
+      },
+      "properties": {
+        "osm_id": 2509520919,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Alankar Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Alankar Police Chowki",
+          "name:mr": "अलंकार पोलिस चौकी",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8446033,
+          18.5052065
+        ]
+      },
+      "properties": {
+        "osm_id": 2517303173,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Senadatta Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Senadatta Police Chowki",
+          "name:mr": "सेनादत्त पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8478649,
+          18.5162004
+        ]
+      },
+      "properties": {
+        "osm_id": 2550695929,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Narayan Peth Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Narayan Peth Police Chowki",
+          "name:mr": "नारायण पेठ पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8454253,
+          18.5571921
+        ]
+      },
+      "properties": {
+        "osm_id": 2694489803,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Khadki Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411020",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411020",
+          "amenity": "police",
+          "name": "Khadki Police Station",
+          "name:mr": "खडकी पोलीस ठाणे"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8560378,
+          18.5204757
+        ]
+      },
+      "properties": {
+        "osm_id": 2868930213,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Kasba Peth Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Kasba Peth Police Chowki",
+          "name:mr": "कसबा पेठ पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8245986,
+          18.5064508
+        ]
+      },
+      "properties": {
+        "osm_id": 2868930215,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Paud Phata Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Paud Phata Police Chowki",
+          "name:mr": "पौड फाटा पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8591594,
+          18.5007921
+        ]
+      },
+      "properties": {
+        "osm_id": 2935676185,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Swargate Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-15",
+          "name": "Swargate Police Station",
+          "name:mr": "स्वारगेट पोलीस ठाणे"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8696893,
+          18.5203179
+        ]
+      },
+      "properties": {
+        "osm_id": 3337848240,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Samarth Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-15",
+          "name": "Samarth Police Station",
+          "name:mr": "समर्थ पोलीस ठाणे"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8500242,
+          18.5200094
+        ]
+      },
+      "properties": {
+        "osm_id": 3337848241,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Shaniwar Peth Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Shaniwar Peth Police Chowki",
+          "name:mr": "शनिवार पेठ पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8333062,
+          18.5145218
+        ]
+      },
+      "properties": {
+        "osm_id": 3386030401,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Prabhat Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Prabhat Police Chowki",
+          "name:mr": "प्रभात पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.774177,
+          18.6621064
+        ]
+      },
+      "properties": {
+        "osm_id": 3498347007,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Pradhikaran Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Pradhikaran Police Chowki",
+          "name:mr": "प्राधिकरण पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8154722,
+          18.4637816
+        ]
+      },
+      "properties": {
+        "osm_id": 4405664297,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": "Singhgarh Police Chauki",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name:en": "Singhgarh Police Chauki"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8448569,
+          18.5449382
+        ]
+      },
+      "properties": {
+        "osm_id": 4547351989,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": "Crime branch",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name:en": "Crime branch"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.840267,
+          18.5010017
+        ]
+      },
+      "properties": {
+        "osm_id": 5253713305,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Dattawadi Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91-100",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Dattawadi Police Chowki",
+          "phone": "+91-100"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8904599,
+          18.4659808
+        ]
+      },
+      "properties": {
+        "osm_id": 5302827826,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": "Kondhwa police station",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name:en": "Kondhwa police station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8789046,
+          18.5339866
+        ]
+      },
+      "properties": {
+        "osm_id": 6116290226,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Mangaldas Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-10",
+          "name": "Mangaldas Police Chowki",
+          "name:mr": "मंगलदास पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8425166,
+          18.6478898
+        ]
+      },
+      "properties": {
+        "osm_id": 7011007177,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7950186,
+          18.639873
+        ]
+      },
+      "properties": {
+        "osm_id": 7083553571,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "PCMC Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "PCMC Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224604,
+          18.540655
+        ]
+      },
+      "properties": {
+        "osm_id": 10172966014,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Centre for Police Research - CPR,",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Centre for Police Research - CPR,"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7796133,
+          18.5225916
+        ]
+      },
+      "properties": {
+        "osm_id": 10219138027,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "bavdhandhan  Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pashan-Bavdhan Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "24/7",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Pashan-Bavdhan Road",
+          "amenity": "police",
+          "name": "bavdhandhan  Police Station",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9280864,
+          18.5570956
+        ]
+      },
+      "properties": {
+        "osm_id": 10219230645,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Chandan nagar police",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-09",
+          "name": "Chandan nagar police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7653112,
+          18.607337
+        ]
+      },
+      "properties": {
+        "osm_id": 10302381890,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Wakad Police Station",
+        "name_en": "Wakad Police Station",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "02027261120",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2023-01-03",
+          "internet_access": "no",
+          "name": "Wakad Police Station",
+          "name:en": "Wakad Police Station",
+          "name:mr": "वाकड पोलिस स्टेशन",
+          "phone": "02027261120",
+          "source": "local knowledge;survey;aerial imagery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7799961,
+          18.6293245
+        ]
+      },
+      "properties": {
+        "osm_id": 10304957656,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Chinchwad Police Station",
+        "name_en": "Chinchwad Police Station",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2024-08-14",
+          "internet_access": "no",
+          "name": "Chinchwad Police Station",
+          "name:en": "Chinchwad Police Station",
+          "name:mr": "चिंचवड पोलिस ठाणे"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8775269,
+          18.5646718
+        ]
+      },
+      "properties": {
+        "osm_id": 10610500277,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Vishrantwadi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Vishrantwadi Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7554515,
+          18.6418999
+        ]
+      },
+      "properties": {
+        "osm_id": 10657354394,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Police Station Ravet",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Police Station Ravet"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75756,
+          18.5920496
+        ]
+      },
+      "properties": {
+        "osm_id": 10725513809,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Wakad Police Chowky",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Wakad Police Chowky",
+          "name:mr": "वाकड पोलीस चौकी"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8156391,
+          18.5785932
+        ]
+      },
+      "properties": {
+        "osm_id": 10807210956,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Sangvi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pimple Gurav-Navi Sangvi Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411027",
+        "phone": null,
+        "website": null,
+        "opening_hours": "24/7",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411027",
+          "addr:street": "Pimple Gurav-Navi Sangvi Road",
+          "amenity": "police",
+          "name": "Sangvi Police Station",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8327946,
+          18.4689831
+        ]
+      },
+      "properties": {
+        "osm_id": 11330878781,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Vadgaon Budruk Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pune",
+        "addr_city": "pune",
+        "addr_postcode": "411051",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "amenity": "police",
+          "name": "Vadgaon Budruk Police Chowki"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8024748,
+          18.506629
+        ]
+      },
+      "properties": {
+        "osm_id": 11786140865,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Kothrud Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Kothrud Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8500128,
+          18.529982
+        ]
+      },
+      "properties": {
+        "osm_id": 13616220311,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "ShivajiNagar Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-04",
+          "name": "ShivajiNagar Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9056355,
+          18.5545552
+        ]
+      },
+      "properties": {
+        "osm_id": 13629443264,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Ramwadi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-09",
+          "name": "Ramwadi Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7990918,
+          18.6018193
+        ]
+      },
+      "properties": {
+        "osm_id": 13638581251,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Police Station Pimple Saudagar",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-09",
+          "name": "Police Station Pimple Saudagar"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7211878,
+          18.6863063
+        ]
+      },
+      "properties": {
+        "osm_id": 13640134582,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "check_date": "2026-03-12",
+          "name": "Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8436593,
+          18.4574226
+        ]
+      },
+      "properties": {
+        "osm_id": 13851770436,
+        "osm_type": "node",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849652,
+          18.4894643
+        ]
+      },
+      "properties": {
+        "osm_id": 192206270,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Sahakarnagar Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Sahakarnagar Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8228324,
+          18.5436346
+        ]
+      },
+      "properties": {
+        "osm_id": 218691368,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Chavan Nagar - Pune Rural Police Headquarters",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "name": "Chavan Nagar - Pune Rural Police Headquarters",
+          "name:mr": "पुणे ग्रामीण पोलीस मुख्यालय"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8558419,
+          18.5164428
+        ]
+      },
+      "properties": {
+        "osm_id": 264444880,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Faraskhana Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Faraskhana Police Station",
+          "name:mr": "फरासखाना पोलीस ठाणे"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7670685,
+          18.6507414
+        ]
+      },
+      "properties": {
+        "osm_id": 265902954,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Akurdi Police Chowky",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Akurdi Police Chowky"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8481732,
+          18.4929157
+        ]
+      },
+      "properties": {
+        "osm_id": 360474279,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Dattawadi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411009",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411009",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Dattawadi Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8138595,
+          18.4730707
+        ]
+      },
+      "properties": {
+        "osm_id": 365655187,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Sinhagad Road Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Sinhagad Road Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8257533,
+          18.5461302
+        ]
+      },
+      "properties": {
+        "osm_id": 641670813,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Chaturshringi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "विद्यापीठ रस्ता",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411007",
+        "phone": "020 2565 5335",
+        "website": "https://punepolice.gov.in",
+        "opening_hours": "24/7",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "Vidhyapeeth Road, Ganeshkhind Road, Near Pune University, Ganeshkhind",
+          "addr:postcode": "411007",
+          "addr:street": "विद्यापीठ रस्ता",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Chaturshringi Police Station",
+          "name:mr": "चतुशृंगी पोलीस ठाणे",
+          "opening_hours": "24/7",
+          "phone": "020 2565 5335",
+          "website": "https://punepolice.gov.in"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7748966,
+          18.5686585
+        ]
+      },
+      "properties": {
+        "osm_id": 652054928,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Baner Police Station",
+        "name_en": "Baner Police Station",
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Baner Police Station",
+          "name:en": "Baner Police Station",
+          "name:mr": "बाणेर पोलीस स्टेशन"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8625641,
+          18.5194625
+        ]
+      },
+      "properties": {
+        "osm_id": 706927370,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Somwar Peth Police Station सोमवार पेठ पोलिस स्टेशन",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "check_date": "2026-03-15",
+          "name": "Somwar Peth Police Station सोमवार पेठ पोलिस स्टेशन"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.777488,
+          18.5113127
+        ]
+      },
+      "properties": {
+        "osm_id": 1028611648,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Bavdhan Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Lane 2",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411021",
+        "phone": "+91-8856-062100",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411021",
+          "addr:street": "Lane 2",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Bavdhan Police Station",
+          "name:mr": "बावधन पोलीस ठाणे",
+          "phone": "+91-8856-062100"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7981062,
+          18.5382156
+        ]
+      },
+      "properties": {
+        "osm_id": 1032594150,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Pashan Police station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Dr. Homi Bhabha Marg",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:street": "Dr. Homi Bhabha Marg",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Pashan Police station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8895195,
+          18.464748
+        ]
+      },
+      "properties": {
+        "osm_id": 1041721250,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Kondhwa traffic police chowky",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Pune Traffic Police",
+        "cuisine": null,
+        "addr_street": "Kondhwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411048",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411048",
+          "addr:street": "Kondhwa Road",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Kondhwa traffic police chowky",
+          "operator": "Pune Traffic Police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7356936,
+          18.5861167
+        ]
+      },
+      "properties": {
+        "osm_id": 1098988707,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Hinjawadi police station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Maharashtra Police",
+        "cuisine": null,
+        "addr_street": "Hinjawadi Phase 1 road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": null,
+        "website": null,
+        "opening_hours": "24/7",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 1 road",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Hinjawadi police station",
+          "name:mr": "हिंजवडी पोलीस स्थानक",
+          "opening_hours": "24/7",
+          "operator": "Maharashtra Police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7369373,
+          18.5865997
+        ]
+      },
+      "properties": {
+        "osm_id": 1222440025,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8576317,
+          18.4590914
+        ]
+      },
+      "properties": {
+        "osm_id": 1286673858,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Bharati Vidyapeeth Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "police",
+          "building": "yes",
+          "name": "Bharati Vidyapeeth Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9474895,
+          18.5490279
+        ]
+      },
+      "properties": {
+        "osm_id": 1430470190,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Kharadi Police Station",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Police",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pune",
+        "addr_city": "Kharadi Pune",
+        "addr_postcode": "411014",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Kharadi Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411014",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Kharadi Police Station",
+          "operator": "Police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8711087,
+          18.4933317
+        ]
+      },
+      "properties": {
+        "osm_id": 1466751926,
+        "osm_type": "way",
+        "category_declared": "Emergency",
+        "subcategory_declared": "Police Station",
+        "name": "Maharshi Nagar Police Chowki",
+        "name_en": null,
+        "amenity": "police",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Irawati Karve Marg",
+        "addr_suburb": null,
+        "addr_city": "PUNE",
+        "addr_postcode": "411037",
+        "phone": "+91 20 24261871",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "PUNE",
+          "addr:postcode": "411037",
+          "addr:street": "Irawati Karve Marg",
+          "amenity": "police",
+          "building": "yes",
+          "name": "Maharshi Nagar Police Chowki",
+          "phone": "+91 20 24261871"
+        }
+      }
+    }
+  ]
+}

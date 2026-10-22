@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Healthcare",
+    "subcategory": "Hospital",
+    "raw_records": 729,
+    "invalid_geometries": 0,
+    "outside_study_area_removed": 98,
+    "duplicate_records_removed": 20,
+    "missing_names_handled": 20,
+    "final_valid_records": 611,
+    "pmc_records": 425,
+    "pcmc_records": 186,
+    "records_with_phone": 24,
+    "records_with_website": 59,
+    "records_with_opening_hours": 26
+  },
+  {
+    "category": "Food",
+    "subcategory": "Restaurant",
+    "raw_records": 1026,
+    "invalid_geometries": 0,
+    "outside_study_area_removed": 145,
+    "duplicate_records_removed": 11,
+    "missing_names_handled": 32,
+    "final_valid_records": 870,
+    "pmc_records": 661,
+    "pcmc_records": 209,
+    "records_with_phone": 141,
+    "records_with_website": 59,
+    "records_with_opening_hours": 155
+  },
+  {
+    "category": "Transport",
+    "subcategory": "Petrol Pump",
+    "raw_records": 209,
+    "invalid_geometries": 0,
+    "outside_study_area_removed": 52,
+    "duplicate_records_removed": 3,
+    "missing_names_handled": 27,
+    "final_valid_records": 154,
+    "pmc_records": 93,
+    "pcmc_records": 61,
+    "records_with_phone": 7,
+    "records_with_website": 8,
+    "records_with_opening_hours": 11
+  }
+]

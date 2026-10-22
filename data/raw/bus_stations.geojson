@@ -1,0 +1,4129 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_bus_stations",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.872255,
+          18.5278721
+        ]
+      },
+      "properties": {
+        "osm_id": 675626026,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pune Railway Station Bus Terminus",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "check_date": "2026-03-12",
+          "name": "Pune Railway Station Bus Terminus"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8771409,
+          18.5265286
+        ]
+      },
+      "properties": {
+        "osm_id": 811249554,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pune Railway Station Bus Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Pune Railway Station Bus Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8136551,
+          18.4748763
+        ]
+      },
+      "properties": {
+        "osm_id": 1304739481,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sun City",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": "Suncity Road",
+        "addr_suburb": "Pune",
+        "addr_city": "pune",
+        "addr_postcode": "411051",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sun City",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7798966,
+          18.6300865
+        ]
+      },
+      "properties": {
+        "osm_id": 1429382717,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Chaphekar Chowk",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://pmpml.org",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "no",
+          "amenity": "bus_station",
+          "baby_feeding": "no",
+          "bus": "yes",
+          "check_date": "2024-08-14",
+          "internet_access": "no",
+          "name": "Chaphekar Chowk",
+          "name:mr": "चाफेकर चौक",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "website": "https://pmpml.org"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8534229,
+          18.5230248
+        ]
+      },
+      "properties": {
+        "osm_id": 1645621321,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Manapa Bhavan",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Manapa Bhavan",
+          "name:mr": "मनपा भवन",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8110435,
+          18.4513059
+        ]
+      },
+      "properties": {
+        "osm_id": 1762191454,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "JK Hill Park Bus Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "alt_name": "Dhayari",
+          "amenity": "bus_station",
+          "highway": "bus_stop",
+          "name": "JK Hill Park Bus Stop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8792033,
+          18.5707917
+        ]
+      },
+      "properties": {
+        "osm_id": 1801285994,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "mahalaxmi bus stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "check_date": "2026-03-11",
+          "name": "mahalaxmi bus stop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.900633,
+          18.481568
+        ]
+      },
+      "properties": {
+        "osm_id": 2006306826,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Indira Vasahat",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Vitthal Rao Shivarkar Marg",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411048",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411048",
+          "addr:state": "Maharashtra",
+          "addr:street": "Vitthal Rao Shivarkar Marg",
+          "amenity": "bus_station",
+          "building": "roof",
+          "highway": "bus_stop",
+          "name": "Indira Vasahat"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9713563,
+          18.4954862
+        ]
+      },
+      "properties": {
+        "osm_id": 4721561023,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Shewalewadi Bus Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bench": "yes",
+          "bus": "yes",
+          "departures_board": "timetable",
+          "name": "Shewalewadi Bus Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "shelter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8049943,
+          18.5512391
+        ]
+      },
+      "properties": {
+        "osm_id": 5813729873,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Krishi Anusandhan Stn",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Tata",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Krishi Anusandhan Stn",
+          "network": "Metro Line 3",
+          "operator": "Tata",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8523989,
+          18.5434148
+        ]
+      },
+      "properties": {
+        "osm_id": 7596799204,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "New Wakadewadi MSRTC Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "MSRTC",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "New Wakadewadi MSRTC Bus Stand",
+          "network": "MSRTC",
+          "operator": "MSRTC",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7772821,
+          18.6598134
+        ]
+      },
+      "properties": {
+        "osm_id": 7610080761,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Nigdi",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.pmpml.org/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Nigdi",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "website": "https://www.pmpml.org/",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8602685,
+          18.5338511
+        ]
+      },
+      "properties": {
+        "osm_id": 7615324875,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Bus Parking",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "PMPML Bus Parking",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.903067,
+          18.5778259
+        ]
+      },
+      "properties": {
+        "osm_id": 9152005063,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kendriya Vidyalaya Lohgaon",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-11",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9029879,
+          18.5778484
+        ]
+      },
+      "properties": {
+        "osm_id": 9152005064,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kendriya Vidyalaya Lohgaon",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-11",
+          "name": "Kendriya Vidyalaya Lohgaon",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7990024,
+          18.4432672
+        ]
+      },
+      "properties": {
+        "osm_id": 10115879727,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "DSK Vishwa Bus Stand;DSK Vishwa Bus Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": "DSK Vishwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411041",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "DSK Vishwa Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "internet_access": "no",
+          "name": "DSK Vishwa Bus Stand;DSK Vishwa Bus Stop",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8317891,
+          18.589533
+        ]
+      },
+      "properties": {
+        "osm_id": 10235274254,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name:mr": "फुगेवाडी जकात नाका",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8288356,
+          18.596463
+        ]
+      },
+      "properties": {
+        "osm_id": 10235274256,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Atlas Copco",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Atlas Copco",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8722527,
+          18.5281331
+        ]
+      },
+      "properties": {
+        "osm_id": 10725622460,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "MSRTC ST Pune Sation Bus Stand.",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "name": "MSRTC ST Pune Sation Bus Stand.",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7357921,
+          18.5646158
+        ]
+      },
+      "properties": {
+        "osm_id": 13418759548,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Mhalunge Gaon (Bajirao Padale Chowk)",
+        "name_en": "Mhalunge Gaon (Bajirao Padale Chowk)",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mhalunge Gaon (Bajirao Padale Chowk)",
+          "name:en": "Mhalunge Gaon (Bajirao Padale Chowk)",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7353627,
+          18.5646136
+        ]
+      },
+      "properties": {
+        "osm_id": 13418914514,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Mhalunge Gaon (Bajirao Padale Chowk)",
+        "name_en": "Mhalunge Gaon (Bajirao Padale Chowk)",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mhalunge Gaon (Bajirao Padale Chowk)",
+          "name:en": "Mhalunge Gaon (Bajirao Padale Chowk)",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8584239,
+          18.4534566
+        ]
+      },
+      "properties": {
+        "osm_id": 13556672520,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Late Rajiv Gandhi Udyan BRT",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Late Rajiv Gandhi Udyan BRT",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7663759,
+          18.5749201
+        ]
+      },
+      "properties": {
+        "osm_id": 13597448018,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bench": "yes",
+          "bin": "no",
+          "bus": "yes",
+          "public_transport": "station",
+          "shelter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8535016,
+          18.5226563
+        ]
+      },
+      "properties": {
+        "osm_id": 13605940270,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.814199,
+          18.6837871
+        ]
+      },
+      "properties": {
+        "osm_id": 13620774433,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Chikli Bus Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-05",
+          "name": "Chikli Bus Stop",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9392677,
+          18.5004192
+        ]
+      },
+      "properties": {
+        "osm_id": 13879580719,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Hadpsar Gadi Tal",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-05-26",
+          "name": "Hadpsar Gadi Tal",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8820992,
+          18.5060637
+        ]
+      },
+      "properties": {
+        "osm_id": 118263727,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pulgate",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "check_date": "2026-03-12",
+          "internet_access": "terminal",
+          "name": "Pulgate",
+          "name:mr": "पुलगेट",
+          "operator": "PMPML",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8592663,
+          18.4993645
+        ]
+      },
+      "properties": {
+        "osm_id": 125482924,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Swargate ST Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "name": "Swargate ST Stand",
+          "name:mr": "स्वारगेट एस टी स्टँड",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8159247,
+          18.6150917
+        ]
+      },
+      "properties": {
+        "osm_id": 242682734,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pimpri-Chinchwad Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Pimpri-Chinchwad Bus Stand",
+          "name:mr": "पिंपरी-चिंचवड बस स्थानक",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8592418,
+          18.4552543
+        ]
+      },
+      "properties": {
+        "osm_id": 264404139,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Katraj-Sarpodyan Bus Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Katraj-Sarpodyan Bus Depot",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8726502,
+          18.5274057
+        ]
+      },
+      "properties": {
+        "osm_id": 282484443,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pune Station Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "name": "Pune Station Bus Stand",
+          "name:mr": "पुणे स्टेशन बस स्थानक",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8890483,
+          18.4730677
+        ]
+      },
+      "properties": {
+        "osm_id": 352313352,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kondhwa Bus Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Kondhwa Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Kondhwa Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "Kondhwa Bus Stop",
+          "note": "Kondhwa Khurd Bus Stop",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7718101,
+          18.6315751
+        ]
+      },
+      "properties": {
+        "osm_id": 359575801,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PK Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "PK Stop",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8630383,
+          18.5379338
+        ]
+      },
+      "properties": {
+        "osm_id": 359814400,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "rajani miss",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "rajani sapkal",
+        "cuisine": null,
+        "addr_street": "yuvi",
+        "addr_suburb": "maharastra",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "maharastra",
+          "addr:housenumber": "sangamwadi",
+          "addr:postcode": "411001",
+          "addr:street": "yuvi",
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "name": "rajani miss",
+          "network": "270000",
+          "operator": "rajani sapkal",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8708281,
+          18.4836088
+        ]
+      },
+      "properties": {
+        "osm_id": 360225128,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Marketyard Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "PMPML Marketyard Depot",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7823773,
+          18.6279232
+        ]
+      },
+      "properties": {
+        "osm_id": 360275604,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Chinchwad Bus Station",
+        "name_en": "Chinchwad Bus Station",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "internet_access": "no",
+          "name": "Chinchwad Bus Station",
+          "name:en": "Chinchwad Bus Station",
+          "name:mr": "चिंचवड बस स्थानक",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7790949,
+          18.5416504
+        ]
+      },
+      "properties": {
+        "osm_id": 395901738,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sutarwadi Bus Terminus",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": "Sus-Sutarwadi Service Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411021",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411021",
+          "addr:street": "Sus-Sutarwadi Service Road",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Sutarwadi Bus Terminus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9530353,
+          18.4844169
+        ]
+      },
+      "properties": {
+        "osm_id": 477473046,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhekrainagar Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Bhekrainagar Depot",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.897246,
+          18.6744615
+        ]
+      },
+      "properties": {
+        "osm_id": 480597336,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Alandi Darshan",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.pmpml.org/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Alandi Darshan",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "website": "https://www.pmpml.org/",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7315681,
+          18.6603853
+        ]
+      },
+      "properties": {
+        "osm_id": 481953177,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Mukai Chowk, Kiwale Terminal",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.pmpml.org/",
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Mukai Chowk, Kiwale Terminal",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "website": "https://www.pmpml.org/",
+          "wheelchair": "yes",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7651056,
+          18.6494138
+        ]
+      },
+      "properties": {
+        "osm_id": 814138922,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "VRL Logistics Akurdi",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "VRL Logistics Akurdi",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7660719,
+          18.7208315
+        ]
+      },
+      "properties": {
+        "osm_id": 814294566,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Dehu Gaon",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-05-05",
+          "layer": "-1",
+          "name": "Dehu Gaon",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7808055,
+          18.6565071
+        ]
+      },
+      "properties": {
+        "osm_id": 814703524,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Rudra Bus Parking Nigdi",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Rudra Bus Parking Nigdi",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-17",
+          "name": "Rudra Bus Parking Nigdi",
+          "network": "Rudra Bus Parking Nigdi",
+          "operator": "Rudra Bus Parking Nigdi",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8632774,
+          18.5374376
+        ]
+      },
+      "properties": {
+        "osm_id": 815335441,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangamwadi BRT Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "terminal",
+          "name": "Sangamwadi BRT Stop",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wheelchair": "yes",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86243,
+          18.5366017
+        ]
+      },
+      "properties": {
+        "osm_id": 815335442,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangamwadi BRT Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "terminal",
+          "name": "Sangamwadi BRT Stop",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wheelchair": "yes",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.860728,
+          18.5353425
+        ]
+      },
+      "properties": {
+        "osm_id": 815335445,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangamwadi Private Bus Stand 1",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Sangamwadi Private Bus Stand 1",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8636117,
+          18.5371253
+        ]
+      },
+      "properties": {
+        "osm_id": 815335446,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangamwadi Private Bus Stand 2",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "no",
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "location": "surface",
+          "name": "Sangamwadi Private Bus Stand 2",
+          "public_transport": "station",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8604418,
+          18.5338199
+        ]
+      },
+      "properties": {
+        "osm_id": 815378126,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Bus Parking",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "private",
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "capacity": "50",
+          "capacity:disabled": "50",
+          "fee": "no",
+          "internet_access": "no",
+          "layer": "-1",
+          "location": "surface",
+          "name": "PMPML Bus Parking",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "operator:type": "private",
+          "parking": "surface",
+          "public_transport": "station",
+          "surface": "ground"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7952473,
+          18.5065196
+        ]
+      },
+      "properties": {
+        "osm_id": 815931848,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kothrud Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "terminal",
+          "name": "Kothrud Depot",
+          "name:mr": "कोथरूड डेपो",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8526269,
+          18.5429734
+        ]
+      },
+      "properties": {
+        "osm_id": 817467530,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "New Wakadewadi MSRTC Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "MSRTC",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "no",
+          "layer": "-1",
+          "name": "New Wakadewadi MSRTC Bus Stand",
+          "network": "MSRTC",
+          "operator": "MSRTC",
+          "public_transport": "station",
+          "wikidata": "Q3632293",
+          "wikipedia": "en:Maharashtra State Road Transport Corporation"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8590071,
+          18.4999546
+        ]
+      },
+      "properties": {
+        "osm_id": 817474247,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Swargate MSRTC Bus Stand",
+        "name_en": "Swargate MSRTC Bus Stand",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "MSRTC",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2024-10-31",
+          "internet_access": "no",
+          "name": "Swargate MSRTC Bus Stand",
+          "name:en": "Swargate MSRTC Bus Stand",
+          "name:mr": "स्वारगेट राज्य परिवहन महामंडळ बस स्थानक",
+          "network": "MSRTC",
+          "operator": "MSRTC",
+          "public_transport": "station",
+          "wikidata": "Q3632293",
+          "wikipedia": "en:Maharashtra State Road Transport Corporation"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8597093,
+          18.4995099
+        ]
+      },
+      "properties": {
+        "osm_id": 817474249,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Swargate MSRTC Bus Stand-2",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "MSRTC",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "internet_access": "no",
+          "name": "Swargate MSRTC Bus Stand-2",
+          "network": "MSRTC",
+          "operator": "MSRTC",
+          "public_transport": "station",
+          "wikidata": "Q3632293",
+          "wikipedia": "en:Maharashtra State Road Transport Corporation"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8578988,
+          18.4991536
+        ]
+      },
+      "properties": {
+        "osm_id": 817532714,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Swargate PMPML Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "internet_access": "no",
+          "layer": "-1",
+          "name": "Swargate PMPML Bus Stand",
+          "name:mr": "स्वारगेट पीएमपीएमएल बस स्थानक",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8708497,
+          18.4835631
+        ]
+      },
+      "properties": {
+        "osm_id": 817897620,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Marketyard Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "PMPML Marketyard Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8506651,
+          18.6271443
+        ]
+      },
+      "properties": {
+        "osm_id": 819476932,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Bhosari Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "PMPML Bhosari Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8515108,
+          18.627545
+        ]
+      },
+      "properties": {
+        "osm_id": 819476936,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Private Bus Parking Bhosari",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "layer": "-2",
+          "name": "Private Bus Parking Bhosari",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8514715,
+          18.6244549
+        ]
+      },
+      "properties": {
+        "osm_id": 822883220,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhosari Terminal",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-14",
+          "layer": "-1",
+          "name": "Bhosari Terminal",
+          "name:mr": "भोसरी टर्मिनल",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7861484,
+          18.6797795
+        ]
+      },
+      "properties": {
+        "osm_id": 822886377,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "PMPML Ashok Leyland Workshop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Ashok Leyland",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "PMPML Ashok Leyland Workshop",
+          "network": "Ashok Leyland",
+          "operator": "Ashok Leyland",
+          "public_transport": "station",
+          "wikidata": "Q726193",
+          "wikipedia": "en:Ashok Leyland"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7723245,
+          18.6654702
+        ]
+      },
+      "properties": {
+        "osm_id": 822889441,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhakti Shakti Pmpml Terminal",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "no",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "internet_access": "terminal",
+          "layer": "-1",
+          "name": "Bhakti Shakti Pmpml Terminal",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7705453,
+          18.66531
+        ]
+      },
+      "properties": {
+        "osm_id": 822923032,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhakti Shakti Electric Bus Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Bhakti Shakti Electric Bus Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8494517,
+          18.6321718
+        ]
+      },
+      "properties": {
+        "osm_id": 823056420,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhosari Sadgurunagar Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Bhosari Sadgurunagar Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "wikidata": "Q7260109",
+          "wikimedia_commons": "Category:Pune Mahanagar Parivahan Mahamandal Limited",
+          "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8585085,
+          18.446902
+        ]
+      },
+      "properties": {
+        "osm_id": 888608978,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Katraj PMPML Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Katraj PMPML Bus Stand",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8596577,
+          18.4474467
+        ]
+      },
+      "properties": {
+        "osm_id": 888608981,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Katraj PMPML Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Katraj PMPML Bus Stand",
+          "operator": "PMPML",
+          "public_transport": "station",
+          "source": "bus stop"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8537243,
+          18.5230763
+        ]
+      },
+      "properties": {
+        "osm_id": 905005583,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Manapa Bhavan PMPML Bus Station",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building:levels": "6",
+          "bus": "yes",
+          "check_date": "2026-03-12",
+          "height": "18",
+          "layer": "2",
+          "min_height": "6",
+          "min_level": "2",
+          "name": "Manapa Bhavan PMPML Bus Station",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9392,
+          18.5002932
+        ]
+      },
+      "properties": {
+        "osm_id": 959539031,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Hadapsar Gadital PMPML Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": "Hadapsar Gadital",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:street": "Hadapsar Gadital",
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Hadapsar Gadital PMPML Bus Stand",
+          "network": "Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.953236,
+          18.4842758
+        ]
+      },
+      "properties": {
+        "osm_id": 979384588,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhekrainagar Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Bhekrainagar Depot",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9529439,
+          18.4842186
+        ]
+      },
+      "properties": {
+        "osm_id": 979384589,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhekrainagar PMPML Bus Depot Road",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "Bhekrainagar PMPML Bus Depot Road",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8813423,
+          18.5732231
+        ]
+      },
+      "properties": {
+        "osm_id": 1013534009,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Vishrantwadi",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "check_date": "2026-03-11",
+          "name": "Vishrantwadi",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8720529,
+          18.4605249
+        ]
+      },
+      "properties": {
+        "osm_id": 1049394556,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Upper Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Upper Depot",
+          "network": "PMPML",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8602436,
+          18.4405177
+        ]
+      },
+      "properties": {
+        "osm_id": 1078895379,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Gujarwadi Phata (Katraj) PMPML Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "layer": "-1",
+          "name": "Gujarwadi Phata (Katraj) PMPML Bus Stand",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7851696,
+          18.6142031
+        ]
+      },
+      "properties": {
+        "osm_id": 1089388118,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "M M School",
+        "name_en": "M M School",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "name": "M M School",
+          "name:en": "M M School",
+          "name:mr": "एम एम शाळा",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8116309,
+          18.4912768
+        ]
+      },
+      "properties": {
+        "osm_id": 1105752516,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "MP Group",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "MP Group",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7940867,
+          18.5715247
+        ]
+      },
+      "properties": {
+        "osm_id": 1109900435,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Pimple Nilakh Bus Stand",
+        "name_en": "Pimple Nilakh Bus Stand",
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMP",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411027",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411027",
+          "amenity": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Pimple Nilakh Bus Stand",
+          "name:en": "Pimple Nilakh Bus Stand",
+          "operator": "PMP",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7222953,
+          18.6578231
+        ]
+      },
+      "properties": {
+        "osm_id": 1137491625,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kiwale Goan Bus Stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPL",
+        "cuisine": null,
+        "addr_street": "Kiwale Goan",
+        "addr_suburb": null,
+        "addr_city": "Ravet",
+        "addr_postcode": "412101",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "limited",
+        "all_tags": {
+          "addr:city": "Ravet",
+          "addr:housenumber": "In front of ICICI ATM",
+          "addr:postcode": "412101",
+          "addr:street": "Kiwale Goan",
+          "amenity": "bus_station",
+          "building": "no",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Kiwale Goan Bus Stop",
+          "operator": "PMPL",
+          "public_transport": "station",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8559447,
+          18.4773102
+        ]
+      },
+      "properties": {
+        "osm_id": 1148132542,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Padmavati Bus Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "name": "Padmavati Bus Depot",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7682304,
+          18.5917292
+        ]
+      },
+      "properties": {
+        "osm_id": 1270580315,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8200184,
+          18.4632439
+        ]
+      },
+      "properties": {
+        "osm_id": 1378473624,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "VRL Vadagaon Budruk Pune Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "check_date": "2026-03-15",
+          "name": "VRL Vadagaon Budruk Pune Bus Stand",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9529673,
+          18.4844242
+        ]
+      },
+      "properties": {
+        "osm_id": 1411428449,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhekrai Nagar PMT Depot",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Bhekrai Nagar PMT Depot",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7205995,
+          18.6563983
+        ]
+      },
+      "properties": {
+        "osm_id": 1433507004,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Kiwalegaon  last bus stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "#tt_event",
+        "cuisine": null,
+        "addr_street": "Gahunje - Mukai Chowk Kiwale - Ravet Road",
+        "addr_suburb": "Pune",
+        "addr_city": "pune",
+        "addr_postcode": "412101",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "Pune",
+          "addr:postcode": "412101",
+          "addr:street": "Gahunje - Mukai Chowk Kiwale - Ravet Road",
+          "amenity": "bus_station",
+          "building": "bus_station",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Kiwalegaon  last bus stop",
+          "operator": "#tt_event",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7351752,
+          18.6620542
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821248,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Malawale Nagar",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Malawale Nagar",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7392556,
+          18.6643444
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821249,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Aadarshnagar",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Aadarshnagar",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7434321,
+          18.6654591
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821250,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Gharkul Ravet",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Gharkul Ravet",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7462209,
+          18.6636789
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821251,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Mhaske Wasti Corner Ravet",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Mhaske Wasti Corner Ravet",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7493893,
+          18.6628082
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821252,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhondve Patil Estate Ravet",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Bhondve Patil Estate Ravet",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7527876,
+          18.6610983
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821253,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Ganesh Nagar Ravet",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Ganesh Nagar Ravet",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7645279,
+          18.6613288
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821254,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Durga Devi Tekadi / Appughar",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Durga Devi Tekadi / Appughar",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76901,
+          18.6625064
+        ]
+      },
+      "properties": {
+        "osm_id": 1455821255,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Vahatuknagari",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Vahatuknagari",
+          "network": "PMPML Bus",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8582564,
+          18.4494038
+        ]
+      },
+      "properties": {
+        "osm_id": 1477879214,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "PMPML",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "operator": "PMPML",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8584209,
+          18.4534583
+        ]
+      },
+      "properties": {
+        "osm_id": 1477879218,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7728344,
+          18.6654667
+        ]
+      },
+      "properties": {
+        "osm_id": 1488485366,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Bhakti-Shakti Bus stop",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Bhakti Shakti Circle Eleveted Road",
+        "addr_suburb": "pune",
+        "addr_city": "nigdi",
+        "addr_postcode": "411044",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "nigdi",
+          "addr:district": "pune",
+          "addr:housenumber": "22",
+          "addr:postcode": "411044",
+          "addr:street": "Bhakti Shakti Circle Eleveted Road",
+          "amenity": "bus_station",
+          "building": "yes",
+          "bus": "yes",
+          "internet_access": "no",
+          "name": "Bhakti-Shakti Bus stop",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7727363,
+          18.6653881
+        ]
+      },
+      "properties": {
+        "osm_id": 1488485733,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Bhakti Shakti Circle Eleveted Road",
+        "addr_suburb": "pune",
+        "addr_city": "nigdi",
+        "addr_postcode": "411044",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "nigdi",
+          "addr:district": "pune",
+          "addr:postcode": "411044",
+          "addr:street": "Bhakti Shakti Circle Eleveted Road",
+          "amenity": "bus_station",
+          "building": "bus_stop",
+          "bus": "yes",
+          "internet_access": "no",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7726563,
+          18.6653339
+        ]
+      },
+      "properties": {
+        "osm_id": 1488485903,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": null,
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Bhakti Shakti Circle Eleveted Road",
+        "addr_suburb": "pune",
+        "addr_city": "nigdi",
+        "addr_postcode": "411044",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "nigdi",
+          "addr:district": "pune",
+          "addr:postcode": "411044",
+          "addr:street": "Bhakti Shakti Circle Eleveted Road",
+          "amenity": "bus_station",
+          "building": "bus_stop",
+          "bus": "yes",
+          "internet_access": "no",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8259857,
+          18.5751351
+        ]
+      },
+      "properties": {
+        "osm_id": 1508410170,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangvi Gaon Bus Stand",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Pune Mahanagar Parivahan Mahamandal Limited",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sangvi Gaon Bus Stand",
+          "network": "Pune Mahanagar Parivahan Mahamandal Limited",
+          "operator": "Pune Mahanagar Parivahan Mahamandal Limited",
+          "public_transport": "station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8072777,
+          18.5726114
+        ]
+      },
+      "properties": {
+        "osm_id": 1508410171,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "Bus Station",
+        "name": "Sangvi Phata BRTS",
+        "name_en": null,
+        "amenity": "bus_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Pune Mahanagar Parivahan Mahamandal Limited",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "bus_station",
+          "bus": "yes",
+          "name": "Sangvi Phata BRTS",
+          "network": "Pune Mahanagar Parivahan Mahamandal Limited",
+          "operator": "Pune Mahanagar Parivahan Mahamandal Limited",
+          "public_transport": "station"
+        }
+      }
+    }
+  ]
+}

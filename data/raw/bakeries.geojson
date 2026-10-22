@@ -1,0 +1,4275 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_bakeries",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8800072,
+          18.514857
+        ]
+      },
+      "properties": {
+        "osm_id": 789695547,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Kayani Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "Kayani Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9283293,
+          18.5094611
+        ]
+      },
+      "properties": {
+        "osm_id": 1532852988,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Monginis",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housename": "Destination Center",
+          "name": "Monginis",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8407679,
+          18.5141066
+        ]
+      },
+      "properties": {
+        "osm_id": 1534219869,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Regal Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Prabhat Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411004",
+        "phone": "02032510845",
+        "website": null,
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411004",
+          "addr:street": "Prabhat Road",
+          "name": "Regal Bakery",
+          "opening_hours": "Mo-Su 08:00-23:00",
+          "phone": "02032510845",
+          "shop": "bakery",
+          "source": "local"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9056381,
+          18.5446577
+        ]
+      },
+      "properties": {
+        "osm_id": 1796882704,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bread Story",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "designation": "Bakery",
+          "name": "Bread Story",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.895874,
+          18.477164
+        ]
+      },
+      "properties": {
+        "osm_id": 1997535654,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Baker's Point",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "NIBM Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411048",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housename": "Kubera Colony",
+          "addr:housenumber": "Shop No. 2 & 3",
+          "addr:postcode": "411048",
+          "addr:province": "Kondwha",
+          "addr:state": "Maharashtra",
+          "addr:street": "NIBM Road",
+          "name": "Baker's Point",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9011924,
+          18.5048115
+        ]
+      },
+      "properties": {
+        "osm_id": 2036733298,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Diamond Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Vitthal Rao Shivarkar Marg",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411040",
+        "phone": "+91 20 26861893",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411040",
+          "addr:state": "Maharashtra",
+          "addr:street": "Vitthal Rao Shivarkar Marg",
+          "atm": "no",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Diamond Bakery",
+          "name:mr": "डायमंड बेकरी",
+          "phone": "+91 20 26861893",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9318372,
+          18.5618865
+        ]
+      },
+      "properties": {
+        "osm_id": 2183552808,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bangalore Iyengar Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Bangalore Iyengar Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9166535,
+          18.56503
+        ]
+      },
+      "properties": {
+        "osm_id": 2183569905,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bangalore Iyengar Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bangalore Iyengar Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7829342,
+          18.5638383
+        ]
+      },
+      "properties": {
+        "osm_id": 2323357508,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": "New Poona Bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Balewadi Gaon Road",
+        "addr_suburb": null,
+        "addr_city": "Balewadi",
+        "addr_postcode": "411045",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Balewadi",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi Gaon Road",
+          "name": "New Poona Bakery",
+          "name:en": "New Poona Bakery",
+          "name:mr": "न्यू पूना बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8547744,
+          18.5172169
+        ]
+      },
+      "properties": {
+        "osm_id": 2517303172,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "New Poona Bakery",
+          "name:mr": "न्यू पूना बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.810923,
+          18.4493237
+        ]
+      },
+      "properties": {
+        "osm_id": 3679801298,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Maharashtra Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "New Maharashtra Bakers",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8261832,
+          18.481336
+        ]
+      },
+      "properties": {
+        "osm_id": 3698222002,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "The Cake and Cream Factory",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "The Cake and Cream Factory",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8286991,
+          18.4471898
+        ]
+      },
+      "properties": {
+        "osm_id": 3702943739,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Spanish Corner",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+918806593570",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "Spanish Corner",
+          "phone": "+918806593570",
+          "phone_1": "+919850270096",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8218714,
+          18.4732006
+        ]
+      },
+      "properties": {
+        "osm_id": 3721774617,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Citizen Bakery and Confectionery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "Citizen Bakery and Confectionery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8315277,
+          18.4484215
+        ]
+      },
+      "properties": {
+        "osm_id": 3724877643,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "W S Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+918411881150",
+        "website": "http://bakeriesinpune.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "W S Bakers",
+          "phone": "+918411881150",
+          "shop": "bakery",
+          "website": "http://bakeriesinpune.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249925,
+          18.4546774
+        ]
+      },
+      "properties": {
+        "osm_id": 3733395595,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "W S Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.wsbakers.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "W S Bakers",
+          "shop": "bakery",
+          "website": "https://www.wsbakers.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8302241,
+          18.5407605
+        ]
+      },
+      "properties": {
+        "osm_id": 3754528636,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "WS Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.wsbakers.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "WS Bakers",
+          "name:mr": "डब्ल्यूएस बेकर्स",
+          "shop": "bakery",
+          "website": "https://www.wsbakers.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8228671,
+          18.4766804
+        ]
+      },
+      "properties": {
+        "osm_id": 3768578381,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sinhagad Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "09890988298",
+        "website": "http://newpoonabakery.net/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housename": "Mohite Paradise",
+          "addr:place": "Hingane Khurd",
+          "addr:street": "Sinhagad Road",
+          "check_date": "2026-03-15",
+          "name": "New Poona Bakery",
+          "name:mr": "न्यू पूना बेकरी",
+          "phone": "09890988298",
+          "shop": "bakery",
+          "website": "http://newpoonabakery.net/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.854284,
+          18.4922181
+        ]
+      },
+      "properties": {
+        "osm_id": 4206878453,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "WS Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Shiv Darshan Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+919822393919",
+        "website": "https://www.wsbakers.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Shiv Darshan Road",
+          "email": "info@wsbakers.com",
+          "name": "WS Bakers",
+          "phone": "+919822393919",
+          "shop": "bakery",
+          "website": "https://www.wsbakers.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.933014,
+          18.4936766
+        ]
+      },
+      "properties": {
+        "osm_id": 4315328090,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "D-Mart Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411028",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411028",
+          "addr:street": "D-Mart Road",
+          "name": "New Poona Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7754493,
+          18.4395337
+        ]
+      },
+      "properties": {
+        "osm_id": 4424540793,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": "Daily Fresh Bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Daily Fresh Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8674197,
+          18.5254289
+        ]
+      },
+      "properties": {
+        "osm_id": 4678212191,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": "Bombay bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "Bombay bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7841533,
+          18.5878573
+        ]
+      },
+      "properties": {
+        "osm_id": 5589977669,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bailey's Cake Shop",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "02065307770",
+        "website": null,
+        "opening_hours": "Mo-Su 10:30-23:00",
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bailey's Cake Shop",
+          "name:hi": "बेली केक शॉप",
+          "opening_hours": "Mo-Su 10:30-23:00",
+          "phone": "02065307770",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.853779,
+          18.4861671
+        ]
+      },
+      "properties": {
+        "osm_id": 5600220878,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Taware Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Taware Bakery",
+          "name:mr": "तावरे बेकरी",
+          "payment:cash": "yes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253415,
+          18.4925523
+        ]
+      },
+      "properties": {
+        "osm_id": 5803624701,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Aswad",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411052",
+        "phone": "9822491312",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411052",
+          "alt_name": "Aaswad",
+          "description": "Sells lots of different types of flour",
+          "name": "Aswad",
+          "name:mr": "आस्वाद",
+          "phone": "9822491312",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8253959,
+          18.4939777
+        ]
+      },
+      "properties": {
+        "osm_id": 5818757661,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Jahagirdar Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Jahagirdar Bakers",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8222396,
+          18.4911167
+        ]
+      },
+      "properties": {
+        "osm_id": 5818757676,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Pune Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "alt_name": "New Poona Bakery",
+          "name": "New Pune Bakery",
+          "name:mr": "न्यू पूना बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7987937,
+          18.5032276
+        ]
+      },
+      "properties": {
+        "osm_id": 6111357574,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bangalore Ayyangers Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bangalore Ayyangers Bakery",
+          "name:mr": "बँगलोर अय्यंगार्स बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7742737,
+          18.5703734
+        ]
+      },
+      "properties": {
+        "osm_id": 6113753534,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "poetry",
+        "name_en": "poetry",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Balewadi High Street",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411045",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 11:30-23:30",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "21",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi High Street",
+          "air_conditioning": "yes",
+          "contact:email": "support@littleitaly.in",
+          "contact:facebook": "https://www.facebook.com/LaPizzeriaByLittleItaly",
+          "contact:instagram": "https://www.instagram.com/lapizzeriaindia/",
+          "delivery": "yes",
+          "delivery:partner": "Zomato;Swiggy",
+          "name": "poetry",
+          "name:en": "poetry",
+          "opening_hours": "Mo-Su 11:30-23:30",
+          "outdoor_seating": "no",
+          "shop": "bakery",
+          "smoking": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8070733,
+          18.5532951
+        ]
+      },
+      "properties": {
+        "osm_id": 6130921998,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hindusthan Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hindusthan Bakery",
+          "name:mr": "हिंदुस्थान बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8238703,
+          18.505553
+        ]
+      },
+      "properties": {
+        "osm_id": 6145441621,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hindusthan Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hindusthan Bakery",
+          "name:mr": "हिंदुस्थान बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8172584,
+          18.5026976
+        ]
+      },
+      "properties": {
+        "osm_id": 6183911094,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Copper Chocs",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "Copper Chocs",
+          "name:mr": "कॉपर चॉक्स",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8762546,
+          18.5357184
+        ]
+      },
+      "properties": {
+        "osm_id": 6201856568,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Just Baked",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "Just Baked",
+          "name:mr": "जस्ट बेक्ड",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82575,
+          18.4608183
+        ]
+      },
+      "properties": {
+        "osm_id": 6367602978,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bakers Pride Cake Shop",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bakers Pride Cake Shop",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7808971,
+          18.5938367
+        ]
+      },
+      "properties": {
+        "osm_id": 6513414551,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hot Cakes",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hot Cakes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7803928,
+          18.5942053
+        ]
+      },
+      "properties": {
+        "osm_id": 6513414552,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hot Bakes",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hot Bakes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8191351,
+          18.585231
+        ]
+      },
+      "properties": {
+        "osm_id": 6514938737,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Chocolate Lovers Cakes and Cafe",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Chocolate Lovers Cakes and Cafe",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8477233,
+          18.6945172
+        ]
+      },
+      "properties": {
+        "osm_id": 7031749395,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7497521,
+          18.6109519
+        ]
+      },
+      "properties": {
+        "osm_id": 7031749458,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "New Poona Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9443665,
+          18.5282173
+        ]
+      },
+      "properties": {
+        "osm_id": 7747017914,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Piece of cake",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://pieceofbake.biz",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Piece of cake",
+          "shop": "bakery",
+          "website": "https://pieceofbake.biz"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7814123,
+          18.5886496
+        ]
+      },
+      "properties": {
+        "osm_id": 8282892122,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Capital Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "bakehouse",
+          "name": "Capital Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9093957,
+          18.6029443
+        ]
+      },
+      "properties": {
+        "osm_id": 9201735030,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Radhe Radhe Foods Decor",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Porwal Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411047",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411047",
+          "addr:street": "Porwal Road",
+          "name": "Radhe Radhe Foods Decor",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8467639,
+          18.5157459
+        ]
+      },
+      "properties": {
+        "osm_id": 9303624682,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Baburao Ganpatrao Virkar Rd, Narayan Peth, Pune, Maharashtra 411030",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Sa 07:30-21:00; Su 07:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housenumber": "546",
+          "addr:street": "Baburao Ganpatrao Virkar Rd, Narayan Peth, Pune, Maharashtra 411030",
+          "check_date": "2026-03-12",
+          "name": "New Poona Bakery",
+          "opening_hours": "Mo-Sa 07:30-21:00; Su 07:00-21:00",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7745119,
+          18.5696651
+        ]
+      },
+      "properties": {
+        "osm_id": 9348284341,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Theobroma",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Balewadi High Street",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411045",
+        "phone": "+91 81828 81881",
+        "website": "https://www.theobroma.in/",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411045",
+          "addr:street": "Balewadi High Street",
+          "air_conditioning": "yes",
+          "contact:facebook": "https://www.facebook.com/theobromaindia/",
+          "contact:instagram": "@theobromapatisserie",
+          "delivery:partner": "Zomato",
+          "email": "contact@theobroma.in",
+          "name": "Theobroma",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "outdoor_seating": "no",
+          "phone": "+91 81828 81881",
+          "shop": "bakery",
+          "takeaway": "yes",
+          "website": "https://www.theobroma.in/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7823338,
+          18.6193662
+        ]
+      },
+      "properties": {
+        "osm_id": 9381249800,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Classic Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pimpri-Chinchwad",
+        "addr_postcode": "411033",
+        "phone": "+918888380462",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pimpri-Chinchwad",
+          "addr:postcode": "411033",
+          "name": "Classic Bakery",
+          "name:hi": "क्लासिक बेकरी",
+          "phone": "+918888380462",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7301634,
+          18.669752
+        ]
+      },
+      "properties": {
+        "osm_id": 9944011659,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bakers Delight",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pendse colony ,opp shweta Aliminium",
+        "addr_suburb": null,
+        "addr_city": "Vikas Nagar",
+        "addr_postcode": "412101",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Vikas Nagar",
+          "addr:postcode": "412101",
+          "addr:street": "Pendse colony ,opp shweta Aliminium",
+          "name": "Bakers Delight",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7630658,
+          18.5937689
+        ]
+      },
+      "properties": {
+        "osm_id": 9947355217,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "मॅाडर्न बेकरी",
+        "name_en": "Modern bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "07:00-23:00",
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2022-08-11",
+          "name": "मॅाडर्न बेकरी",
+          "name:en": "Modern bakery",
+          "name:mr": "मॅाडर्न बेकरी",
+          "opening_hours": "07:00-23:00",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7698438,
+          18.5987182
+        ]
+      },
+      "properties": {
+        "osm_id": 9961484837,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona bakery",
+        "name_en": "New Poona bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 98508 87777",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2022-08-18",
+          "name": "New Poona bakery",
+          "name:en": "New Poona bakery",
+          "name:mr": "न्यू पूना बेकरी",
+          "phone": "+91 98508 87777",
+          "shop": "bakery",
+          "source": "survey;gps"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8287017,
+          18.4793405
+        ]
+      },
+      "properties": {
+        "osm_id": 10108645145,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Goodwill Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hingane Internal Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411051",
+        "phone": "09850270096",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Hingane Internal Road",
+          "name": "Goodwill Bakery",
+          "phone": "09850270096",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320344,
+          18.4781092
+        ]
+      },
+      "properties": {
+        "osm_id": 10108645155,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Tulsi Sweetmart",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Late Narayanrao Kondiba Jagtap Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411051",
+        "phone": "08010387007",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Late Narayanrao Kondiba Jagtap Path",
+          "name": "Tulsi Sweetmart",
+          "phone": "08010387007",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8093634,
+          18.4472532
+        ]
+      },
+      "properties": {
+        "osm_id": 10115879739,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Ribbons & Balloons Cake Shop",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "DSK Vishwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411041",
+        "phone": "08669696677",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "DSK Vishwa Road",
+          "name": "Ribbons & Balloons Cake Shop",
+          "phone": "08669696677",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7688089,
+          18.594675
+        ]
+      },
+      "properties": {
+        "osm_id": 10184847796,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Yokoso",
+        "name_en": "Yokoso",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": "japanese",
+        "addr_street": "रामभाऊ कलाटे मार्ग",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411057",
+        "phone": "+91 70577 01915",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "no",
+        "all_tags": {
+          "addr:floor": "1",
+          "addr:housenumber": "shop 12",
+          "addr:postcode": "411057",
+          "addr:street": "रामभाऊ कलाटे मार्ग",
+          "addr:unit": "Westwood estates",
+          "branch": "Wakad",
+          "check_date": "2023-06-09",
+          "cuisine": "japanese",
+          "description": "Japanese breads and bakery items",
+          "email": "yokoso.pune@gmail.com",
+          "level": "1",
+          "name": "Yokoso",
+          "name:en": "Yokoso",
+          "name:mr": "योकोसो",
+          "phone": "+91 70577 01915",
+          "shop": "bakery",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8155847,
+          18.5108347
+        ]
+      },
+      "properties": {
+        "osm_id": 10241751331,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Cake Cart",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Vishwashanti Marg",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411038",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411038",
+          "addr:street": "Vishwashanti Marg",
+          "name": "Cake Cart",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7411137,
+          18.5004417
+        ]
+      },
+      "properties": {
+        "osm_id": 10246158958,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Citizen Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Citizen Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8080341,
+          18.5532162
+        ]
+      },
+      "properties": {
+        "osm_id": 10250091303,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Fantasy Bakery And Patisserie",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Fantasy Bakery And Patisserie",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8081311,
+          18.553212
+        ]
+      },
+      "properties": {
+        "osm_id": 10250091304,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Copper Chocs",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Copper Chocs",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8082355,
+          18.5531995
+        ]
+      },
+      "properties": {
+        "osm_id": 10250091308,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "FNP Cakes",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "FNP Cakes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.774425,
+          18.5988328
+        ]
+      },
+      "properties": {
+        "osm_id": 10269316822,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "न्यू बेंगलोर अय्यंगार बेकारी",
+        "name_en": "New Bangalore Iyengar bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "09:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2022-12-17",
+          "name": "न्यू बेंगलोर अय्यंगार बेकारी",
+          "name:en": "New Bangalore Iyengar bakery",
+          "name:mr": "न्यू बेंगलोर अय्यंगार बेकारी",
+          "opening_hours": "09:00-22:00",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8626376,
+          18.5051062
+        ]
+      },
+      "properties": {
+        "osm_id": 10596043998,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Islamiya Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "Islamiya Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8626773,
+          18.5048936
+        ]
+      },
+      "properties": {
+        "osm_id": 10596069727,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "U P Yaadgar Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "U P Yaadgar Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7801121,
+          18.5448627
+        ]
+      },
+      "properties": {
+        "osm_id": 10799615906,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": "Sufiz Bake House",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pashan-Sus Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Pashan-Sus Road",
+          "name:en": "Sufiz Bake House",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7805793,
+          18.5447622
+        ]
+      },
+      "properties": {
+        "osm_id": 10799637605,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": "Sharvira's Delight",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pashan-Sus Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 8999581191",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Pashan-Sus Road",
+          "name:en": "Sharvira's Delight",
+          "phone": "+91 8999581191",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7965925,
+          18.6195384
+        ]
+      },
+      "properties": {
+        "osm_id": 10807058849,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Lucky Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Lucky Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.791166,
+          18.6182124
+        ]
+      },
+      "properties": {
+        "osm_id": 10807096302,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7890008,
+          18.5946192
+        ]
+      },
+      "properties": {
+        "osm_id": 10871066104,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Krishna bakery",
+        "name_en": "Krishna bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:floor": "G",
+          "check_date": "2023-05-05",
+          "level": "0",
+          "name": "Krishna bakery",
+          "name:en": "Krishna bakery",
+          "name:mr": "कृष्णा बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7889734,
+          18.5949463
+        ]
+      },
+      "properties": {
+        "osm_id": 10871085609,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "थिओब्रोमा",
+        "name_en": "Theobroma",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:floor": "G",
+          "check_date": "2023-05-05",
+          "level": "0",
+          "name": "थिओब्रोमा",
+          "name:en": "Theobroma",
+          "name:mr": "थिओब्रोमा",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7305903,
+          18.5480983
+        ]
+      },
+      "properties": {
+        "osm_id": 10872907306,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Gawande Cakes and Stationary",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Gawande Cakes and Stationary",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7289172,
+          18.5493739
+        ]
+      },
+      "properties": {
+        "osm_id": 10872907311,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Ubale Cake Corner",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Ubale Cake Corner",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7689368,
+          18.6165281
+        ]
+      },
+      "properties": {
+        "osm_id": 10895503980,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Rose bakery",
+        "name_en": "Rose bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2023-05-14",
+          "name": "Rose bakery",
+          "name:en": "Rose bakery",
+          "name:mr": "रोझ बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8048258,
+          18.5602141
+        ]
+      },
+      "properties": {
+        "osm_id": 11088744075,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Ramchandra Gayakwad Path",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411007",
+        "phone": null,
+        "website": "https://www.newpoonabakery.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411007",
+          "addr:street": "Ramchandra Gayakwad Path",
+          "check_date": "2026-03-10",
+          "name": "New Poona Bakery",
+          "payment:cash": "yes",
+          "payment:google_pay": "yes",
+          "payment:upi": "yes",
+          "payment:upi_qr": "yes",
+          "shop": "bakery",
+          "website": "https://www.newpoonabakery.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7923823,
+          18.5593777
+        ]
+      },
+      "properties": {
+        "osm_id": 11111717299,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Tokyo Bakery",
+        "name_en": "Tokyo Bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 98223 39730",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "contact:instagram": "tokyo.bakery",
+          "name": "Tokyo Bakery",
+          "name:en": "Tokyo Bakery",
+          "phone": "+91 98223 39730",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.767608,
+          18.6333041
+        ]
+      },
+      "properties": {
+        "osm_id": 11140397275,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": "New Poona Bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2023-08-24",
+          "name": "New Poona Bakery",
+          "name:en": "New Poona Bakery",
+          "name:mr": "न्यू पुना बेकरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7947271,
+          18.5557278
+        ]
+      },
+      "properties": {
+        "osm_id": 11159366006,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Maaru's Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Maaru's Bakers",
+          "name:hi": "मारुस बेकर्स",
+          "name:mr": "मारुस बेकर्स",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7865443,
+          18.5648628
+        ]
+      },
+      "properties": {
+        "osm_id": 11276113478,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "White Bells Bakers & Cafe",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "White Bells Bakers & Cafe",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7809448,
+          18.4430886
+        ]
+      },
+      "properties": {
+        "osm_id": 11292633356,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sinhagad Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411024",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411024",
+          "addr:street": "Sinhagad Road",
+          "name": "New Poona Bakery",
+          "payment:cash": "yes",
+          "payment:upi": "yes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8124613,
+          18.4746897
+        ]
+      },
+      "properties": {
+        "osm_id": 11301601980,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Cakes and Baloons",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Suncity Road",
+        "addr_suburb": "Pune",
+        "addr_city": "pune",
+        "addr_postcode": "411051",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411051",
+          "addr:street": "Suncity Road",
+          "name": "Cakes and Baloons",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8970289,
+          18.5968521
+        ]
+      },
+      "properties": {
+        "osm_id": 11505237920,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Parijat Sweets",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Parijat Sweets",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8108694,
+          18.4489934
+        ]
+      },
+      "properties": {
+        "osm_id": 11743268685,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Moti",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Dhayari Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411041",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "Dhayari Road",
+          "name": "Moti",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443822,
+          18.5229957
+        ]
+      },
+      "properties": {
+        "osm_id": 11766049477,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Santosh Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Apte Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:street": "Apte Path",
+          "name": "Santosh Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7864105,
+          18.4602256
+        ]
+      },
+      "properties": {
+        "osm_id": 11805002662,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Uttam Sweets",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Uttam Sweets",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8436688,
+          18.5236155
+        ]
+      },
+      "properties": {
+        "osm_id": 11829980051,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Santosh Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Santosh Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7393923,
+          18.5946049
+        ]
+      },
+      "properties": {
+        "osm_id": 12135341238,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Finix Bakery",
+        "name_en": "Finix Bakery",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Finix Bakery",
+          "name:en": "Finix Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7323653,
+          18.6609576
+        ]
+      },
+      "properties": {
+        "osm_id": 12595563160,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "golden bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "golden bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7741221,
+          18.5703742
+        ]
+      },
+      "properties": {
+        "osm_id": 12770264132,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Baker's Basket",
+        "name_en": "Baker's Basket",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Baker's Basket",
+          "name:en": "Baker's Basket",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8846799,
+          18.5342602
+        ]
+      },
+      "properties": {
+        "osm_id": 12919639837,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Vijay Mini Market",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Naylor Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Sa 07:00-19:00; Su 07:00-13:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411001",
+          "addr:street": "Naylor Road",
+          "check_date": "2026-03-09",
+          "name": "Vijay Mini Market",
+          "opening_hours": "Mo-Sa 07:00-19:00; Su 07:00-13:00",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8909256,
+          18.6715716
+        ]
+      },
+      "properties": {
+        "osm_id": 13047735101,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Maharashtra Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Maharashtra Bakers",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8544375,
+          18.4742795
+        ]
+      },
+      "properties": {
+        "osm_id": 13314575797,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "WS Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://wsbakers.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "WS Bakers",
+          "name:mr": "डब्ल्यूएस बेकर्स",
+          "shop": "bakery",
+          "website": "https://wsbakers.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8648312,
+          18.5215409
+        ]
+      },
+      "properties": {
+        "osm_id": 13380380302,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Jhadhav Bakers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Station Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411011",
+        "phone": "07057292111",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "somwar peth",
+          "addr:postcode": "411011",
+          "addr:street": "Station Road",
+          "check_date": "2026-03-13",
+          "name": "Jhadhav Bakers",
+          "payment:cash": "yes",
+          "payment:google_pay": "yes",
+          "phone": "07057292111",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8873464,
+          18.5880036
+        ]
+      },
+      "properties": {
+        "osm_id": 13380447638,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8628507,
+          18.5903398
+        ]
+      },
+      "properties": {
+        "osm_id": 13385590896,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Sugar Spice And Cafe Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "name": "Sugar Spice And Cafe Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7985666,
+          18.4818506
+        ]
+      },
+      "properties": {
+        "osm_id": 13541393273,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Cake Basket",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 97303 10503",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "no",
+        "all_tags": {
+          "addr:floor": "G",
+          "check_date": "2026-02-08",
+          "internet_access": "no",
+          "level": "0",
+          "name": "Cake Basket",
+          "name:hi": "केक बास्केट",
+          "phone": "+91 97303 10503",
+          "shop": "bakery",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.949845,
+          18.5962923
+        ]
+      },
+      "properties": {
+        "osm_id": 13589070888,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Kumar Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-02-22",
+          "name": "Kumar Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7926063,
+          18.5583046
+        ]
+      },
+      "properties": {
+        "osm_id": 13598173709,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bread Story",
+        "name_en": "Bread Story",
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Bread Story",
+          "name:en": "Bread Story",
+          "name:mr": "ब्रेड स्टोरी",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8534614,
+          18.5249531
+        ]
+      },
+      "properties": {
+        "osm_id": 13616177778,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Ramsar Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-04",
+          "name": "Ramsar Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8833282,
+          18.4665997
+        ]
+      },
+      "properties": {
+        "osm_id": 13619838569,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "World Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "no",
+        "all_tags": {
+          "check_date": "2026-03-05",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "World Bakery",
+          "name:hi": "वर्ल्ड बेकरी",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "bakery",
+          "toilets": "no",
+          "toilets:wheelchair": "no",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8187921,
+          18.6826069
+        ]
+      },
+      "properties": {
+        "osm_id": 13620774431,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hanuman Sweets",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-05",
+          "name": "Hanuman Sweets",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9541921,
+          18.505585
+        ]
+      },
+      "properties": {
+        "osm_id": 13629200608,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Poona Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8251884,
+          18.5055173
+        ]
+      },
+      "properties": {
+        "osm_id": 13633147898,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "New Poona Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "New Poona Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8893231,
+          18.5525314
+        ]
+      },
+      "properties": {
+        "osm_id": 13633266185,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Hinge Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "Hinge Bakery",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7872353,
+          18.6750946
+        ]
+      },
+      "properties": {
+        "osm_id": 13638752943,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Huma Bekary",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:floor": "1",
+          "check_date": "2026-03-11",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Huma Bekary",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8236164,
+          18.5293537
+        ]
+      },
+      "properties": {
+        "osm_id": 13875493920,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Butterfly Cakes",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-05-25",
+          "name": "Butterfly Cakes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8433013,
+          18.5098462
+        ]
+      },
+      "properties": {
+        "osm_id": 13875554605,
+        "osm_type": "node",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "check_date": "2026-05-25",
+          "internet_access": "no",
+          "name": "Bakery",
+          "shop": "bakery",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8881431,
+          18.5890672
+        ]
+      },
+      "properties": {
+        "osm_id": 359536083,
+        "osm_type": "way",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8877709,
+          18.5885886
+        ]
+      },
+      "properties": {
+        "osm_id": 359536085,
+        "osm_type": "way",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "shop": "bakery"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8107461,
+          18.4484211
+        ]
+      },
+      "properties": {
+        "osm_id": 360257160,
+        "osm_type": "way",
+        "category_declared": "Food",
+        "subcategory_declared": "Bakery",
+        "name": "Moti Bakery",
+        "name_en": null,
+        "amenity": "",
+        "shop": "bakery",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Moti Bakery",
+          "shop": "bakery"
+        }
+      }
+    }
+  ]
+}

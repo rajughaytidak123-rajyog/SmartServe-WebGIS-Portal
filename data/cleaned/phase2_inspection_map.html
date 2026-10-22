@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmartServe GIS — Phase 2 POI Inspection Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body, html { height: 100%; width: 100%; overflow: hidden; }
+    #map { height: 100%; width: 100%; }
+    .panel {
+      position: absolute; top: 16px; right: 16px; z-index: 1000;
+      background: rgba(255, 255, 255, 0.96); padding: 18px; border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15); max-width: 320px;
+      backdrop-filter: blur(8px); border: 1px solid rgba(0,0,0,0.08);
+    }
+    .panel h2 { font-size: 16px; color: #1a202c; margin-bottom: 6px; }
+    .panel p { font-size: 12.5px; color: #4a5568; margin-bottom: 12px; line-height: 1.4; }
+    .stat-row { display: flex; justify-content: space-between; font-size: 13px; font-weight: 500; margin-bottom: 6px; color: #2d3748; }
+    .badge { padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; color: white; }
+    .badge-hosp { background: #e74c3c; }
+    .badge-rest { background: #e67e22; }
+    .badge-fuel { background: #9b59b6; }
+  </style>
+</head>
+<body>
+  <div class="panel">
+    <h2>🗺️ SmartServe GIS - Phase 2</h2>
+    <p>Validated POIs inside PMC + PCMC study area</p>
+    <div class="stat-row">
+      <span>🏥 Hospitals</span>
+      <span class="badge badge-hosp">611</span>
+    </div>
+    <div class="stat-row">
+      <span>🍔 Restaurants</span>
+      <span class="badge badge-rest">870</span>
+    </div>
+    <div class="stat-row">
+      <span>⛽ Petrol Pumps</span>
+      <span class="badge badge-fuel">154</span>
+    </div>
+    <hr style="margin: 10px 0; border: none; border-top: 1px solid #e2e8f0;">
+    <div style="font-size: 11.5px; color: #718096;">
+      Total Clean POIs: <strong>1635</strong><br>
+      Study Area: <strong>PMC & PCMC (427.3 km²)</strong>
+    </div>
+  </div>
+
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([18.55, 73.85], 12);
+    
+    // Basemap
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    // Boundary Layer
+    fetch('../boundary/pmc_pcmc_combined.geojson')
+      .then(r => r.json())
+      .then(boundaryData => {
+        L.geoJSON(boundaryData, {
+          style: feature => ({
+            color: feature.properties.municipality === 'PMC' ? '#2980b9' : '#27ae60',
+            weight: 2,
+            fillColor: feature.properties.municipality === 'PMC' ? '#3498db' : '#2ecc71',
+            fillOpacity: 0.12
+          })
+        }).addTo(map);
+      });
+
+    // Helper to add POI layer
+    function addPoiLayer(url, color, iconSymbol, layerGroupName) {
+      const layerGroup = L.layerGroup().addTo(map);
+      fetch(url)
+        .then(r => r.json())
+        .then(data => {
+          L.geoJSON(data, {
+            pointToLayer: (feature, latlng) => {
+              return L.circleMarker(latlng, {
+                radius: 6,
+                fillColor: color,
+                color: '#ffffff',
+                weight: 1.5,
+                opacity: 1,
+                fillOpacity: 0.85
+              });
+            },
+            onEachFeature: (feature, layer) => {
+              const p = feature.properties;
+              layer.bindPopup(`
+                <div style="font-size: 13px; line-height: 1.45;">
+                  <h4 style="margin: 0 0 4px 0; color: ${color};">${iconSymbol} ${p.name}</h4>
+                  <strong>Category:</strong> ${p.category} / ${p.subcategory}<br>
+                  <strong>Municipality:</strong> ${p.municipality}<br>
+                  <strong>Address:</strong> ${p.address || 'N/A'}<br>
+                  ${p.phone ? `<strong>Phone:</strong> ${p.phone}<br>` : ''}
+                  ${p.website ? `<strong>Website:</strong> <a href="${p.website}" target="_blank">Link</a><br>` : ''}
+                  ${p.opening_hours ? `<strong>Hours:</strong> ${p.opening_hours}<br>` : ''}
+                  <small style="color: #718096;">OSM ID: ${p.osm_id}</small>
+                </div>
+              `);
+            }
+          }).addTo(layerGroup);
+        });
+      return layerGroup;
+    }
+
+    const hospLayer = addPoiLayer('hospitals.geojson', '#e74c3c', '🏥', 'Hospitals');
+    const fuelLayer = addPoiLayer('petrol_pumps.geojson', '#9b59b6', '⛽', 'Petrol Pumps');
+    const restLayer = addPoiLayer('restaurants.geojson', '#e67e22', '🍔', 'Restaurants');
+
+    L.control.layers(null, {
+      '🏥 Hospitals': hospLayer,
+      '🍔 Restaurants': restLayer,
+      '⛽ Petrol Pumps': fuelLayer
+    }, { collapsed: false }).addTo(map);
+  </script>
+</body>
+</html>

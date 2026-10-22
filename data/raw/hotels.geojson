@@ -1,0 +1,7001 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_hotels",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8815099,
+          18.5382482
+        ]
+      },
+      "properties": {
+        "osm_id": 518295334,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sun N Sand",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "Sun N Sand",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8831852,
+          18.5395872
+        ]
+      },
+      "properties": {
+        "osm_id": 518295336,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sriman",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Sriman",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8830135,
+          18.5394081
+        ]
+      },
+      "properties": {
+        "osm_id": 518640965,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sirona",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Sirona",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.878853,
+          18.5181549
+        ]
+      },
+      "properties": {
+        "osm_id": 671455736,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Aurora Towers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Aurora Towers",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8363021,
+          18.5178872
+        ]
+      },
+      "properties": {
+        "osm_id": 674075322,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Raviraj",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Raviraj",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8766107,
+          18.5201845
+        ]
+      },
+      "properties": {
+        "osm_id": 789630802,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sagar Plaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "Sagar Plaza",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8357003,
+          18.5380015
+        ]
+      },
+      "properties": {
+        "osm_id": 1065834426,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Gordon House",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "The Gordon House",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8877559,
+          18.5411401
+        ]
+      },
+      "properties": {
+        "osm_id": 1651570397,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Executive Residency",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "Hotel Executive Residency",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8773743,
+          18.6768318
+        ]
+      },
+      "properties": {
+        "osm_id": 1761902496,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "shitai hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "shitai hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8232862,
+          18.505459
+        ]
+      },
+      "properties": {
+        "osm_id": 2566241275,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sadanand",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Sadanand",
+          "name:mr": "सदानंद",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7827827,
+          18.5080071
+        ]
+      },
+      "properties": {
+        "osm_id": 3377351273,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Viva Inn",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Viva Inn",
+          "name:mr": "व्हिवा इन",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8765561,
+          18.5234559
+        ]
+      },
+      "properties": {
+        "osm_id": 3377492263,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ritz Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "Ritz Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7871856,
+          18.4448095
+        ]
+      },
+      "properties": {
+        "osm_id": 3683345640,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Swagat Luxury Lodging",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+919860745456",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Swagat Luxury Lodging",
+          "phone": "+919860745456",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8518395,
+          18.5135819
+        ]
+      },
+      "properties": {
+        "osm_id": 3872878964,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Abhijeet New Sweet Home",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-15",
+          "name": "Hotel Abhijeet New Sweet Home",
+          "name:mr": "हॉटल अभीजीत न्यू स्वीट होम",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7515903,
+          18.6075994
+        ]
+      },
+      "properties": {
+        "osm_id": 4202454789,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ginger hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Ginger hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8831426,
+          18.5351646
+        ]
+      },
+      "properties": {
+        "osm_id": 4304526698,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Conrad Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Conrad",
+        "operator": "Hilton Hotels",
+        "cuisine": null,
+        "addr_street": "Mangaldas Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "+91-20-67456745",
+        "website": "https://www.hilton.com/en/hotels/pnqcici-conrad-pune/",
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "7",
+          "addr:postcode": "411001",
+          "addr:street": "Mangaldas Road",
+          "brand": "Conrad",
+          "brand:wikidata": "Q855525",
+          "building": "yes",
+          "check_date": "2026-03-10",
+          "contact:facebook": "https://www.facebook.com/PuneConrad/304526698",
+          "contact:instagram": "https://www.instagram.com/conradpune/",
+          "contact:twitter": "https://twitter.com/Conrad_Pune",
+          "email": "conradpune.info@conradhotels.com",
+          "fax": "+91-20-67456746",
+          "name": "Conrad Pune",
+          "operator": "Hilton Hotels",
+          "phone": "+91-20-67456745",
+          "rooms": "310",
+          "smoking": "no",
+          "stars": "5",
+          "tourism": "hotel",
+          "website": "https://www.hilton.com/en/hotels/pnqcici-conrad-pune/",
+          "wheelchair": "yes",
+          "wikidata": "Q29948631"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9106668,
+          18.5334614
+        ]
+      },
+      "properties": {
+        "osm_id": 4310403862,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Marriott Suites Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Mundhwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411036",
+        "phone": "+912067257777",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "81",
+          "addr:postcode": "411036",
+          "addr:street": "Mundhwa Road",
+          "check_date": "2026-03-10",
+          "internet_access": "wlan",
+          "name": "Marriott Suites Pune",
+          "phone": "+912067257777",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8663009,
+          18.5221486
+        ]
+      },
+      "properties": {
+        "osm_id": 4483816197,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "20-20",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-13",
+          "name:en": "20-20",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8440083,
+          18.5194183
+        ]
+      },
+      "properties": {
+        "osm_id": 4520428092,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Shreyas",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Shreyas",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.844505,
+          18.5216801
+        ]
+      },
+      "properties": {
+        "osm_id": 4520483892,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Ramee Grand",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Ramee Grand",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8666084,
+          18.515394
+        ]
+      },
+      "properties": {
+        "osm_id": 4520767790,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "royal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-17",
+          "name": "royal",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8873459,
+          18.53323
+        ]
+      },
+      "properties": {
+        "osm_id": 4583821518,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Treebo Hotels Guest House",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Treebo Hotels Guest House",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8970091,
+          18.5316743
+        ]
+      },
+      "properties": {
+        "osm_id": 4691538513,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Apple Tree",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "Apple Tree",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8736042,
+          18.5273422
+        ]
+      },
+      "properties": {
+        "osm_id": 4730482027,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Milan Lodge",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "Milan Lodge",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8737963,
+          18.5272726
+        ]
+      },
+      "properties": {
+        "osm_id": 4730484323,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Hotel Homeland",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "Hotel Homeland",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8734536,
+          18.5271877
+        ]
+      },
+      "properties": {
+        "osm_id": 4730485322,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Central Lodge",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "Central Lodge",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8739476,
+          18.5272572
+        ]
+      },
+      "properties": {
+        "osm_id": 4730485323,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "The Samrat Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "The Samrat Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8193122,
+          18.5402961
+        ]
+      },
+      "properties": {
+        "osm_id": 4826542522,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Abhiman Veg",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Abhiman Veg",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8503042,
+          18.6479686
+        ]
+      },
+      "properties": {
+        "osm_id": 4826707024,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Janjira hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Janjira hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8403418,
+          18.529243
+        ]
+      },
+      "properties": {
+        "osm_id": 5257359322,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Shiv Hospitality",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Lakaki Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Lakaki Road",
+          "internet_access": "wlan",
+          "name:en": "Shiv Hospitality",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9021161,
+          18.5711184
+        ]
+      },
+      "properties": {
+        "osm_id": 5296726522,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "My Daddy's Home",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "My Daddy's Home",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8038269,
+          18.6327562
+        ]
+      },
+      "properties": {
+        "osm_id": 5393269221,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Fabhotel gharonda",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pimpri Chowk",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Pimpri Chowk",
+          "name:en": "Fabhotel gharonda",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8075688,
+          18.6282118
+        ]
+      },
+      "properties": {
+        "osm_id": 6072672424,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Holiday Inn Express Pune Pimpri",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Holiday Inn Express",
+        "operator": "IHG",
+        "cuisine": null,
+        "addr_street": "Plot No.- 2 CTS No.- 5758 B",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411018",
+        "phone": "20-66354444",
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/pune-pimpri/pnqpp/hoteldetail",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411018",
+          "addr:street": "Plot No.- 2 CTS No.- 5758 B",
+          "brand": "Holiday Inn Express",
+          "brand:wikidata": "Q5880423",
+          "internet_access": "wlan",
+          "name": "Holiday Inn Express Pune Pimpri",
+          "operator": "IHG",
+          "phone": "20-66354444",
+          "tourism": "hotel",
+          "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/pune-pimpri/pnqpp/hoteldetail"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8495974,
+          18.5253347
+        ]
+      },
+      "properties": {
+        "osm_id": 6116290217,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Royal Palace",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hotel Royal Palace",
+          "name:mr": "हॉटेल रॉयल पॅलेस",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8434296,
+          18.5205136
+        ]
+      },
+      "properties": {
+        "osm_id": 6379895385,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Hotel Ramee Grand",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Hotel Ramee Grand",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7539775,
+          18.6038733
+        ]
+      },
+      "properties": {
+        "osm_id": 6513236837,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Treebo Ranjana's",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Treebo Ranjana's",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8015798,
+          18.631858
+        ]
+      },
+      "properties": {
+        "osm_id": 7083553559,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Keys Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Keys Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7556377,
+          18.6072368
+        ]
+      },
+      "properties": {
+        "osm_id": 7314290486,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Hotel Madina Darbar",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name:en": "Hotel Madina Darbar",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8530683,
+          18.5232218
+        ]
+      },
+      "properties": {
+        "osm_id": 7770919557,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Nishigandha",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Nishigandha",
+          "name:mr": "निशिगंधा",
+          "tourism": "hotel",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7336641,
+          18.6512145
+        ]
+      },
+      "properties": {
+        "osm_id": 9488487417,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Hotel Gokul truck parking Suvidha",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Westerly Diversion",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Westerly Diversion",
+          "name:en": "Hotel Gokul truck parking Suvidha",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.775589,
+          18.6002848
+        ]
+      },
+      "properties": {
+        "osm_id": 9935595723,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ambience",
+        "name_en": "Ambience",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Ambience",
+          "name:en": "Ambience",
+          "name:mr": "ॲंबीयन्स",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7854961,
+          18.4445206
+        ]
+      },
+      "properties": {
+        "osm_id": 10091349944,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Muktai Veg & Non Veg",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sinhagad Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411024",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411024",
+          "addr:street": "Sinhagad Road",
+          "name": "Hotel Muktai Veg & Non Veg",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7855709,
+          18.4445889
+        ]
+      },
+      "properties": {
+        "osm_id": 10091349946,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Mejwani pure veg",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sinhagad Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411024",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411024",
+          "addr:street": "Sinhagad Road",
+          "name": "Mejwani pure veg",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9112408,
+          18.6083116
+        ]
+      },
+      "properties": {
+        "osm_id": 10219080673,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "hotel5",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "hotel5",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8538827,
+          18.49755
+        ]
+      },
+      "properties": {
+        "osm_id": 10612527938,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Raj Mahal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Raj Mahal",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.730659,
+          18.5950724
+        ]
+      },
+      "properties": {
+        "osm_id": 10708860915,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "FabExpress SRH",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "fabhotels",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hinjawadi Phase 1 Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": null,
+        "website": "https://www.fabhotels.com/?source=google&medium=ppc&campaignid=1751436608&adgroupid=67318237623&device=c&keyword=fabhotels",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "No 285, 285/3/B Sr, 3/B,",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 1 Road",
+          "brand": "fabhotels",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "FabExpress SRH",
+          "tourism": "hotel",
+          "website": "https://www.fabhotels.com/?source=google&medium=ppc&campaignid=1751436608&adgroupid=67318237623&device=c&keyword=fabhotels"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7313554,
+          18.5854133
+        ]
+      },
+      "properties": {
+        "osm_id": 10716095027,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Treebo Trend Niraali Executive",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Treebo Trend",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Treebo Trend",
+          "brand:wikidata": "Q122214091",
+          "name": "Treebo Trend Niraali Executive",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7174831,
+          18.5961238
+        ]
+      },
+      "properties": {
+        "osm_id": 10720417737,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ibis Hinjawadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Ibis Hinjawadi",
+          "name:mr": "आयबीस हिंजवडी",
+          "resort": "resort",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7404677,
+          18.5855164
+        ]
+      },
+      "properties": {
+        "osm_id": 10725397424,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "OYO Flagship IT Park",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "OYO",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "OYO",
+          "brand:wikidata": "Q24906315",
+          "name": "OYO Flagship IT Park",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.762636,
+          18.6125864
+        ]
+      },
+      "properties": {
+        "osm_id": 10727060080,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Apapa Idali Dosa Center",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Shop No, JQ66+VWG, 4, Dange Chowk Rd, Yashoda Colony, Wakad, Pune, Maharashtra 411057",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Shop No, JQ66+VWG, 4, Dange Chowk Rd, Yashoda Colony, Wakad, Pune, Maharashtra 411057",
+          "name": "Apapa Idali Dosa Center",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8877419,
+          18.5398003
+        ]
+      },
+      "properties": {
+        "osm_id": 10737339660,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "O Hotel Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "O Hotel Pune",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8746149,
+          18.5315727
+        ]
+      },
+      "properties": {
+        "osm_id": 10789614205,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": "Hotel Shree Panchratna",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name:en": "Hotel Shree Panchratna",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7397323,
+          18.5827075
+        ]
+      },
+      "properties": {
+        "osm_id": 10806871454,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Mahi Dhaba",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Mahi Dhaba",
+          "name:hi": "माही ढाबा",
+          "name:mr": "माही ढाबा",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7311584,
+          18.5844788
+        ]
+      },
+      "properties": {
+        "osm_id": 10806928431,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "swa rashtra",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housenumber": "maan road",
+          "name": "swa rashtra",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7412591,
+          18.5883877
+        ]
+      },
+      "properties": {
+        "osm_id": 10806952580,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Shree Inn",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sakhare Vasti Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Sakhare Vasti Road",
+          "name": "Shree Inn",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7922832,
+          18.6107793
+        ]
+      },
+      "properties": {
+        "osm_id": 10807145872,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Nana Shri Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Nana Shri Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8493801,
+          18.6344931
+        ]
+      },
+      "properties": {
+        "osm_id": 10807159518,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Haveli",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pune Nashik Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411039",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housenumber": "Indrayani Nagar Bus Stop, Near, Pune - Nashik Hwy, , Sector No. 1, Bhosari, Pimpri-Chinchwad, Maharashtra",
+          "addr:postcode": "411039",
+          "addr:street": "Pune Nashik Road",
+          "name": "Hotel Haveli",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7349768,
+          18.5857369
+        ]
+      },
+      "properties": {
+        "osm_id": 11034313918,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Executive Tamanna",
+        "name_en": "Executive Tamanna",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2023-07-08",
+          "name": "Executive Tamanna",
+          "name:en": "Executive Tamanna",
+          "name:mr": "एक्झिक्युटिव्ह तमन्ना",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7978999,
+          18.5553113
+        ]
+      },
+      "properties": {
+        "osm_id": 11159359797,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "OYO Vys Inn",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "OYO",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "OYO",
+          "brand:wikidata": "Q24906315",
+          "name": "OYO Vys Inn",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8343856,
+          18.509757
+        ]
+      },
+      "properties": {
+        "osm_id": 11274086085,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "YKS Sizzlers",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "YKS Sizzlers",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7501222,
+          18.6355676
+        ]
+      },
+      "properties": {
+        "osm_id": 11522941228,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Samadhan Mutton Khanawal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Samadhan Mutton Khanawal",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7847402,
+          18.6327503
+        ]
+      },
+      "properties": {
+        "osm_id": 11546593315,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Oyo Kamini",
+        "name_en": "Oyo Kamini",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2024-01-21",
+          "name": "Oyo Kamini",
+          "name:en": "Oyo Kamini",
+          "name:mr": "ओयो कामिनी",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8427918,
+          18.5276184
+        ]
+      },
+      "properties": {
+        "osm_id": 11622266009,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Sheetal",
+        "name_en": "Hotel Sheetal",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Gopal Krushna Gokhale Path",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411005",
+        "phone": "+91 20 2553 5165;+91 20 2553 5627;+91 20 2553 5168;+91 20 2553 5149",
+        "website": "https://hotelsheetal.net",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housenumber": "1180",
+          "addr:postcode": "411005",
+          "addr:street": "Gopal Krushna Gokhale Path",
+          "contact:email": "info@hotelsheetal.net",
+          "contact:mobile": "+91 901 103 5277",
+          "internet_access": "yes",
+          "internet_access:fee": "customers",
+          "name": "Hotel Sheetal",
+          "name:en": "Hotel Sheetal",
+          "name:hi": "हॉटेल शीतल",
+          "name:mr": "हॉटेल शीतल",
+          "phone": "+91 20 2553 5165;+91 20 2553 5627;+91 20 2553 5168;+91 20 2553 5149",
+          "tourism": "hotel",
+          "website": "https://hotelsheetal.net"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8970481,
+          18.536234
+        ]
+      },
+      "properties": {
+        "osm_id": 11733845318,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Lotus",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "Hotel Lotus",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8441616,
+          18.5224671
+        ]
+      },
+      "properties": {
+        "osm_id": 11766804565,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Centro",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hotel Centro",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9076094,
+          18.5967799
+        ]
+      },
+      "properties": {
+        "osm_id": 11779880504,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Arusai",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Dhanori - Kalwad Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:street": "Dhanori - Kalwad Road",
+          "name": "Hotel Arusai",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7862933,
+          18.4604555
+        ]
+      },
+      "properties": {
+        "osm_id": 11805017443,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Aura Celestia - Bar, Kitchen & Celebration",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Aura Celestia - Bar, Kitchen & Celebration",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7556585,
+          18.4291281
+        ]
+      },
+      "properties": {
+        "osm_id": 11811093232,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "AQUARIUS Resort & Lawns",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sinhagad Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411025",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411025",
+          "addr:street": "Sinhagad Road",
+          "name": "AQUARIUS Resort & Lawns",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9119574,
+          18.5594575
+        ]
+      },
+      "properties": {
+        "osm_id": 11861991263,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hyatt Regency Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Hyatt Regency",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Nagar Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:street": "Nagar Road",
+          "brand": "Hyatt Regency",
+          "brand:wikidata": "Q1425063",
+          "check_date": "2026-03-09",
+          "name": "Hyatt Regency Pune",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8118102,
+          18.625453
+        ]
+      },
+      "properties": {
+        "osm_id": 12049076647,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "H.A. Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "pune",
+        "addr_city": "pimpri",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pimpri",
+          "addr:district": "pune",
+          "name": "H.A. Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7295559,
+          18.6632379
+        ]
+      },
+      "properties": {
+        "osm_id": 12595078708,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "HARIYALADAMMA ENTERPRISES",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "HARIYALADAMMA ENTERPRISES",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7310043,
+          18.6604599
+        ]
+      },
+      "properties": {
+        "osm_id": 12595563194,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Siddeshwar hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Siddeshwar hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7883785,
+          18.648223
+        ]
+      },
+      "properties": {
+        "osm_id": 12629845530,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Regenta",
+        "name_en": "Regenta",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2025-03-02",
+          "name": "Regenta",
+          "name:en": "Regenta",
+          "name:mr": "रिजेंटा",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7752769,
+          18.5673619
+        ]
+      },
+      "properties": {
+        "osm_id": 12861335429,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "FabHotels FabExpress The Corporate Hub",
+        "name_en": "FabHotels FabExpress The Corporate Hub",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "FabHotels",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.fabhotels.com/hotels-in-pune/fabexpress-the-corporate-hub-giyeqqqp.html",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "FabHotels",
+          "brand:wikidata": "Q55611387",
+          "name": "FabHotels FabExpress The Corporate Hub",
+          "name:en": "FabHotels FabExpress The Corporate Hub",
+          "tourism": "hotel",
+          "website": "https://www.fabhotels.com/hotels-in-pune/fabexpress-the-corporate-hub-giyeqqqp.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7753078,
+          18.5673278
+        ]
+      },
+      "properties": {
+        "osm_id": 12861335430,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Highstreet Legacy",
+        "name_en": "The Highstreet Legacy",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 90901 68989;+91 90907 68989",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "contact:instagram": "the_highstreet_legacy",
+          "email": "thehighstreetlegacy@gmail.com",
+          "name": "The Highstreet Legacy",
+          "name:en": "The Highstreet Legacy",
+          "phone": "+91 90901 68989;+91 90907 68989",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7805725,
+          18.5691742
+        ]
+      },
+      "properties": {
+        "osm_id": 12863148738,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Yellow House",
+        "name_en": "Hotel Yellow House",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 76339 47633",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hotel Yellow House",
+          "name:en": "Hotel Yellow House",
+          "phone": "+91 76339 47633",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8488019,
+          18.7124594
+        ]
+      },
+      "properties": {
+        "osm_id": 13180319813,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Crown Imperial",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hotel Crown Imperial",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8780455,
+          18.5441362
+        ]
+      },
+      "properties": {
+        "osm_id": 13380879921,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hygiene hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Deccan College Road",
+        "addr_suburb": "PUNE DISTRICT",
+        "addr_city": "PUNE",
+        "addr_postcode": "411006",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "PUNE",
+          "addr:district": "PUNE DISTRICT",
+          "addr:postcode": "411006",
+          "addr:street": "Deccan College Road",
+          "check_date": "2026-03-09",
+          "name": "Hygiene hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8763353,
+          18.5774292
+        ]
+      },
+      "properties": {
+        "osm_id": 13381083349,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Kwality Biryani",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "Kwality Biryani",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8881187,
+          18.6647232
+        ]
+      },
+      "properties": {
+        "osm_id": 13390526902,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel kunal garden",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Alandi-Vishrantwadi Service Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:street": "Alandi-Vishrantwadi Service Road",
+          "name": "Hotel kunal garden",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8854431,
+          18.6579324
+        ]
+      },
+      "properties": {
+        "osm_id": 13392489503,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel prathamjay",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sant Dyaneshwar Marg",
+        "addr_suburb": "pune",
+        "addr_city": "pune",
+        "addr_postcode": "412105",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "pune",
+          "addr:postcode": "412105",
+          "addr:street": "Sant Dyaneshwar Marg",
+          "name": "Hotel prathamjay",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8972489,
+          18.5527401
+        ]
+      },
+      "properties": {
+        "osm_id": 13616216731,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Golden Arc Boutique Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-04",
+          "name": "The Golden Arc Boutique Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8856519,
+          18.5454264
+        ]
+      },
+      "properties": {
+        "osm_id": 13624435241,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Prince Regency",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-07",
+          "name": "Prince Regency",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8471648,
+          18.5311147
+        ]
+      },
+      "properties": {
+        "osm_id": 13637489744,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Pride",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "Pride",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7836345,
+          18.6109879
+        ]
+      },
+      "properties": {
+        "osm_id": 13638581258,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Kunal Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "Kunal Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8717672,
+          18.529972
+        ]
+      },
+      "properties": {
+        "osm_id": 13725558291,
+        "osm_type": "node",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sheraton Grand",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-04-12",
+          "name": "Sheraton Grand",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8713588,
+          18.5301673
+        ]
+      },
+      "properties": {
+        "osm_id": 52881227,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sheraton Grand Pune",
+        "name_en": "Sheraton Grand Pune",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Sheraton",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Sheraton",
+          "brand:wikidata": "Q634831",
+          "check_date": "2026-03-12",
+          "name": "Sheraton Grand Pune",
+          "name:en": "Sheraton Grand Pune",
+          "name:mr": "शेरेटन ग्रँड पुणे",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8786098,
+          18.5274938
+        ]
+      },
+      "properties": {
+        "osm_id": 63974886,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Central Park",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "hotel",
+          "check_date": "2026-03-12",
+          "name": "Central Park",
+          "name:mr": "सेंट्रल पार्क",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8472504,
+          18.5313574
+        ]
+      },
+      "properties": {
+        "osm_id": 103687095,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Pride Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Ganeshkhind Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411005",
+        "phone": null,
+        "website": "https://www.pridehotel.com/pune-hotels/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411005",
+          "addr:street": "Ganeshkhind Road",
+          "building": "yes",
+          "name": "The Pride Hotel",
+          "name:mr": "द प्राईड हॉटेल",
+          "tourism": "hotel",
+          "website": "https://www.pridehotel.com/pune-hotels/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8858865,
+          18.5385851
+        ]
+      },
+      "properties": {
+        "osm_id": 108093160,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "St. Laurn Business Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411001",
+          "addr:province": "Koregaon Park",
+          "addr:state": "MH",
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "name": "St. Laurn Business Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9061274,
+          18.5394176
+        ]
+      },
+      "properties": {
+        "osm_id": 108093162,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Westin",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Westin",
+        "operator": "Starwood Hotels",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "+91 20 6721 0000",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411001",
+          "alt_name": "The Westin Pune Koregaon Park",
+          "brand": "Westin",
+          "brand:wikidata": "Q1969162",
+          "check_date": "2026-03-10",
+          "name": "Westin",
+          "operator": "Starwood Hotels",
+          "phone": "+91 20 6721 0000",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.886456,
+          18.5382626
+        ]
+      },
+      "properties": {
+        "osm_id": 108093182,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Vivanta By Taj - Blue Diamond, Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Koregaon Road",
+        "addr_suburb": "Koregaon Park",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "+91 20 66025555",
+        "website": "https://www.vivantabytaj.com/Blue-Diamond-Pune/Overview.html",
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housenumber": "11",
+          "addr:postcode": "411001",
+          "addr:state": "MH",
+          "addr:street": "Koregaon Road",
+          "addr:suburb": "Koregaon Park",
+          "check_date": "2026-03-09",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "name": "Vivanta By Taj - Blue Diamond, Pune",
+          "phone": "+91 20 66025555",
+          "smoking": "yes",
+          "tourism": "hotel",
+          "website": "https://www.vivantabytaj.com/Blue-Diamond-Pune/Overview.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8877506,
+          18.5399935
+        ]
+      },
+      "properties": {
+        "osm_id": 108093183,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The O Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-11",
+          "name": "The O Hotel",
+          "name:mr": "द ओ हॉटेल",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8766262,
+          18.5282453
+        ]
+      },
+      "properties": {
+        "osm_id": 108098263,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Ashirwad",
+        "name_en": "Hotel Ashirwad",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-12",
+          "name": "Hotel Ashirwad",
+          "name:en": "Hotel Ashirwad",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8753748,
+          18.5251923
+        ]
+      },
+      "properties": {
+        "osm_id": 108322834,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Woodland",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Dr. Annie Besant Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411001",
+          "addr:street": "Dr. Annie Besant Path",
+          "bar": "yes",
+          "building": "yes",
+          "check_date": "2026-03-12",
+          "name": "Hotel Woodland",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9183076,
+          18.4640711
+        ]
+      },
+      "properties": {
+        "osm_id": 125487666,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Corinthians Club",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411060",
+        "phone": "+91 20 2695 2222",
+        "website": "https://www.thecorinthianspune.com/",
+        "opening_hours": null,
+        "wheelchair": "limited",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:district": "Pune",
+          "addr:postcode": "411060",
+          "addr:state": "MH",
+          "contact:facebook": "https://www.facebook.com/thecorinthianspune",
+          "contact:instagram": "https://www.instagram.com/thecorinthianspune/",
+          "contact:linkedin": "https://www.linkedin.com/company/the-corinthians-resort-&-club---india/",
+          "contact:twitter": "https://twitter.com/corinthianspune",
+          "contact:youtube": "https://www.youtube.com/@TheCorinthiansResortClubPune",
+          "email": "reservations@thecorinthianspune.com",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "mobile": "+91 965 771 1662;+91 744 778 2591;+91 888 888 1220;+91 744 775 7850",
+          "name": "The Corinthians Club",
+          "phone": "+91 20 2695 2222",
+          "smoking": "yes",
+          "stars": "5",
+          "tourism": "hotel",
+          "website": "https://www.thecorinthianspune.com/",
+          "wheelchair": "limited",
+          "wikidata": "Q111402288",
+          "wikimedia_commons": "Category:Corinthians_Club"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9064797,
+          18.5463157
+        ]
+      },
+      "properties": {
+        "osm_id": 147854712,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Royal Orchid Central",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Kalyani Nagar",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411014",
+        "phone": "+91 20 4000 3000",
+        "website": "http://www.royalorchidhotels.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housename": "Marisoft Annexe",
+          "addr:postcode": "411014",
+          "addr:street": "Kalyani Nagar",
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "contact:email": "roc.pune@royalorchidhotels.com",
+          "contact:phone": "+91 20 4000 3000",
+          "contact:website": "http://www.royalorchidhotels.com",
+          "name": "Royal Orchid Central",
+          "rooms": "115",
+          "tourism": "hotel",
+          "website": "http://www.royalorchidhotels.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8249868,
+          18.4594128
+        ]
+      },
+      "properties": {
+        "osm_id": 158333562,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Deccan Pavilion",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "02066834567",
+        "website": "http://www.deccanpavilion.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "contact:phone": "02066834567",
+          "contact:phone_1": "09595695956",
+          "contact:website": "http://www.deccanpavilion.com/",
+          "name": "Deccan Pavilion",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.912994,
+          18.5597437
+        ]
+      },
+      "properties": {
+        "osm_id": 168413352,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ibis Pune Viman Nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ibis",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Ibis",
+          "brand:wikidata": "Q920166",
+          "building": "hotel",
+          "check_date": "2026-03-09",
+          "name": "Ibis Pune Viman Nagar",
+          "name:mr": "हॉटेल आयबीस",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8408673,
+          18.5174917
+        ]
+      },
+      "properties": {
+        "osm_id": 202296449,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Oakwood Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "The Oakwood Hotel",
+          "smoking": "separated",
+          "stars": "3",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285163,
+          18.5149196
+        ]
+      },
+      "properties": {
+        "osm_id": 202301136,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Krishna Hotel And Restaurant",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "commercial",
+          "name": "Krishna Hotel And Restaurant",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8295571,
+          18.5323484
+        ]
+      },
+      "properties": {
+        "osm_id": 211082516,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "JW Marriott Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "JW Marriott",
+        "operator": "JW Marriott Hotels",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "yes",
+          "brand": "JW Marriott",
+          "brand:wikidata": "Q1067636",
+          "building:levels": "17",
+          "check_date": "2025-07-15",
+          "check_date:swimming_pool": "2025-07-15",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "JW Marriott Pune",
+          "operator": "JW Marriott Hotels",
+          "sauna": "yes",
+          "stars": "5",
+          "swimming_pool": "outdoor",
+          "tourism": "hotel",
+          "wikimedia_commons": "File:Side view of JW Marriot, Pune.jpg"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8430294,
+          18.5180904
+        ]
+      },
+      "properties": {
+        "osm_id": 218078553,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Kohinoor Executive",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.kohinoorhotels.com/Executive/info.htm",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Kohinoor Executive",
+          "tourism": "hotel",
+          "website": "https://www.kohinoorhotels.com/Executive/info.htm"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8422293,
+          18.5192586
+        ]
+      },
+      "properties": {
+        "osm_id": 218078562,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Smart Inn",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Smart Inn",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "http://www.smartinn.co.in/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Smart Inn",
+          "name:mr": "स्मार्ट इन",
+          "operator": "Smart Inn",
+          "tourism": "hotel",
+          "website": "http://www.smartinn.co.in/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8416815,
+          18.5237529
+        ]
+      },
+      "properties": {
+        "osm_id": 218405522,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ashish Plaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "hotel",
+          "name": "Ashish Plaza",
+          "name:mr": "आशिष प्लाझा",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8767658,
+          18.5311678
+        ]
+      },
+      "properties": {
+        "osm_id": 219798480,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Crowne Plaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "IHG",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "name": "Crowne Plaza",
+          "name:mr": "क्राऊन प्लाझा",
+          "operator": "IHG",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7639265,
+          18.5705337
+        ]
+      },
+      "properties": {
+        "osm_id": 239962308,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Orchid",
+        "name_en": "The Orchid",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.orchidhotel.com/pune/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "yes",
+          "email": "resv.pune@orchidhotel.com",
+          "mobile": "+91 91691 66789",
+          "name": "The Orchid",
+          "name:en": "The Orchid",
+          "name:hi": "द ऑर्किड",
+          "name:mr": "द ऑर्किड",
+          "tourism": "hotel",
+          "website": "https://www.orchidhotel.com/pune/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9221478,
+          18.5626892
+        ]
+      },
+      "properties": {
+        "osm_id": 242245544,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Four Points by Sheraton",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Four Points by Sheraton",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Nagar Road",
+        "addr_suburb": null,
+        "addr_city": "Viman Nagar",
+        "addr_postcode": "411014",
+        "phone": "91 20-67606699",
+        "website": "https://www.marriott.com/en-us/hotels/pnqfp-four-points-by-sheraton-hotel-and-serviced-apartments-pune/overview/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Viman Nagar",
+          "addr:housenumber": "5th Mile Stone",
+          "addr:postcode": "411014",
+          "addr:street": "Nagar Road",
+          "brand": "Four Points by Sheraton",
+          "brand:wikidata": "Q1439966",
+          "building": "hotel",
+          "check_date": "2026-03-09",
+          "name": "Four Points by Sheraton",
+          "phone": "91 20-67606699",
+          "short_name": "Four Points",
+          "source": "survey",
+          "survey:date": "2022-09-28",
+          "tourism": "hotel",
+          "website": "https://www.marriott.com/en-us/hotels/pnqfp-four-points-by-sheraton-hotel-and-serviced-apartments-pune/overview/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7343331,
+          18.5855657
+        ]
+      },
+      "properties": {
+        "osm_id": 247455756,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Lemon Tree Hotel",
+        "name_en": "Lemon Tree Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.lemontreehotels.com/lemon-tree-hotel/pune/hinjawadi-pune.aspx",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-05-20",
+          "name": "Lemon Tree Hotel",
+          "name:en": "Lemon Tree Hotel",
+          "name:mr": "लेमन ट्री हॉटेल",
+          "tourism": "hotel",
+          "website": "https://www.lemontreehotels.com/lemon-tree-hotel/pune/hinjawadi-pune.aspx"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9285786,
+          18.5091733
+        ]
+      },
+      "properties": {
+        "osm_id": 265094352,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Cocoon Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411013",
+        "phone": "+91 20 6624 4444",
+        "website": "https://www.cocoonpune.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411013",
+          "building": "yes",
+          "name": "Cocoon Hotel",
+          "phone": "+91 20 6624 4444",
+          "tourism": "hotel",
+          "website": "https://www.cocoonpune.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.844551,
+          18.5225468
+        ]
+      },
+      "properties": {
+        "osm_id": 282054947,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Coronet Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "hotel",
+          "name": "Coronet Hotel",
+          "name:mr": "कोरोनेट हॉटेल",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8689021,
+          18.5016376
+        ]
+      },
+      "properties": {
+        "osm_id": 289375524,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Seven Loves",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Jagannath Shankarsheth Marg",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411042",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411042",
+          "addr:street": "Jagannath Shankarsheth Marg",
+          "building": "commercial",
+          "check_date": "2026-03-12",
+          "name": "Seven Loves",
+          "name:mr": "सेव्हन लव्ह्ज",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8454834,
+          18.5191866
+        ]
+      },
+      "properties": {
+        "osm_id": 292736520,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "The Deccan Royale Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Jangli Maharaj Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411004",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411004",
+          "addr:street": "Jangli Maharaj Path",
+          "building": "hotel",
+          "building:levels": "7",
+          "name": "The Deccan Royale Hotel",
+          "name:mr": "द डेक्कन रोयाल हॉटेल",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8767245,
+          18.526245
+        ]
+      },
+      "properties": {
+        "osm_id": 330738192,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Wellesley Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "http://www.wellesleyhotel.in/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "apartments",
+          "check_date": "2026-03-12",
+          "name": "Wellesley Hotel",
+          "tourism": "hotel",
+          "website": "http://www.wellesleyhotel.in/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8761027,
+          18.5346237
+        ]
+      },
+      "properties": {
+        "osm_id": 331500155,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Kapila Business Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Dhole Patil Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": "https://www.kapila.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "174",
+          "addr:postcode": "411001",
+          "addr:street": "Dhole Patil Road",
+          "building": "hotel",
+          "check_date": "2026-03-12",
+          "internet_access": "wlan",
+          "name": "Kapila Business Hotel",
+          "name:mr": "कपिला बिझनेस हॉटेल",
+          "tourism": "hotel",
+          "website": "https://www.kapila.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7315708,
+          18.660678
+        ]
+      },
+      "properties": {
+        "osm_id": 359306308,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Shubham Misal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sangvi Phata-Mukai Chowk BRTS Road",
+        "addr_suburb": null,
+        "addr_city": "Ravet",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "07:00-20:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Ravet",
+          "addr:country": "ID",
+          "addr:housenumber": "mukai chowk",
+          "addr:street": "Sangvi Phata-Mukai Chowk BRTS Road",
+          "building": "yes",
+          "internet_access": "no",
+          "name": "Shubham Misal",
+          "opening_hours": "07:00-20:00",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81803,
+          18.6125084
+        ]
+      },
+      "properties": {
+        "osm_id": 359517269,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Kala Sagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Hotel Kala Sagar",
+          "name:mr": "हॉटेल कला सागर",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8039435,
+          18.6272039
+        ]
+      },
+      "properties": {
+        "osm_id": 359555753,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ginger Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": "Pimpri",
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:district": "Pimpri",
+          "building": "yes",
+          "name": "Ginger Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7781758,
+          18.5643957
+        ]
+      },
+      "properties": {
+        "osm_id": 359567665,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Amrita Executive",
+        "name_en": "Hotel Amrita Executive",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Hotel Amrita Executive",
+          "name:en": "Hotel Amrita Executive",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7451326,
+          18.5918543
+        ]
+      },
+      "properties": {
+        "osm_id": 359573621,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Vivanta",
+        "name_en": "Vivanta",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 20 6658 4040",
+        "website": "https://www.vivantahotels.com/en-in/vivanta-pune-hinjawadi/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2024-01-15",
+          "email": "bookvivanta.hinjawadi@tajhotels.com",
+          "name": "Vivanta",
+          "name:en": "Vivanta",
+          "name:mr": "विवांता",
+          "phone": "+91 20 6658 4040",
+          "tourism": "hotel",
+          "website": "https://www.vivantahotels.com/en-in/vivanta-pune-hinjawadi/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7524432,
+          18.6066342
+        ]
+      },
+      "properties": {
+        "osm_id": 359573628,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ginger Hotel",
+        "name_en": "Ginger Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Ginger Hotel",
+          "name:en": "Ginger Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.748113,
+          18.5913487
+        ]
+      },
+      "properties": {
+        "osm_id": 359573823,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Premier Tamanna Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "layer": "1",
+          "name": "Premier Tamanna Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7362363,
+          18.5859993
+        ]
+      },
+      "properties": {
+        "osm_id": 359685465,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hyatt Palace",
+        "name_en": "Hyatt Palace",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Hyatt",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hinjawadi Phase 1 road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 1 road",
+          "brand": "Hyatt",
+          "brand:wikidata": "Q1425063",
+          "building": "yes",
+          "name": "Hyatt Palace",
+          "name:en": "Hyatt Palace",
+          "name:mr": "हयात पैलेस",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9036123,
+          18.5439632
+        ]
+      },
+      "properties": {
+        "osm_id": 359750657,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Magnus Riverside",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.staymagnus.com/magnus-riverside-kalyani-nagar/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "yes",
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "internet_access": "wlan",
+          "name": "Magnus Riverside",
+          "old_name": "Hotel Sudarshan",
+          "reservation": "yes",
+          "tourism": "hotel",
+          "website": "https://www.staymagnus.com/magnus-riverside-kalyani-nagar/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8913061,
+          18.5407967
+        ]
+      },
+      "properties": {
+        "osm_id": 359793052,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "OYO Hotel G Residency near INOX",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "OYO",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "OYO",
+          "brand:wikidata": "Q24906315",
+          "building": "yes",
+          "check_date": "2026-03-17",
+          "name": "OYO Hotel G Residency near INOX",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7630953,
+          18.6123811
+        ]
+      },
+      "properties": {
+        "osm_id": 359806744,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "annapurna hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "hotels",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "hotels",
+          "building": "yes",
+          "name": "annapurna hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7705078,
+          18.5672825
+        ]
+      },
+      "properties": {
+        "osm_id": 359809155,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Kohinoor Residency",
+        "name_en": "Hotel Kohinoor Residency",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "mobile": "+91 81218 68181;+91 97669 98005",
+          "name": "Hotel Kohinoor Residency",
+          "name:en": "Hotel Kohinoor Residency",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8636555,
+          18.540137
+        ]
+      },
+      "properties": {
+        "osm_id": 359814455,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "yuvi and akaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "indian",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "victory road",
+        "addr_suburb": "maharastra",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "9623899592",
+        "website": "yuvikolarresto@gmail.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "maharastra",
+          "addr:housenumber": "sangamwadi",
+          "addr:postcode": "411001",
+          "addr:street": "victory road",
+          "brand": "indian",
+          "building": "yes",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name": "yuvi and akaza",
+          "phone": "9623899592",
+          "rooms": "73",
+          "tourism": "hotel",
+          "website": "yuvikolarresto@gmail.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8638032,
+          18.5386942
+        ]
+      },
+      "properties": {
+        "osm_id": 359814473,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "vineta bhal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "indian bhal",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "love road",
+        "addr_suburb": "maharastra",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "9623899592",
+        "website": "https://vinetaandharshcornar.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "maharastra",
+          "addr:housenumber": "harsh palase",
+          "addr:postcode": "411001",
+          "addr:street": "love road",
+          "brand": "indian bhal",
+          "building": "yes",
+          "email": "harshandvinetabhalconnar@",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "name": "vineta bhal",
+          "phone": "9623899592",
+          "rooms": "22",
+          "tourism": "hotel",
+          "website": "https://vinetaandharshcornar.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9378624,
+          18.5533968
+        ]
+      },
+      "properties": {
+        "osm_id": 359921182,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Radison Blu Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Radison",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Nagar Road",
+        "addr_suburb": "Kharadi",
+        "addr_city": "Pune",
+        "addr_postcode": "411014",
+        "phone": null,
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kharadi-pune",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411014",
+          "addr:street": "Nagar Road",
+          "addr:suburb": "Kharadi",
+          "brand": "Radison",
+          "building": "hotel",
+          "building:levels": "9",
+          "check_date": "2026-03-11",
+          "contact:website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kharadi-pune",
+          "internet_access": "wlan",
+          "name": "Radison Blu Hotel",
+          "source": "survey",
+          "swimming_pool": "yes",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8877078,
+          18.5459137
+        ]
+      },
+      "properties": {
+        "osm_id": 359926706,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Sargam",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "limited",
+        "all_tags": {
+          "building": "hotel",
+          "check_date": "2026-03-07",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Hotel Sargam",
+          "name:mr": "हॉटेल सरगम",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no",
+          "tourism": "hotel",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7735153,
+          18.5655668
+        ]
+      },
+      "properties": {
+        "osm_id": 359935319,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "FabHotels Imperio",
+        "name_en": "FabHotels Imperio",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "FabHotels",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "FabHotels",
+          "brand:wikidata": "Q55611387",
+          "building": "yes",
+          "name": "FabHotels Imperio",
+          "name:en": "FabHotels Imperio",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8442945,
+          18.5217782
+        ]
+      },
+      "properties": {
+        "osm_id": 359980885,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Moneta",
+        "name_en": "Moneta",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Apte Path",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411005",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411005",
+          "addr:street": "Apte Path",
+          "building": "yes",
+          "name": "Moneta",
+          "name:en": "Moneta",
+          "name:hi": "मोनेटा",
+          "name:mr": "मोनेटा",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849408,
+          18.5252065
+        ]
+      },
+      "properties": {
+        "osm_id": 359993788,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Radiant Lodge",
+        "name_en": "Hotel Radiant Lodge",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Chaturshringi Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411005",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411005",
+          "addr:street": "Chaturshringi Road",
+          "building": "apartments",
+          "building:levels": "5",
+          "name": "Hotel Radiant Lodge",
+          "name:en": "Hotel Radiant Lodge",
+          "name:hi": "हॉटेल रेडियंट लॉज",
+          "name:mr": "हॉटेल रेडियंट लॉज",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.848948,
+          18.525711
+        ]
+      },
+      "properties": {
+        "osm_id": 360225957,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Bhooshan",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Hotel Bhooshan",
+          "name:mr": "हॉटेल भूषण",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291014,
+          18.5077798
+        ]
+      },
+      "properties": {
+        "osm_id": 360241293,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Garuda",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Garuda",
+          "name:mr": "गरुड",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7991736,
+          18.4565186
+        ]
+      },
+      "properties": {
+        "osm_id": 360267917,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "City Point Restaurant and Bar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "City Point Restaurant and Bar",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.936651,
+          18.5459065
+        ]
+      },
+      "properties": {
+        "osm_id": 360274567,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Fairfield by Marriott Pune Kharadi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Fairfield",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411014",
+        "phone": "+91 20 6712 1515",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411014",
+          "brand": "Fairfield",
+          "brand:wikidata": "Q5430314",
+          "building": "yes",
+          "building:levels": "6",
+          "name": "Fairfield by Marriott Pune Kharadi",
+          "phone": "+91 20 6712 1515",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8031558,
+          18.4475801
+        ]
+      },
+      "properties": {
+        "osm_id": 360306088,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Royal Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Chavhan Bagh Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411041",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "Chavhan Bagh Road",
+          "building": "yes",
+          "name": "Royal Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8035203,
+          18.6275276
+        ]
+      },
+      "properties": {
+        "osm_id": 383483089,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Mind Space Hotel",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Old Mumbai-Pune Highway",
+        "addr_suburb": "Pimpri",
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:district": "Pimpri",
+          "addr:street": "Old Mumbai-Pune Highway",
+          "building": "yes",
+          "name": "Mind Space Hotel",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7398275,
+          18.5838563
+        ]
+      },
+      "properties": {
+        "osm_id": 544598096,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Radisson Blu",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Radisson Blu",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Radisson Blu",
+          "brand:wikidata": "Q7281341",
+          "brand:wikipedia": "en:Radisson Blu",
+          "building": "yes",
+          "check_date": "2024-06-17",
+          "name": "Radisson Blu",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.763734,
+          18.570917
+        ]
+      },
+      "properties": {
+        "osm_id": 632172500,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "building:levels": "9",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7640684,
+          18.5706921
+        ]
+      },
+      "properties": {
+        "osm_id": 632172502,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "building:levels": "9",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7549879,
+          18.5994155
+        ]
+      },
+      "properties": {
+        "osm_id": 653988396,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Sayaji",
+        "name_en": "Sayaji",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Sayaji Hotels",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.sayajihotels.com/sayaji-pune/overview",
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "check_date": "2023-04-09",
+          "contact:website": "https://www.sayajihotels.com/sayaji-pune/overview",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "name": "Sayaji",
+          "name:en": "Sayaji",
+          "name:mr": "सयाजी",
+          "operator": "Sayaji Hotels",
+          "smoking": "separated",
+          "stars": "5",
+          "tourism": "hotel",
+          "website": "https://www.sayajihotels.com/sayaji-pune/overview",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8434101,
+          18.5204665
+        ]
+      },
+      "properties": {
+        "osm_id": 704938713,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Shreyas",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Apte Road",
+        "addr_suburb": "Ganeshwadi",
+        "addr_city": "Pune",
+        "addr_postcode": "411004",
+        "phone": "020-25532023;020 -25532785",
+        "website": "https://www.hotelshreyas.in/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housenumber": "1242 B",
+          "addr:neighbourhood": "Deccan Gymkhana",
+          "addr:postcode": "411004",
+          "addr:state": "Maharashtra",
+          "addr:street": "Apte Road",
+          "addr:suburb": "Ganeshwadi",
+          "building": "hotel",
+          "email": "info@hotelshreyas.in",
+          "internet": "yes",
+          "laundry_service": "yes",
+          "name": "Hotel Shreyas",
+          "phone": "020-25532023;020 -25532785",
+          "swimming_pool": "yes",
+          "tourism": "hotel",
+          "website": "https://www.hotelshreyas.in/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8628108,
+          18.520063
+        ]
+      },
+      "properties": {
+        "osm_id": 706928633,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Da Casa Business Hotel डा कासा बिज़नस होटल",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "http://dacasahotel.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-15",
+          "internet_access": "yes",
+          "name": "Da Casa Business Hotel डा कासा बिज़नस होटल",
+          "tourism": "hotel",
+          "website": "http://dacasahotel.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7628469,
+          18.6125884
+        ]
+      },
+      "properties": {
+        "osm_id": 758720274,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "dosa king",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "a south indian breakfast center",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "a south indian breakfast center",
+          "building": "yes",
+          "name": "dosa king",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7398111,
+          18.5821382
+        ]
+      },
+      "properties": {
+        "osm_id": 1022145487,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8332961,
+          18.514208
+        ]
+      },
+      "properties": {
+        "osm_id": 1033695023,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Royalty",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Prabhat Path",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411004",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411004",
+          "addr:street": "Prabhat Path",
+          "building": "yes",
+          "name": "Royalty",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7413933,
+          18.5905291
+        ]
+      },
+      "properties": {
+        "osm_id": 1059876310,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hilton Garden Inn",
+        "name_en": "Hilton Garden Inn",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Hilton Garden Inn",
+        "operator": "Hilton",
+        "cuisine": null,
+        "addr_street": "Survey, Hinjawadi - Wakad Rd",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": "+91 20 3500 4500",
+        "website": "https://www.hilton.com/en/hotels/pnqhpgi-hilton-garden-inn-pune-hinjawadi",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "40/3",
+          "addr:postcode": "411057",
+          "addr:street": "Survey, Hinjawadi - Wakad Rd",
+          "brand": "Hilton Garden Inn",
+          "brand:wikidata": "Q1162859",
+          "building": "yes",
+          "check_date": "2023-07-06",
+          "contact:facebook": "https://www.facebook.com/HiltonHinjawadi",
+          "contact:instagram": "https://www.instagram.com/hiltongardeninnpune/",
+          "internet_access": "yes",
+          "layer": "1",
+          "name": "Hilton Garden Inn",
+          "name:en": "Hilton Garden Inn",
+          "name:mr": "हिल्टन गार्डन इन",
+          "operator": "Hilton",
+          "phone": "+91 20 3500 4500",
+          "rooms": "144",
+          "tourism": "hotel",
+          "website": "https://www.hilton.com/en/hotels/pnqhpgi-hilton-garden-inn-pune-hinjawadi"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8039701,
+          18.5508554
+        ]
+      },
+      "properties": {
+        "osm_id": 1067605368,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Green Park",
+        "name_en": "Hotel Green Park",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "contact:instagram": "greenpark_pune",
+          "landuse": "commercial",
+          "name": "Hotel Green Park",
+          "name:en": "Hotel Green Park",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7899802,
+          18.5428914
+        ]
+      },
+      "properties": {
+        "osm_id": 1088911018,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7455743,
+          18.5916805
+        ]
+      },
+      "properties": {
+        "osm_id": 1198429941,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "OYO Townhouse",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "OYO",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "OYO",
+          "brand:wikidata": "Q24906315",
+          "building": "yes",
+          "name": "OYO Townhouse",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.730626,
+          18.5950327
+        ]
+      },
+      "properties": {
+        "osm_id": 1199730109,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "FabExpress SRH",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "fabhotels",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": null,
+        "website": "https://www.fabhotels.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "No 285, 285/3/B Sr, 3/B,",
+          "addr:postcode": "411057",
+          "brand": "fabhotels",
+          "building": "yes",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "name": "FabExpress SRH",
+          "tourism": "hotel",
+          "website": "https://www.fabhotels.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.772295,
+          18.5664399
+        ]
+      },
+      "properties": {
+        "osm_id": 1389631779,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Treebo Sumati Baner",
+        "name_en": "Treebo Sumati Baner",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Treebo Sumati Baner",
+          "name:en": "Treebo Sumati Baner",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7550201,
+          18.5960206
+        ]
+      },
+      "properties": {
+        "osm_id": 1411440322,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Tip Top International",
+        "name_en": "Hotel Tip Top International",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Hotel Tip Top International",
+          "name:en": "Hotel Tip Top International",
+          "name:hi": "होटल टीप टॉप इंटरनेशनल",
+          "name:mr": "होटल टीप टॉप इंटरनेशनल",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7470633,
+          18.5920524
+        ]
+      },
+      "properties": {
+        "osm_id": 1413229875,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Courtyard Marriott Hinjawadi",
+        "name_en": "Courtyard Marriott Hinjawadi",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Courtyard",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hinjawadi Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": "+91 20 4212 2005",
+        "website": "https://www.marriott.com/en-us/hotels/pnqph-courtyard-pune-hinjewadi/overview/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "19/20",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Road",
+          "brand": "Courtyard",
+          "brand:wikidata": "Q1053170",
+          "contact:facebook": "CYMarriottHinjewadi",
+          "contact:instagram": "cymarriotthinjewadi",
+          "fax": "+91 20 4212 2209",
+          "name": "Courtyard Marriott Hinjawadi",
+          "name:en": "Courtyard Marriott Hinjawadi",
+          "name:mr": "कोर्टयार्ड मॅरियट हिंजवडी",
+          "official_name": "Courtyard by Marriott Hinjawadi",
+          "official_name:en": "Courtyard by Marriott Hinjawadi",
+          "official_name:mr": "कोर्टयार्ड बाय मॅरियट हिंजवडी",
+          "phone": "+91 20 4212 2005",
+          "tourism": "hotel",
+          "website": "https://www.marriott.com/en-us/hotels/pnqph-courtyard-pune-hinjewadi/overview/",
+          "wikidata": "Q111402300"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8634544,
+          18.5386991
+        ]
+      },
+      "properties": {
+        "osm_id": 1459189370,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "lover spot hotal",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "indian,japanese and friench",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "love road",
+        "addr_suburb": "maharastra",
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": "8484048462",
+        "website": "https://loverrestrobar.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "maharastra",
+          "addr:housenumber": "sangamwadi,pune",
+          "addr:postcode": "411001",
+          "addr:street": "love road",
+          "brand": "indian,japanese and friench",
+          "building": "yes",
+          "email": "loverrestrobarhotal@gmail.com",
+          "name": "lover spot hotal",
+          "phone": "8484048462",
+          "tourism": "hotel",
+          "website": "https://loverrestrobar.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7383249,
+          18.5905359
+        ]
+      },
+      "properties": {
+        "osm_id": 1460519897,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Mastiff Hotel",
+        "name_en": "Mastiff Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Mastiff Hotel",
+        "operator": "Orange Tiger",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.orangetigerhotels.com/mastiff-hotels/mastiff-hotel-hinjawadi-pune/pune-hotels",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Mastiff Hotel",
+          "building": "yes",
+          "name": "Mastiff Hotel",
+          "name:en": "Mastiff Hotel",
+          "operator": "Orange Tiger",
+          "tourism": "hotel",
+          "website": "https://www.orangetigerhotels.com/mastiff-hotels/mastiff-hotel-hinjawadi-pune/pune-hotels"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9047146,
+          18.5538499
+        ]
+      },
+      "properties": {
+        "osm_id": 1481326285,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hyatt Pune",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Hyatt",
+        "operator": "Hyatt",
+        "cuisine": null,
+        "addr_street": "Nagar Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411006",
+        "phone": "+91 20 4141 1234",
+        "website": "https://www.hyatt.com/hyatt-hotels/en-US/pnqhy-hyatt-pune",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:housenumber": "88",
+          "addr:postcode": "411006",
+          "addr:street": "Nagar Road",
+          "brand": "Hyatt",
+          "brand:wikidata": "Q1425063",
+          "check_date": "2026-03-13",
+          "fax": "+91 20 41419999",
+          "internet_access": "wlan",
+          "name": "Hyatt Pune",
+          "operator": "Hyatt",
+          "phone": "+91 20 4141 1234",
+          "tourism": "hotel",
+          "website": "https://www.hyatt.com/hyatt-hotels/en-US/pnqhy-hyatt-pune"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8766222,
+          18.5276801
+        ]
+      },
+      "properties": {
+        "osm_id": 1482938297,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Lemon Tree Premier Pune",
+        "name_en": "Lemon Tree Premier Pune",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Lemon Tree",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 020 67684343",
+        "website": "https://www.lemontreehotels.com/lemon-tree-premier/pune/city-center-pune.aspx",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Lemon Tree",
+          "check_date": "2026-03-12",
+          "email": "hi.ppn1@lemontreehotels.com",
+          "name": "Lemon Tree Premier Pune",
+          "name:en": "Lemon Tree Premier Pune",
+          "name:mr": "लेमन ट्री प्रीमियर पुणे",
+          "phone": "+91 020 67684343",
+          "tourism": "hotel",
+          "website": "https://www.lemontreehotels.com/lemon-tree-premier/pune/city-center-pune.aspx"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8766814,
+          18.5272064
+        ]
+      },
+      "properties": {
+        "osm_id": 1482938298,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Hotel Gulmohr",
+        "name_en": "Hotel Gulmohr",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-12",
+          "name": "Hotel Gulmohr",
+          "name:en": "Hotel Gulmohr",
+          "name:mr": "हॉटेल गुलमोहर1",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7743374,
+          18.6664194
+        ]
+      },
+      "properties": {
+        "osm_id": 1488489204,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Banyan Tree",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Banyan Tree",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Bhakti Shakti Circle Eleveted Road",
+        "addr_suburb": "pune",
+        "addr_city": "nigdi",
+        "addr_postcode": "411044",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "nigdi",
+          "addr:district": "pune",
+          "addr:housenumber": "22",
+          "addr:postcode": "411044",
+          "addr:street": "Bhakti Shakti Circle Eleveted Road",
+          "brand": "Banyan Tree",
+          "brand:wikidata": "Q115489057",
+          "building": "yes",
+          "internet_access": "no",
+          "name": "Banyan Tree",
+          "rooms": "0",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7171241,
+          18.5959271
+        ]
+      },
+      "properties": {
+        "osm_id": 1491084009,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Ibis",
+        "name_en": null,
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ibis",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Ibis",
+          "brand:wikidata": "Q920166",
+          "name": "Ibis",
+          "tourism": "hotel"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7073046,
+          18.5935095
+        ]
+      },
+      "properties": {
+        "osm_id": 1505092212,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Grand Tamanna Hotel",
+        "name_en": "Grand Tamanna Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://tamannahotels.com/hotels-hinjawadi-pune/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Grand Tamanna Hotel",
+          "name:en": "Grand Tamanna Hotel",
+          "name:mr": "ग्रँड तमन्ना हाॅटेल",
+          "tourism": "hotel",
+          "website": "https://tamannahotels.com/hotels-hinjawadi-pune/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7428399,
+          18.5917957
+        ]
+      },
+      "properties": {
+        "osm_id": 1517443416,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Holiday Inn Express Pune Hinjawadi",
+        "name_en": "Holiday Inn Express Pune Hinjawadi",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": "Holiday Inn Express",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/maharashtra/mhzph/hoteldetail",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "brand": "Holiday Inn Express",
+          "brand:wikidata": "Q5880423",
+          "name": "Holiday Inn Express Pune Hinjawadi",
+          "name:en": "Holiday Inn Express Pune Hinjawadi",
+          "tourism": "hotel",
+          "website": "https://www.ihg.com/holidayinnexpress/hotels/gb/en/maharashtra/mhzph/hoteldetail"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7365749,
+          18.5862143
+        ]
+      },
+      "properties": {
+        "osm_id": 1517443440,
+        "osm_type": "way",
+        "category_declared": "Accommodation",
+        "subcategory_declared": "Hotel",
+        "name": "Bizz Tamanna Hotel",
+        "name_en": "Bizz Tamanna Hotel",
+        "amenity": "",
+        "shop": "",
+        "tourism": "hotel",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 020 6653 9888",
+        "website": "https://tamannahotels.com/bizz-tamanna-hotel-hinjawadi-pune/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "yes",
+          "mobile": "+91 70586 88563",
+          "name": "Bizz Tamanna Hotel",
+          "name:en": "Bizz Tamanna Hotel",
+          "name:mr": "बिझ तमन्ना हॉटेल",
+          "phone": "+91 020 6653 9888",
+          "tourism": "hotel",
+          "website": "https://tamannahotels.com/bizz-tamanna-hotel-hinjawadi-pune/"
+        }
+      }
+    }
+  ]
+}

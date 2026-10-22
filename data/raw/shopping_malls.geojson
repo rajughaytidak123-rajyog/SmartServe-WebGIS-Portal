@@ -1,0 +1,2823 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_shopping_malls",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9014122,
+          18.5060978
+        ]
+      },
+      "properties": {
+        "osm_id": 667277950,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Renault Fatimanagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Renault",
+        "operator": "Renault",
+        "cuisine": null,
+        "addr_street": "Solapur Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:state": "Maharashtra",
+          "addr:street": "Solapur Road",
+          "atm": "no",
+          "brand": "Renault",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Renault Fatimanagar",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "operator": "Renault",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9001256,
+          18.4693177
+        ]
+      },
+      "properties": {
+        "osm_id": 2034762319,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Bizzbay",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "NIBM Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411018",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411018",
+          "addr:state": "Maharashtra",
+          "addr:street": "NIBM Road",
+          "atm": "no",
+          "internet_access": "no",
+          "name": "Bizzbay",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9003371,
+          18.5025271
+        ]
+      },
+      "properties": {
+        "osm_id": 3646029467,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Reliance Mart , Fatima Nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Vitthal Rao Shivarkar Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411040",
+        "phone": "+91 20 41003500",
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411040",
+          "addr:state": "Maharashtra",
+          "addr:street": "Vitthal Rao Shivarkar Road",
+          "atm": "no",
+          "check_date": "2026-03-12",
+          "internet_access": "no",
+          "name": "Reliance Mart , Fatima Nagar",
+          "phone": "+91 20 41003500",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8335296,
+          18.50437
+        ]
+      },
+      "properties": {
+        "osm_id": 4452536072,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Reliance Trends",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Reliance Trends",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8005565,
+          18.6331316
+        ]
+      },
+      "properties": {
+        "osm_id": 4592694089,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "City One",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "City One",
+          "name:mr": "सिटी वन",
+          "name:ur": "سٹی ون",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7844052,
+          18.5879497
+        ]
+      },
+      "properties": {
+        "osm_id": 5518035208,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "More Quality Store",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2023-03-03",
+          "name": "More Quality Store",
+          "name:hi": "मोर क़्वालिटी स्टोर",
+          "name:mr": "मोर",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7447483,
+          18.5920781
+        ]
+      },
+      "properties": {
+        "osm_id": 5518862577,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Big Bazaar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Big Bazaar",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8001409,
+          18.446986
+        ]
+      },
+      "properties": {
+        "osm_id": 10115879724,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Reliance Smart Point",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "DSK Vishwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411041",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411041",
+          "addr:street": "DSK Vishwa Road",
+          "name": "Reliance Smart Point",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7459472,
+          18.6009418
+        ]
+      },
+      "properties": {
+        "osm_id": 10726485231,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Icon Tower",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "name": "Icon Tower",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9079052,
+          18.5391273
+        ]
+      },
+      "properties": {
+        "osm_id": 12246275637,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "The Kopa",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://kopapune.com/",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-10",
+          "name": "The Kopa",
+          "shop": "mall",
+          "website": "https://kopapune.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.894313,
+          18.5566278
+        ]
+      },
+      "properties": {
+        "osm_id": 13161637307,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "creaty city",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "creaty city",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9373579,
+          18.5495335
+        ]
+      },
+      "properties": {
+        "osm_id": 13380522411,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Nyati Plaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Kharadi Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411014",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:postcode": "411014",
+          "addr:street": "Kharadi Road",
+          "name": "Nyati Plaza",
+          "opening_hours": "Mo-Su 10:00-21:00",
+          "payment:google_pay": "yes",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8778151,
+          18.5268525
+        ]
+      },
+      "properties": {
+        "osm_id": 13629196555,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Inox Movie Hall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-09",
+          "name": "Inox Movie Hall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.784736,
+          18.6141555
+        ]
+      },
+      "properties": {
+        "osm_id": 13638581261,
+        "osm_type": "node",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "D-mart",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "name": "D-mart",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8773508,
+          18.5194958
+        ]
+      },
+      "properties": {
+        "osm_id": 52755381,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "SGS Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-12",
+          "name": "SGS Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9005527,
+          18.503679
+        ]
+      },
+      "properties": {
+        "osm_id": 106238111,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "KPCT Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-12",
+          "name": "KPCT Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9003848,
+          18.4912609
+        ]
+      },
+      "properties": {
+        "osm_id": 106248808,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Sacred World",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Sacred World",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8513168,
+          18.5646288
+        ]
+      },
+      "properties": {
+        "osm_id": 117374885,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Khadki Business Centre",
+        "name_en": "Kirkee Business Centre",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-11",
+          "name": "Khadki Business Centre",
+          "name:en": "Kirkee Business Centre",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8937014,
+          18.5559101
+        ]
+      },
+      "properties": {
+        "osm_id": 121807063,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8943058,
+          18.5562668
+        ]
+      },
+      "properties": {
+        "osm_id": 121807065,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "shastri nagar",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "shastri nagar",
+        "cuisine": null,
+        "addr_street": "Nagar Road",
+        "addr_suburb": "pune",
+        "addr_city": "pune",
+        "addr_postcode": "411006",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "pune",
+          "addr:district": "pune",
+          "addr:housenumber": "411006",
+          "addr:postcode": "411006",
+          "addr:street": "Nagar Road",
+          "building": "residential",
+          "check_date": "2026-03-09",
+          "name": "shastri nagar",
+          "opening_hours": "Mo-Fr 08:00-17:00",
+          "operator": "shastri nagar",
+          "payment:credit_cards": "yes",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.894991,
+          18.5561173
+        ]
+      },
+      "properties": {
+        "osm_id": 121807066,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8936644,
+          18.5563823
+        ]
+      },
+      "properties": {
+        "osm_id": 121807067,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.893536,
+          18.5566417
+        ]
+      },
+      "properties": {
+        "osm_id": 121807068,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8951546,
+          18.5565621
+        ]
+      },
+      "properties": {
+        "osm_id": 121807069,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8937554,
+          18.5562038
+        ]
+      },
+      "properties": {
+        "osm_id": 121807071,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8859194,
+          18.5389093
+        ]
+      },
+      "properties": {
+        "osm_id": 121898933,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Jewel Square Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Koregaon Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411001",
+        "phone": null,
+        "website": "www.jewelsquare.co.in",
+        "opening_hours": null,
+        "wheelchair": "limited",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:country": "IN",
+          "addr:postcode": "411001",
+          "addr:province": "Koregaon Park",
+          "addr:state": "MH",
+          "addr:street": "Koregaon Road",
+          "building": "yes",
+          "check_date": "2026-03-09",
+          "name": "Jewel Square Mall",
+          "shop": "mall",
+          "website": "www.jewelsquare.co.in",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9283447,
+          18.5097164
+        ]
+      },
+      "properties": {
+        "osm_id": 139880138,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Destination Center",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housename": "Destination Center",
+          "name": "Destination Center",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386178,
+          18.5344572
+        ]
+      },
+      "properties": {
+        "osm_id": 149110266,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Centro Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "University Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "addr:street": "University Road",
+          "building": "yes",
+          "check_date": "2026-03-10",
+          "name": "Centro Mall",
+          "name:mr": "सेंट्रो मॉल",
+          "shop": "mall",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9076869,
+          18.5068099
+        ]
+      },
+      "properties": {
+        "osm_id": 158322682,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Krome",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Pune Solapur road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411013",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housename": "Krome",
+          "addr:housenumber": "32/1",
+          "addr:postcode": "411013",
+          "addr:street": "Pune Solapur road",
+          "alt_name": "Kroma Mall",
+          "building": "supermarket",
+          "name": "Krome",
+          "name:mr": "क्रोम",
+          "shop": "mall",
+          "source": "osm"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9206662,
+          18.5604457
+        ]
+      },
+      "properties": {
+        "osm_id": 158889476,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Inorbit Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Ahmadnagar Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:housename": "Inorbit Mall",
+          "addr:street": "Ahmadnagar Road",
+          "check_date": "2026-03-09",
+          "landuse": "retail",
+          "name": "Inorbit Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8723413,
+          18.5011325
+        ]
+      },
+      "properties": {
+        "osm_id": 168423947,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Kumar Pacific Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "landuse": "retail",
+          "name": "Kumar Pacific Mall",
+          "name:mr": "कुमार पॅसिफिक मॉल",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9074894,
+          18.5685584
+        ]
+      },
+      "properties": {
+        "osm_id": 168801829,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "check_date": "2026-03-11",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9167335,
+          18.5620956
+        ]
+      },
+      "properties": {
+        "osm_id": 169256025,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Phoenix Marketcity",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Viman Nagar Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411014",
+        "phone": "+91 020 6689 0085",
+        "website": "https://www.phoenixmarketcity.com/pune",
+        "opening_hours": "Mo-Su 11:00-21:30",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "207",
+          "addr:postcode": "411014",
+          "addr:street": "Viman Nagar Road",
+          "building": "retail",
+          "check_date": "2026-03-09",
+          "name": "Phoenix Marketcity",
+          "name:mr": "फिनिक्स मार्केट सिटी",
+          "opening_hours": "Mo-Su 11:00-21:30",
+          "phone": "+91 020 6689 0085",
+          "shop": "mall",
+          "source": "local knowledge;survey",
+          "website": "https://www.phoenixmarketcity.com/pune",
+          "wikidata": "Q24091457",
+          "wikimedia_commons": "Category:Phoenix Marketcity (Pune)",
+          "wikipedia": "en:Phoenix Marketcity (Pune)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8385994,
+          18.5104536
+        ]
+      },
+      "properties": {
+        "osm_id": 207872421,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Centro Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "MSM PARANJAPE MALL, OFF KARVE ROAD, NEAR MES COLLEGE, Pune, Maharashtra 411004",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": "https://centralandme.com/",
+        "opening_hours": "Mo-Fr 11:30-21:30; Sa, Su 11:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "MSM PARANJAPE MALL, OFF KARVE ROAD, NEAR MES COLLEGE, Pune, Maharashtra 411004",
+          "building": "yes",
+          "level": "4",
+          "name": "Centro Mall",
+          "name:mr": "सेंट्रो मॉल",
+          "opening_hours": "Mo-Fr 11:30-21:30; Sa, Su 11:00-22:00",
+          "shop": "mall",
+          "website": "https://centralandme.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8359677,
+          18.5376663
+        ]
+      },
+      "properties": {
+        "osm_id": 218422383,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Kakade Center Port",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Kakade Center Port",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.935231,
+          18.5186409
+        ]
+      },
+      "properties": {
+        "osm_id": 224711846,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Amanora Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411028",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411028",
+          "building": "yes",
+          "building:levels": "3",
+          "indoor:level": "0",
+          "name": "Amanora Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9351156,
+          18.5186533
+        ]
+      },
+      "properties": {
+        "osm_id": 224711847,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Amanora Town Centre",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Mundhwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411028",
+        "phone": "020-67267888",
+        "website": "https://amanora.com/towncentre",
+        "opening_hours": null,
+        "wheelchair": "yes",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411028",
+          "addr:street": "Mundhwa Road",
+          "landuse": "retail",
+          "name": "Amanora Town Centre",
+          "phone": "020-67267888",
+          "shop": "mall",
+          "website": "https://amanora.com/towncentre",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8892048,
+          18.4704196
+        ]
+      },
+      "properties": {
+        "osm_id": 232445444,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Konark Indrayu Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Kondhwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411048",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411048",
+          "addr:street": "Kondhwa Road",
+          "building": "yes",
+          "name": "Konark Indrayu Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.833445,
+          18.5869785
+        ]
+      },
+      "properties": {
+        "osm_id": 263797370,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Megamart",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Megamart",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7785162,
+          18.5192742
+        ]
+      },
+      "properties": {
+        "osm_id": 289375517,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Aditya Shagun Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "commercial",
+          "name": "Aditya Shagun Mall",
+          "name:mr": "आदित्य शगुन मॉल",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8006184,
+          18.6332281
+        ]
+      },
+      "properties": {
+        "osm_id": 359350392,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "City One",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "City One",
+          "name:ur": "سٹی ون",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7696468,
+          18.6549408
+        ]
+      },
+      "properties": {
+        "osm_id": 359355909,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Parking1",
+        "name_en": null,
+        "amenity": "parking",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "parking",
+          "building": "yes",
+          "capacity": "20",
+          "name": "Parking1",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "parking": "underground",
+          "ref": "1234",
+          "shop": "mall",
+          "surface": "concrete"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7255314,
+          18.5937966
+        ]
+      },
+      "properties": {
+        "osm_id": 359527390,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Grand Highstreet",
+        "name_en": "Grand highstreet",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Hinjawadi Phase 2 Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411057",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:county": "Mulshi taluka",
+          "addr:housenumber": "survey no. 234/1-4,6-7, 235/6-9, 245/1-3",
+          "addr:place": "Hinjawadi",
+          "addr:postcode": "411057",
+          "addr:street": "Hinjawadi Phase 2 Road",
+          "building": "retail",
+          "building:levels": "8",
+          "building:material": "concrete",
+          "building:material:concrete": "panels",
+          "check_date": "2022-12-26",
+          "name": "Grand Highstreet",
+          "name:en": "Grand highstreet",
+          "name:mr": "ग्रँड हायस्ट्रीट",
+          "roof:levels": "1",
+          "roof:shape": "flat",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.800948,
+          18.6324862
+        ]
+      },
+      "properties": {
+        "osm_id": 359539512,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Central Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Central Mall",
+          "name:ur": "سنٹرل مال",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8392575,
+          18.6506196
+        ]
+      },
+      "properties": {
+        "osm_id": 359569337,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Spine City",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Spine City",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8307293,
+          18.5414363
+        ]
+      },
+      "properties": {
+        "osm_id": 359752437,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "City Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "City Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7847261,
+          18.6141427
+        ]
+      },
+      "properties": {
+        "osm_id": 359794554,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Dmart",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Dmart",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "air_conditioning": "yes",
+          "brand:wikidata": "Q5203271",
+          "brand:wikipedia": "en:DMart",
+          "building": "yes",
+          "currency:INR": "yes",
+          "name": "Dmart",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "opening_hours:covid19": "Mo-Su 07:00-19:00",
+          "operator": "Dmart",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8628058,
+          18.4806109
+        ]
+      },
+      "properties": {
+        "osm_id": 359969678,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Lighthouse Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Bibvewadi Kondhwa Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411037",
+        "phone": null,
+        "website": null,
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:housenumber": "34, Parshwanath Nagar",
+          "addr:postcode": "411037",
+          "addr:street": "Bibvewadi Kondhwa Road",
+          "air_conditioning": "yes",
+          "building": "retail",
+          "name": "Lighthouse Mall",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:visa": "yes",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7859582,
+          18.5936724
+        ]
+      },
+      "properties": {
+        "osm_id": 360242727,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Spot 18",
+        "name_en": "Spot 18",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": "PH,Mo-Su 10:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "building": "commercial",
+          "building:levels": "6",
+          "name": "Spot 18",
+          "name:en": "Spot 18",
+          "name:mr": "स्पॅाट १८",
+          "nohousenumber": "yes",
+          "opening_hours": "PH,Mo-Su 10:00-22:00",
+          "shop": "mall",
+          "toilets": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9062329,
+          18.4672005
+        ]
+      },
+      "properties": {
+        "osm_id": 360489528,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Royal Heritage Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": "+91 2026731221",
+        "website": "http://royalheritagemall.com",
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Royal Heritage Mall",
+          "phone": "+91 2026731221",
+          "shop": "mall",
+          "website": "http://royalheritagemall.com"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.820874,
+          18.5513743
+        ]
+      },
+      "properties": {
+        "osm_id": 641113082,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "check_date": "2026-03-10",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8399006,
+          18.6498951
+        ]
+      },
+      "properties": {
+        "osm_id": 752309303,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Previa",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Previa",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8400054,
+          18.6501671
+        ]
+      },
+      "properties": {
+        "osm_id": 752309304,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Previa Squre",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Previa Squre",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7962562,
+          18.6359724
+        ]
+      },
+      "properties": {
+        "osm_id": 756176584,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Premier Plaza",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Premier Plaza",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7319353,
+          18.6239522
+        ]
+      },
+      "properties": {
+        "osm_id": 759798066,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "18 Latitude Business Complex",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Kate Wasti Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411033",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411033",
+          "addr:street": "Kate Wasti Road",
+          "building": "yes",
+          "name": "18 Latitude Business Complex",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9065837,
+          18.505587
+        ]
+      },
+      "properties": {
+        "osm_id": 783224326,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "93 Avenue",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "93 Avenue",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7697797,
+          18.6662178
+        ]
+      },
+      "properties": {
+        "osm_id": 822892918,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Vision Mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Vision Mall",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Vision Mall",
+          "operator": "Vision Mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9039883,
+          18.5978683
+        ]
+      },
+      "properties": {
+        "osm_id": 923087913,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Goodwill Square",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Choice Group Goodwill Projects",
+        "cuisine": null,
+        "addr_street": "Dhanori - Lohgaon Road",
+        "addr_suburb": null,
+        "addr_city": "Pune",
+        "addr_postcode": "411015",
+        "phone": null,
+        "website": "https://choicegoodwill.com/goodwill-square/",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:postcode": "411015",
+          "addr:street": "Dhanori - Lohgaon Road",
+          "building": "retail",
+          "name": "Goodwill Square",
+          "opening_hours": "Mo-Su 10:00-22:00",
+          "operator": "Choice Group Goodwill Projects",
+          "shop": "mall",
+          "website": "https://choicegoodwill.com/goodwill-square/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8296242,
+          18.5337227
+        ]
+      },
+      "properties": {
+        "osm_id": 1019388898,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "The Pavillion",
+        "name_en": "The Pavillion",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Senapati Bapat Road",
+        "addr_suburb": "Pune",
+        "addr_city": "Pune",
+        "addr_postcode": "411016",
+        "phone": "+91 20 6642 1100",
+        "website": "https://www.nexusmalls.com/thepavillion-pune",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "wheelchair": "yes",
+        "all_tags": {
+          "addr:city": "Pune",
+          "addr:district": "Pune",
+          "addr:housename": "The Pavillion",
+          "addr:postcode": "411016",
+          "addr:street": "Senapati Bapat Road",
+          "air_conditioning": "yes",
+          "building": "retail",
+          "building:levels": "4",
+          "building:material": "cement_block",
+          "check_date": "2026-03-10",
+          "contact:facebook": "https://www.facebook.com/pavillionpune/",
+          "contact:instagram": "https://www.instagram.com/pavillionpune/",
+          "contact:twitter": "https://twitter.com/pavillionpune",
+          "internet_access": "no",
+          "name": "The Pavillion",
+          "name:en": "The Pavillion",
+          "name:mr": "द पॅव्हिलियन",
+          "opening_hours": "Mo-Su 08:00-22:00",
+          "payment:cards": "yes",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "phone": "+91 20 6642 1100",
+          "roof:shape": "flat",
+          "shop": "mall",
+          "toilets": "yes",
+          "website": "https://www.nexusmalls.com/thepavillion-pune",
+          "wheelchair": "yes",
+          "wikidata": "Q119410007",
+          "wikimedia_commons": "Category:The_Pavillion_(Pune)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8445895,
+          18.6550431
+        ]
+      },
+      "properties": {
+        "osm_id": 1127498008,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Privia Buisness Centre Moshi",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": "Sector No 6 Spine Road",
+        "addr_suburb": null,
+        "addr_city": "Moshi",
+        "addr_postcode": "412105",
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:city": "Moshi",
+          "addr:postcode": "412105",
+          "addr:street": "Sector No 6 Spine Road",
+          "building": "commercial",
+          "name": "Privia Buisness Centre Moshi",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7457152,
+          18.5905487
+        ]
+      },
+      "properties": {
+        "osm_id": 1153188555,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "The Social Street",
+        "name_en": "The Social Street",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "The Social Street",
+          "name:en": "The Social Street",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7267966,
+          18.5435349
+        ]
+      },
+      "properties": {
+        "osm_id": 1169286483,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Shree Ram Arcade",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Shree Ram Arcade",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8081839,
+          18.6294854
+        ]
+      },
+      "properties": {
+        "osm_id": 1178003996,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Mspace mall",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Mspace mall",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7999779,
+          18.592628
+        ]
+      },
+      "properties": {
+        "osm_id": 1182075282,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Vision Flora",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "building:levels": "5",
+          "name": "Vision Flora",
+          "name:mr": "व्हिजन फ्लोरा",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7836689,
+          18.6285679
+        ]
+      },
+      "properties": {
+        "osm_id": 1219435160,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Elpro City Square",
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": "411033",
+        "phone": "02061327111",
+        "website": "https://elprocitysquare.com/",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "wheelchair": null,
+        "all_tags": {
+          "addr:postcode": "411033",
+          "building": "retail",
+          "building:levels": "5",
+          "check_date": "2026-03-14",
+          "layer": "1",
+          "name": "Elpro City Square",
+          "name:mr": "एल्प्रो सिटी स्क्वेअर",
+          "opening_hours": "Mo-Su 11:00-22:00",
+          "phone": "02061327111",
+          "shop": "mall",
+          "website": "https://elprocitysquare.com/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8070955,
+          18.5668081
+        ]
+      },
+      "properties": {
+        "osm_id": 1410593339,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": null,
+        "name_en": null,
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "landuse": "yes",
+          "shop": "mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7305265,
+          18.5849763
+        ]
+      },
+      "properties": {
+        "osm_id": 1462760435,
+        "osm_type": "way",
+        "category_declared": "Shopping",
+        "subcategory_declared": "Shopping Mall",
+        "name": "Streets of Europe",
+        "name_en": "Streets of Europe",
+        "amenity": "",
+        "shop": "mall",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "building": "yes",
+          "name": "Streets of Europe",
+          "name:en": "Streets of Europe",
+          "shop": "mall"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1522 @@
+{
+  "type": "FeatureCollection",
+  "name": "raw_ev_charging",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8088593,
+          18.496101
+        ]
+      },
+      "properties": {
+        "osm_id": 763446417,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "check_date": "2026-03-15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7719864,
+          18.567214
+        ]
+      },
+      "properties": {
+        "osm_id": 6116153836,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "PowerUP",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "PowerUP"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8037729,
+          18.5071941
+        ]
+      },
+      "properties": {
+        "osm_id": 9411828530,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "fee": "yes",
+          "operator": "Ather Energy"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7831554,
+          18.6111535
+        ]
+      },
+      "properties": {
+        "osm_id": 10013758817,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata power",
+        "operator": "Tata power",
+        "cuisine": null,
+        "addr_street": "Kalewadi Phata-Auto Cluster BRTS Road",
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "addr:street": "Kalewadi Phata-Auto Cluster BRTS Road",
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "capacity": "2",
+          "covered": "no",
+          "fee": "yes",
+          "operator": "Tata power"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8147009,
+          18.5095633
+        ]
+      },
+      "properties": {
+        "osm_id": 10097434142,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Bolt",
+        "operator": "Bolt",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Bolt",
+          "capacity": "8",
+          "operator": "Bolt",
+          "scooter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.781902,
+          18.5105681
+        ]
+      },
+      "properties": {
+        "osm_id": 10097434143,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "capacity": "1",
+          "operator": "Ather Energy",
+          "scooter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496753,
+          18.4844962
+        ]
+      },
+      "properties": {
+        "osm_id": 10097434144,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "capacity": "1",
+          "fee": "yes",
+          "operator": "Ather Energy"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8304638,
+          18.5189771
+        ]
+      },
+      "properties": {
+        "osm_id": 10097460085,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Ather Energy",
+          "operator": "Ather Energy",
+          "scooter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.806562,
+          18.5536336
+        ]
+      },
+      "properties": {
+        "osm_id": 10250046452,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Tata",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "capacity": "2",
+          "operator": "Tata"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7624887,
+          18.5788787
+        ]
+      },
+      "properties": {
+        "osm_id": 10290789663,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Go Ego",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Go Ego"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7770341,
+          18.5114349
+        ]
+      },
+      "properties": {
+        "osm_id": 10615755147,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Bolt",
+        "operator": "Trimurti Motors",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Bolt",
+          "capacity": "1",
+          "operator": "Trimurti Motors",
+          "scooter": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7817517,
+          18.5857278
+        ]
+      },
+      "properties": {
+        "osm_id": 10671202586,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Shell",
+        "operator": "Shell",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Shell",
+          "brand:en": "Shell",
+          "brand:mr": "शेल",
+          "brand:wikidata": "Q110716465",
+          "capacity": "3",
+          "fee": "yes",
+          "operator": "Shell",
+          "operator:wikidata": "Q110716465"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7673099,
+          18.6170757
+        ]
+      },
+      "properties": {
+        "osm_id": 10719100420,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "goEgo Charging Station",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "goEgo Charging Station",
+          "capacity": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7548665,
+          18.5998693
+        ]
+      },
+      "properties": {
+        "osm_id": 10797010207,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata power",
+        "operator": "Tata power",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "operator": "Tata power",
+          "socket:type2": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7548745,
+          18.5995979
+        ]
+      },
+      "properties": {
+        "osm_id": 10797010208,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata power",
+        "operator": "Tata power",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Tata power",
+          "operator": "Tata power",
+          "socket:type2_combo": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7827295,
+          18.5887644
+        ]
+      },
+      "properties": {
+        "osm_id": 10841782157,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "addr:floor": "G",
+          "amenity": "charging_station",
+          "branch": "Copacabana",
+          "brand": "Ather Energy",
+          "brand:en": "Ather Energy",
+          "brand:mr": "एथर एनर्जी",
+          "capacity": "1",
+          "covered": "no",
+          "fee": "yes",
+          "level": "0",
+          "operator": "Ather Energy",
+          "source": "survey;local knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9073489,
+          18.5778315
+        ]
+      },
+      "properties": {
+        "osm_id": 10844985580,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "addr:floor": "1",
+          "amenity": "charging_station",
+          "capacity": "2",
+          "check_date": "2026-03-11",
+          "description": "60kW charger. Space for 2 cars.",
+          "fee": "yes",
+          "level": "1",
+          "source": "local knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7457888,
+          18.5906635
+        ]
+      },
+      "properties": {
+        "osm_id": 10870849607,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "GoEgo",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "GoEgo",
+          "fee": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8068573,
+          18.5638072
+        ]
+      },
+      "properties": {
+        "osm_id": 11005778506,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Jio pulse",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "addr:floor": "UB",
+          "amenity": "charging_station",
+          "brand": "Jio pulse",
+          "fee": "yes",
+          "level": "-1",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7381716,
+          18.5897559
+        ]
+      },
+      "properties": {
+        "osm_id": 11033745938,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata Power",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "Tata Power",
+          "brand:mr": "टाटा पावर",
+          "capacity": "2",
+          "covered": "no",
+          "fee": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8069355,
+          18.5623306
+        ]
+      },
+      "properties": {
+        "osm_id": 11217502924,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "goEgo Charging Station",
+        "operator": "Westend Mall",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "goEgo Charging Station",
+          "capacity": "5",
+          "operator": "Westend Mall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7990514,
+          18.6347952
+        ]
+      },
+      "properties": {
+        "osm_id": 11452082417,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.786174,
+          18.4600725
+        ]
+      },
+      "properties": {
+        "osm_id": 11578223404,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Zeal Energy Services",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "operator": "Zeal Energy Services"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7941778,
+          18.4979616
+        ]
+      },
+      "properties": {
+        "osm_id": 12334310661,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "kazam",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "brand": "kazam"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.734433,
+          18.5857921
+        ]
+      },
+      "properties": {
+        "osm_id": 12350373268,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "EV Dock charging station",
+        "operator": "EV Dock",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "EV Dock charging station",
+          "fee": "yes",
+          "operator": "EV Dock"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7410354,
+          18.5907601
+        ]
+      },
+      "properties": {
+        "osm_id": 12350440058,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "shell",
+        "operator": "shell",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "shell",
+          "capacity": "30 kw",
+          "fee": "yes",
+          "operator": "shell"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7368921,
+          18.5781719
+        ]
+      },
+      "properties": {
+        "osm_id": 12350467611,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Bijlify",
+        "operator": "Bijlify",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "customers",
+          "amenity": "charging_station",
+          "brand": "Bijlify",
+          "capacity": "20 kw",
+          "fee": "yes",
+          "operator": "Bijlify"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8070465,
+          18.5638929
+        ]
+      },
+      "properties": {
+        "osm_id": 12458871181,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Statiq",
+        "operator": "Statiq",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "addr:floor": "G",
+          "amenity": "charging_station",
+          "brand": "Statiq",
+          "capacity": "60",
+          "covered": "yes",
+          "fee": "yes",
+          "level": "0",
+          "network": "Statiq",
+          "operator": "Statiq",
+          "source": "local knowledge"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410529,
+          18.5228186
+        ]
+      },
+      "properties": {
+        "osm_id": 12473454969,
+        "osm_type": "node",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Bijlify",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Bijlify",
+          "covered": "no",
+          "fee": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7488124,
+          18.5912547
+        ]
+      },
+      "properties": {
+        "osm_id": 359699641,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.784882,
+          18.5882782
+        ]
+      },
+      "properties": {
+        "osm_id": 360242628,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "capacity": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7476226,
+          18.6165794
+        ]
+      },
+      "properties": {
+        "osm_id": 1152420782,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata Power",
+        "operator": "Tata Power",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Tata Power",
+          "capacity": "2",
+          "operator": "Tata Power"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7454767,
+          18.6234031
+        ]
+      },
+      "properties": {
+        "osm_id": 1152421163,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": "Tata Power",
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "brand": "Tata Power",
+          "capacity": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7807696,
+          18.5994671
+        ]
+      },
+      "properties": {
+        "osm_id": 1152424877,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "capacity": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8158088,
+          18.5807735
+        ]
+      },
+      "properties": {
+        "osm_id": 1152427340,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "yes",
+          "amenity": "charging_station",
+          "capacity": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8053923,
+          18.4571766
+        ]
+      },
+      "properties": {
+        "osm_id": 1221529119,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": "Shell EV Charging Station",
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": "Shell",
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "amenity": "charging_station",
+          "name": "Shell EV Charging Station",
+          "operator": "Shell",
+          "operator:wikidata": "Q110716465"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73858,
+          18.5794696
+        ]
+      },
+      "properties": {
+        "osm_id": 1222357597,
+        "osm_type": "way",
+        "category_declared": "Transport",
+        "subcategory_declared": "EV Charging",
+        "name": null,
+        "name_en": null,
+        "amenity": "charging_station",
+        "shop": "",
+        "tourism": "",
+        "leisure": "",
+        "railway": "",
+        "brand": null,
+        "operator": null,
+        "cuisine": null,
+        "addr_street": null,
+        "addr_suburb": null,
+        "addr_city": null,
+        "addr_postcode": null,
+        "phone": null,
+        "website": null,
+        "opening_hours": null,
+        "wheelchair": null,
+        "all_tags": {
+          "access": "private",
+          "amenity": "charging_station",
+          "capacity": "7"
+        }
+      }
+    }
+  ]
+}

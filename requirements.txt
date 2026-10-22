@@ -1,0 +1,17 @@
+# SmartServe GIS - Python Dependencies
+requests>=2.31.0
+pandas>=2.0.0
+geopandas>=0.14.0
+shapely>=2.0.0
+pyproj>=3.6.0
+matplotlib>=3.8.0
+folium>=0.16.0
+
+# Future backend dependencies (Phase 5+)
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.0
+geoalchemy2>=0.14.0
+pydantic>=2.6.0
+python-dotenv>=1.0.0

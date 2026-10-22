@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartServe GIS – Location-Based Multi-Service WebGIS Portal</title>
+    <meta name="description" content="Location-Based Multi-Service WebGIS Portal for Pune (PMC) and Pimpri-Chinchwad (PCMC). Interactive spatial proximity, KNN search, boundary overlays, and density analytics.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <!-- FontAwesome 6 Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Leaflet 1.9.4 CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/leaflet-custom.css">
+</head>
+<body>
+
+    <!-- 1. TOP HEADER -->
+    <header class="app-header">
+        <div class="brand-section">
+            <button id="sidebar-toggle" class="btn-header-action" title="Toggle Sidebar" style="display: none;">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <div class="brand-logo-icon">
+                <i class="fa-solid fa-map-location-dot"></i>
+            </div>
+            <div class="brand-title-group">
+                <h1>SmartServe GIS</h1>
+                <div class="brand-subtitle">Pune & PCMC WebGIS Portal</div>
+            </div>
+        </div>
+
+        <!-- Global Keyword Search with Real-time Autocomplete -->
+        <div class="header-search-box" id="header-search-container">
+            <div class="search-input-wrapper">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Search hospitals, schools, metro stations, malls..." autocomplete="off" spellcheck="false">
+                <button id="search-clear-btn" class="search-clear-btn" title="Clear search" type="button" style="display: none;">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <!-- Google-Style Autocomplete Dropdown -->
+            <div id="search-autocomplete-dropdown" class="search-autocomplete-dropdown" style="display: none;"></div>
+        </div>
+
+        <!-- Right Header Actions -->
+        <div class="header-actions">
+            <div id="backend-status-badge" class="status-badge" title="Connecting to Spatial Backend...">
+                <span class="status-dot offline"></span>
+                <span class="status-text">Connecting...</span>
+            </div>
+
+            <button id="btn-open-analytics" class="btn-header-action btn-analytics">
+                <i class="fa-solid fa-chart-pie"></i> Spatial Analytics
+            </button>
+
+            <button id="btn-open-help" class="btn-header-action" title="Project Information & Guide">
+                <i class="fa-solid fa-circle-question"></i> Info
+            </button>
+        </div>
+    </header>
+
+    <!-- 2. MAIN APPLICATION WORKSPACE -->
+    <main class="app-container">
+
+        <!-- LEFT SIDEBAR -->
+        <aside id="sidebar" class="app-sidebar">
+            <!-- Mode Switcher Tabs -->
+            <nav class="sidebar-tabs">
+                <button class="tab-btn active" data-tab="explore">
+                    <i class="fa-solid fa-compass"></i>
+                    <span>Explore</span>
+                </button>
+                <button class="tab-btn" data-tab="radius">
+                    <i class="fa-solid fa-circle-notch"></i>
+                    <span>Radius</span>
+                </button>
+                <button class="tab-btn" data-tab="knn">
+                    <i class="fa-solid fa-bolt"></i>
+                    <span>Nearest (KNN)</span>
+                </button>
+            </nav>
+
+            <!-- Scrollable Tab Content Area -->
+            <div class="tab-content">
+
+                <!-- TAB 1: EXPLORE & CATEGORY ACCORDION (PROXIMITY-FIRST) -->
+                <div id="panel-explore" class="tab-panel active">
+                    <!-- Search Origin Location -->
+                    <div class="form-group">
+                        <label class="form-label">
+                            <span>Your Location</span>
+                            <button class="btn-locate-me-mini btn-locate-me" title="Detect GPS Location">
+                                <i class="fa-solid fa-crosshairs"></i> GPS Auto
+                            </button>
+                        </label>
+                        <div class="location-card mini">
+                            <div class="loc-info">
+                                <i class="fa-solid fa-location-crosshairs"></i>
+                                <div class="loc-text">
+                                    <div class="loc-sub">Search Origin:</div>
+                                    <div class="active-loc-display">18.5204, 73.8567</div>
+                                </div>
+                            </div>
+                            <span class="explore-radius-badge" id="explore-radius-badge">2.0 km radius</span>
+                        </div>
+                        <span style="font-size: 0.70rem; color: var(--text-muted); margin-top: 2px;">
+                            <i class="fa-solid fa-hand-pointer"></i> Click anywhere on map to re-center search.
+                        </span>
+                    </div>
+
+                    <!-- Radius Quick Selector Pills -->
+                    <div class="form-group">
+                        <label class="form-label">
+                            <span>Filter Radius</span>
+                            <span id="explore-radius-text" style="color: #38bdf8; font-weight: 700;">2.0 km</span>
+                        </label>
+                        <div class="radius-pill-group">
+                            <div class="radius-pill" data-radius="1000">1 km</div>
+                            <div class="radius-pill active" data-radius="2000">2 km</div>
+                            <div class="radius-pill" data-radius="3000">3 km</div>
+                            <div class="radius-pill" data-radius="5000">5 km</div>
+                            <div class="radius-pill" data-radius="10000">10 km</div>
+                        </div>
+                    </div>
+
+                    <!-- Municipality Filter -->
+                    <div class="form-group">
+                        <label class="form-label">Municipality Scope</label>
+                        <div class="muni-pill-group">
+                            <div class="muni-pill active" data-muni="">All Region</div>
+                            <div class="muni-pill" data-muni="PMC">PMC (Pune)</div>
+                            <div class="muni-pill" data-muni="PCMC">PCMC</div>
+                        </div>
+                    </div>
+
+                    <!-- Category Hierarchy Accordion -->
+                    <div class="form-group">
+                        <label class="form-label">
+                            <span>Nearby Services by Category</span>
+                            <span style="font-size: 0.7rem; color: var(--text-muted);">Click to Show Nearby</span>
+                        </label>
+                        <div id="category-accordion" class="category-accordion">
+                            <!-- Populated dynamically from API -->
+                            <div style="padding: 20px; text-align: center; color: var(--text-muted);">
+                                <i class="fa-solid fa-spinner fa-spin"></i> Loading categories...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- TAB 2: RADIUS PROXIMITY SEARCH -->
+                <div id="panel-radius" class="tab-panel">
+                    <!-- Location Selector -->
+                    <div class="form-group">
+                        <label class="form-label">Search Origin Point</label>
+                        <div class="location-card">
+                            <div class="loc-info">
+                                <i class="fa-solid fa-location-crosshairs"></i>
+                                <div class="loc-text">
+                                    <div class="loc-sub">Current Origin:</div>
+                                    <div class="active-loc-display">18.5204, 73.8567</div>
+                                </div>
+                            </div>
+                            <button class="btn-locate-me" title="Use your device GPS">
+                                <i class="fa-solid fa-crosshairs"></i> GPS
+                            </button>
+                        </div>
+                        <span style="font-size: 0.72rem; color: var(--text-muted); margin-top: 4px;">
+                            <i class="fa-solid fa-info-circle"></i> Tip: Click anywhere on the map to change center.
+                        </span>
+                    </div>
+
+                    <!-- Radius Distance Slider -->
+                    <div class="form-group">
+                        <div class="slider-container">
+                            <div class="form-label">
+                                <span>Buffer Radius</span>
+                                <span id="radius-val-display" class="slider-val-badge">2.0 km</span>
+                            </div>
+                            <input type="range" id="radius-slider" class="custom-range-slider" min="500" max="10000" step="250" value="2000">
+                            <div style="display: flex; justify-content: space-between; font-size: 0.68rem; color: var(--text-muted);">
+                                <span>500 m</span>
+                                <span>5.0 km</span>
+                                <span>10.0 km</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Subcategory Filter within Radius -->
+                    <div class="form-group">
+                        <label class="form-label">Filter Within Circle</label>
+                        <select id="radius-subcat-select" class="form-select">
+                            <option value="">All Categories & Services</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- TAB 3: K-NEAREST NEIGHBORS (KNN) -->
+                <div id="panel-knn" class="tab-panel">
+                    <div class="form-group">
+                        <label class="form-label">Search Origin Point</label>
+                        <div class="location-card">
+                            <div class="loc-info">
+                                <i class="fa-solid fa-location-crosshairs"></i>
+                                <div class="loc-text">
+                                    <div class="loc-sub">Current Origin:</div>
+                                    <div class="active-loc-display">18.5204, 73.8567</div>
+                                </div>
+                            </div>
+                            <button class="btn-locate-me" title="Use your device GPS">
+                                <i class="fa-solid fa-crosshairs"></i> GPS
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Target Service Type -->
+                    <div class="form-group">
+                        <label class="form-label">Target Facility</label>
+                        <select id="knn-subcat-select" class="form-select">
+                            <option value="hospital">Hospitals</option>
+                            <option value="police_station">Police Stations</option>
+                            <option value="fuel_station">Fuel Stations</option>
+                            <option value="fire_station">Fire Stations</option>
+                        </select>
+                    </div>
+
+                    <!-- K Count Selector -->
+                    <div class="form-group">
+                        <label class="form-label">Find K Closest Facilities</label>
+                        <div class="k-pill-group">
+                            <div class="k-pill" data-k="1">1</div>
+                            <div class="k-pill" data-k="3">3</div>
+                            <div class="k-pill active" data-k="5">5</div>
+                            <div class="k-pill" data-k="10">10</div>
+                            <div class="k-pill" data-k="15">15</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Sidebar Sticky Footer -->
+            <div class="sidebar-footer">
+                <button id="btn-reset-filters" class="btn-reset">
+                    <i class="fa-solid fa-rotate-left"></i> Reset Filters
+                </button>
+                <div style="font-size: 0.72rem; color: var(--text-muted);">
+                    Spatial Index: <strong>PostGIS GiST</strong>
+                </div>
+            </div>
+        </aside>
+
+        <!-- CENTER MAP VIEWPORT -->
+        <section class="map-viewport-wrapper">
+            <!-- Map Container -->
+            <div id="map"></div>
+
+            <!-- Floating Map Layer Controls (Top Left) -->
+            <div class="map-floating-bar">
+                <div class="floating-glass-box">
+                    <i class="fa-solid fa-layer-group" style="color: var(--brand-accent);"></i>
+                    <select id="basemap-select">
+                        <option value="🗺️ OpenStreetMap" selected>OpenStreetMap (Default)</option>
+                        <option value="🏙️ Esri Streets">Esri Street Map</option>
+                        <option value="🌙 Dark Mode">Dark Canvas</option>
+                        <option value="🛰️ Satellite">Satellite Imagery</option>
+                    </select>
+                </div>
+
+                <div class="floating-glass-box">
+                    <label class="layer-toggle-label">
+                        <input type="checkbox" id="toggle-boundaries" checked>
+                        <span>PMC / PCMC Boundaries</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Bottom-Right Results List Drawer (Collapsible) -->
+            <div id="results-drawer" class="results-drawer collapsed">
+                <div id="results-drawer-header" class="results-drawer-header" title="Click to Expand / Collapse Results List">
+                    <h3>
+                        <i class="fa-solid fa-list-check" style="color: var(--brand-accent);"></i>
+                        <span id="results-label-text">Matching Services</span>
+                    </h3>
+                    <div class="results-header-actions">
+                        <span id="results-count-badge" class="results-count-badge">0</span>
+                        <button id="btn-toggle-drawer" class="btn-drawer-toggle" title="Expand / Collapse List">
+                            <i class="fa-solid fa-chevron-up"></i>
+                        </button>
+                    </div>
+                </div>
+                <div id="results-list" class="results-list">
+                    <!-- Populated dynamically with result cards -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- 3. SPATIAL ANALYTICS DASHBOARD MODAL -->
+    <div id="analytics-modal" class="modal-backdrop">
+        <div class="analytics-modal-container">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <i class="fa-solid fa-chart-column"></i>
+                    <h2>SmartServe Spatial Analytics Dashboard</h2>
+                </div>
+                <button id="btn-close-analytics" class="btn-close-modal">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+
+            <div class="modal-body">
+                <!-- Summary KPI Metric Cards -->
+                <div class="kpi-grid">
+                    <div class="kpi-card kpi-total">
+                        <span class="kpi-label">Total Facilities Mapped</span>
+                        <span id="kpi-total-pois" class="kpi-value">4,742</span>
+                    </div>
+                    <div class="kpi-card">
+                        <span class="kpi-label">Service Subcategories</span>
+                        <span id="kpi-total-cats" class="kpi-value">20</span>
+                    </div>
+                    <div class="kpi-card kpi-pmc">
+                        <span class="kpi-label">PMC (Pune) Services</span>
+                        <span id="kpi-pmc-pois" class="kpi-value">--</span>
+                    </div>
+                    <div class="kpi-card kpi-pcmc">
+                        <span class="kpi-label">PCMC Services</span>
+                        <span id="kpi-pcmc-pois" class="kpi-value">--</span>
+                    </div>
+                </div>
+
+                <!-- Chart Visualizations -->
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h4><i class="fa-solid fa-pie-chart" style="color: #3b82f6;"></i> Municipal Service Distribution</h4>
+                        <div class="chart-wrapper">
+                            <canvas id="chart-muni-share"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card">
+                        <h4><i class="fa-solid fa-chart-simple" style="color: #10b981;"></i> Spatial Density (POIs per km²)</h4>
+                        <div class="chart-wrapper">
+                            <canvas id="chart-density"></canvas>
+                        </div>
+                    </div>
+
+                    <div class="chart-card" style="grid-column: span 2;">
+                        <h4><i class="fa-solid fa-chart-bar" style="color: #6366f1;"></i> Facilities Count by Service Domain</h4>
+                        <div class="chart-wrapper" style="height: 240px;">
+                            <canvas id="chart-categories"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 4. PROJECT INFO & GUIDE MODAL -->
+    <div id="help-modal" class="modal-backdrop">
+        <div class="analytics-modal-container" style="max-width: 680px;">
+            <div class="modal-header">
+                <div class="modal-title-group">
+                    <i class="fa-solid fa-graduation-cap" style="color: var(--brand-accent);"></i>
+                    <h2>About SmartServe GIS</h2>
+                </div>
+                <button id="btn-close-help" class="btn-close-modal">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="modal-body" style="font-size: 0.88rem; line-height: 1.6; color: #cbd5e1;">
+                <h3 style="color: #fff; margin-bottom: 8px;">Project Title</h3>
+                <p><strong>SmartServe GIS – Location-Based Multi-Service WebGIS Portal for Pune and Pimpri-Chinchwad</strong></p>
+                <p style="margin-top: 4px;">MSc Data Science WebGIS Course Final Project.</p>
+
+                <h3 style="color: #fff; margin-top: 16px; margin-bottom: 8px;">System Architecture & Technology Stack</h3>
+                <ul style="padding-left: 20px; display: flex; flex-direction: column; gap: 6px;">
+                    <li><strong>Spatial Database:</strong> PostgreSQL 16 + PostGIS extension with 2D GiST spatial indexing on <code>geography(Point, 4326)</code>.</li>
+                    <li><strong>Backend API:</strong> Python FastAPI + GeoAlchemy2 + SQLAlchemy 2.0 with asynchronous native spatial SQL.</li>
+                    <li><strong>Frontend Mapping:</strong> Leaflet.js 1.9.4 + Leaflet.markercluster + Chart.js 4.4 + Modern Vanilla CSS3.</li>
+                    <li><strong>Spatial Functions:</strong> <code>ST_DWithin</code> (Proximity Buffers), <code>&lt;-&gt;</code> (KNN Nearest Distance), <code>ST_AsGeoJSON</code>, <code>ST_Contains</code>.</li>
+                </ul>
+
+                <h3 style="color: #fff; margin-top: 16px; margin-bottom: 8px;">How to Use the Portal</h3>
+                <ol style="padding-left: 20px; display: flex; flex-direction: column; gap: 6px;">
+                    <li><strong>Explore:</strong> Filter by municipal boundary or click any category to inspect public facilities.</li>
+                    <li><strong>Radius Buffer:</strong> Drag the distance slider (500m - 10km) or click anywhere on the map to find nearby services with travel times.</li>
+                    <li><strong>Nearest (KNN):</strong> Find the top K closest hospitals, fuel pumps, or police stations instantly.</li>
+                    <li><strong>Spatial Analytics:</strong> Click the top Analytics button to explore POI density and municipal service metrics.</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+
+    <!-- 5. GLOBAL LOADER & TOAST CONTAINER -->
+    <div id="global-loader" class="global-loader">
+        <div class="spinner"></div>
+        <span>Querying PostGIS...</span>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+    <!-- Application JavaScript Modules -->
+    <script src="js/config.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/charts.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>

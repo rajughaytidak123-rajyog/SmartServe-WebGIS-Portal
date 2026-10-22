@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SmartServe GIS — Multi-Service Spatial Portal (Pune & PCMC)</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body, html { height: 100%; width: 100%; overflow: hidden; display: flex; flex-direction: column; }
+    
+    header {
+      background: #1a365d; color: white; padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; box-shadow: 0 2px 10px rgba(0,0,0,0.2); z-index: 1001;
+    }
+    header h1 { font-size: 18px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+    header .badge { background: #3182ce; padding: 4px 10px; border-radius: 20px; font-size: 12px; font-weight: 600; }
+    
+    #container { display: flex; flex: 1; position: relative; }
+    #sidebar {
+      width: 340px; background: #ffffff; border-right: 1px solid #e2e8f0; display: flex; flex-direction: column; z-index: 1000; box-shadow: 2px 0 10px rgba(0,0,0,0.05);
+    }
+    .sidebar-header { padding: 16px; border-bottom: 1px solid #edf2f7; background: #f8fafc; }
+    .search-box {
+      width: 100%; padding: 10px 14px; border: 1.5px solid #cbd5e0; border-radius: 8px; font-size: 13.5px; outline: none; transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: #3182ce; }
+    
+    .category-filter {
+      margin-top: 10px; width: 100%; padding: 9px 12px; border: 1.5px solid #cbd5e0; border-radius: 8px; font-size: 13px; background: white; outline: none;
+    }
+    
+    .stats-summary { padding: 12px 16px; background: #ebf8ff; border-bottom: 1px solid #bee3f8; font-size: 12.5px; color: #2b6cb0; display: flex; justify-content: space-between; }
+    
+    #results-list { flex: 1; overflow-y: auto; padding: 10px; }
+    .service-card {
+      background: white; border: 1px solid #e2e8f0; border-radius: 8px; padding: 12px; margin-bottom: 8px; cursor: pointer; transition: all 0.2s;
+    }
+    .service-card:hover { border-color: #3182ce; transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,0.06); }
+    .service-card h3 { font-size: 14px; color: #1a202c; margin-bottom: 4px; display: flex; align-items: center; gap: 6px; }
+    .service-card .cat-tag { display: inline-block; font-size: 11px; padding: 2px 6px; border-radius: 4px; background: #edf2f7; color: #4a5568; font-weight: 500; margin-bottom: 6px; }
+    .service-card .addr { font-size: 12px; color: #718096; line-height: 1.35; }
+    
+    #map { flex: 1; height: 100%; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🗺️ SmartServe GIS</h1>
+    <div>
+      <span class="badge">Study Area: Pune + PCMC</span>
+      <span class="badge" style="background:#2b6cb0; margin-left:6px;">4742 POIs Loaded</span>
+    </div>
+  </header>
+
+  <div id="container">
+    <div id="sidebar">
+      <div class="sidebar-header">
+        <input type="text" id="searchInput" class="search-box" placeholder="🔍 Search service by name..." />
+        <select id="categorySelect" class="category-filter">
+          <option value="ALL">🌟 All Categories (4742)</option>
+          <option value="Healthcare">🏥 Healthcare</option>
+          <option value="Food">🍔 Food & Dining</option>
+          <option value="Transport">🚗 Transport & Fuel</option>
+          <option value="Finance">🏧 Finance & Banking</option>
+          <option value="Education">🏫 Education</option>
+          <option value="Emergency">🚨 Emergency Services</option>
+          <option value="Shopping">🛍️ Shopping</option>
+          <option value="Accommodation">🏨 Accommodation</option>
+          <option value="Recreation">🌳 Recreation & Parks</option>
+        </select>
+      </div>
+      <div class="stats-summary">
+        <span>Showing: <strong id="shownCount">4742</strong> services</span>
+        <span>PMC: <strong>3536</strong> | PCMC: <strong>1206</strong></span>
+      </div>
+      <div id="results-list"></div>
+    </div>
+    <div id="map"></div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    const map = L.map('map').setView([18.55, 73.85], 11);
+    
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+    // Boundary overlay
+    fetch('../boundary/pmc_pcmc_combined.geojson')
+      .then(r => r.json())
+      .then(bData => {
+        L.geoJSON(bData, {
+          style: f => ({
+            color: f.properties.municipality === 'PMC' ? '#2b6cb0' : '#276749',
+            weight: 2,
+            fillColor: f.properties.municipality === 'PMC' ? '#3182ce' : '#38a169',
+            fillOpacity: 0.1
+          })
+        }).addTo(map);
+      });
+
+    const iconMap = {
+      'Hospital': '🏥', 'Clinic': '🩺', 'Pharmacy': '💊',
+      'Restaurant': '🍔', 'Cafe': '☕', 'Bakery': '🥐',
+      'Petrol Pump': '⛽', 'EV Charging': '🔋', 'Metro Station': '🚇', 'Bus Station': '🚌',
+      'Hotel': '🏨', 'ATM': '🏧', 'Bank': '🏦',
+      'Police Station': '👮', 'Fire Station': '🚒',
+      'School': '🏫', 'College': '🎓',
+      'Shopping Mall': '🛍️', 'Supermarket': '🛒',
+      'Park': '🌳'
+    };
+
+    let allFeatures = [];
+    const markerCluster = L.markerClusterGroup({ maxClusterRadius: 40 });
+    map.addLayer(markerCluster);
+
+    const markersById = {};
+
+    fetch('../final/all_services.geojson')
+      .then(r => r.json())
+      .then(data => {
+        allFeatures = data.features;
+        renderMapAndList(allFeatures);
+      });
+
+    function renderMapAndList(features) {
+      markerCluster.clearLayers();
+      const listContainer = document.getElementById('results-list');
+      listContainer.innerHTML = '';
+      document.getElementById('shownCount').innerText = features.length;
+
+      features.forEach(f => {
+        const p = f.properties;
+        const icon = iconMap[p.subcategory] || '📍';
+        const latlng = [f.geometry.coordinates[1], f.geometry.coordinates[0]];
+
+        const marker = L.circleMarker(latlng, {
+          radius: 6,
+          fillColor: '#3182ce',
+          color: '#ffffff',
+          weight: 1.5,
+          fillOpacity: 0.85
+        });
+
+        marker.bindPopup(`
+          <div style="font-size:13px; line-height:1.45;">
+            <h4 style="margin:0 0 4px 0; color:#2b6cb0;">${icon} ${p.name}</h4>
+            <strong>Category:</strong> ${p.category} (${p.subcategory})<br>
+            <strong>Municipality:</strong> ${p.municipality}<br>
+            <strong>Address:</strong> ${p.address || 'N/A'}<br>
+            ${p.phone ? `<strong>Phone:</strong> ${p.phone}<br>` : ''}
+            ${p.website ? `<strong>Website:</strong> <a href="${p.website}" target="_blank">Visit Web</a><br>` : ''}
+            ${p.opening_hours ? `<strong>Hours:</strong> ${p.opening_hours}<br>` : ''}
+            <small style="color:#a0aec0;">ID: #${p.id} | OSM: ${p.osm_id}</small>
+          </div>
+        `);
+
+        markerCluster.addLayer(marker);
+        markersById[p.id] = marker;
+
+        // Render card
+        const card = document.createElement('div');
+        card.className = 'service-card';
+        card.innerHTML = `
+          <h3>${icon} ${p.name}</h3>
+          <div><span class="cat-tag">${p.subcategory}</span> <span class="cat-tag" style="background:#ebf8ff; color:#2b6cb0;">${p.municipality}</span></div>
+          <div class="addr">${p.address}</div>
+        `;
+        card.onclick = () => {
+          map.setView(latlng, 16);
+          marker.openPopup();
+        };
+        listContainer.appendChild(card);
+      });
+    }
+
+    // Filter handlers
+    function applyFilters() {
+      const query = document.getElementById('searchInput').value.toLowerCase().trim();
+      const selectedCat = document.getElementById('categorySelect').value;
+
+      const filtered = allFeatures.filter(f => {
+        const p = f.properties;
+        const matchesQuery = !query || p.name.toLowerCase().includes(query) || (p.address && p.address.toLowerCase().includes(query));
+        const matchesCat = (selectedCat === 'ALL') || (p.category === selectedCat);
+        return matchesQuery && matchesCat;
+      });
+
+      renderMapAndList(filtered);
+    }
+
+    document.getElementById('searchInput').addEventListener('input', applyFilters);
+    document.getElementById('categorySelect').addEventListener('change', applyFilters);
+  </script>
+</body>
+</html>
