@@ -12,10 +12,12 @@ def main():
     print("=" * 70)
     print("  SMARTSERVE GIS - FASTAPI SPATIAL BACKEND SERVER")
     print("=" * 70)
-    print("🚀 Starting server at: http://127.0.0.1:8000")
-    print("📖 Interactive Swagger UI: http://127.0.0.1:8000/docs")
-    print("📚 ReDoc API Reference: http://127.0.0.1:8000/redoc")
-    print("🔍 Health Check: http://127.0.0.1:8000/health")
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    print("[*] Starting server at: http://127.0.0.1:8000")
+    print("[*] Interactive Swagger UI: http://127.0.0.1:8000/docs")
+    print("[*] ReDoc API Reference: http://127.0.0.1:8000/redoc")
+    print("[*] Health Check: http://127.0.0.1:8000/health")
     print("=" * 70)
 
     uvicorn.run(

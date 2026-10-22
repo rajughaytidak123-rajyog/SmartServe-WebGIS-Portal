@@ -27,10 +27,12 @@ def main():
     print("  SMARTSERVE GIS - WEBGIS FRONTEND PORTAL")
     print("  Pune & Pimpri-Chinchwad Multi-Service Spatial Platform")
     print("=" * 70)
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     print(f"\n[INFO] Serving frontend files from: {DIRECTORY}")
     print(f"[SUCCESS] Frontend URL: http://127.0.0.1:{PORT}")
     print(f"[INFO] Make sure your FastAPI backend is running on http://127.0.0.1:8000")
-    print("\n👉 Press Ctrl + C to stop the frontend server.\n")
+    print("\n[INFO] Press Ctrl + C to stop the frontend server.\n")
 
     # Attempt to open browser automatically
     try:

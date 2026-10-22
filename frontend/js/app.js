@@ -103,6 +103,23 @@ class SmartServeApp {
             // Initial Load: Show services within the user's active radius
             await this.executeRadiusSearch();
 
+            // Handle URL parameters for direct view showcase (e.g., ?tab=radius or ?modal=analytics)
+            try {
+                const urlParams = new URLSearchParams(window.location.search);
+                const reqTab = urlParams.get('tab');
+                if (reqTab && ['explore', 'radius', 'knn'].includes(reqTab)) {
+                    this.switchTab(reqTab);
+                }
+                if (urlParams.get('modal') === 'analytics') {
+                    setTimeout(() => {
+                        const btn = document.getElementById('btn-open-analytics');
+                        if (btn) btn.click();
+                    }, 600);
+                }
+            } catch (paramErr) {
+                console.warn('URL parameter parsing skipped:', paramErr);
+            }
+
         } catch (error) {
             console.error('[App Error] Initial data load failed:', error);
             this.showToast('Could not connect to backend server. Make sure FastAPI is running on port 8000.', 'error');
